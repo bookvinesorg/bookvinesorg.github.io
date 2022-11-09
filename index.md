@@ -18,4 +18,5 @@
 - **旅游 《瑞士 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/30450328/)_  &ensp;&ensp;在库未出
 - **旅游 《爱尔兰 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/27195756/)_  &ensp;&ensp;在库未出
 - **旅游 《冰岛 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/30134993/)_  &ensp;&ensp;在库未出
+- **经济 《零边界成本社会--一个物联网、合作共赢的新经济时代》**  _[图书介绍](https://book.douban.com/subject/25986746/)_  &ensp;&ensp;在库未出
 ......

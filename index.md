@@ -29,6 +29,6 @@
 
 ### 2023年二季度发布书单 ###
 
-- **文化《菜根谭呻吟语》** _[图书介绍](https://book.douban.com/subject/2023336/)_ &ensp;&ensp;在库未出
+- **文化《卡耐基人际关系心理学》** _[图书介绍](https://book.douban.com/subject/2338699/)_ &ensp;&ensp;在库未出
 - **文化《世界幽默艺术博览》** _[图书介绍](https://book.douban.com/subject/1639295/)_ &ensp;&ensp;在库未出
 - 

@@ -8,7 +8,20 @@
 
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。
 
----
+
+
+### 2023年二季度发布书单 ###
+
+- **社科《卡耐基人际关系心理学》** _[图书介绍](https://book.douban.com/subject/2338699/)_ &ensp;&ensp;在库未出
+- **文化《世界幽默艺术博览》** _[图书介绍](https://book.douban.com/subject/1639295/)_ &ensp;&ensp;在库未出
+- **企业 《FaceBook效应》** _[图书介绍](https://book.douban.com/subject/5313010/)_ 在库未出
+-  **社科 《气场》** _[图书介绍](https://book.douban.com/subject/5325861/)_  &ensp;&ensp;在库未出
+
+
+### 2023年一季度发布书单 ###
+
+- **健身《跑步圣经》** _[图书介绍](https://book.douban.com/subject/26326484/)_ &ensp;&ensp;在库未出
+- **历史《帝国的惆怅：中国创痛社会的政治与人性》** _[图书介绍](https://book.douban.com/subject/1421029/)_ &ensp;&ensp;在库未出
 
 ### 2022年四季度 发布书单 ###
 
@@ -22,13 +35,5 @@
 - **经济 《零边界成本社会--一个物联网、合作共赢的新经济时代》**  _[图书介绍](https://book.douban.com/subject/25986746/)_  &ensp;&ensp;在库未出
 
 
-### 2023年一季度发布书单 ###
 
-- **健身《跑步圣经》** _[图书介绍](https://book.douban.com/subject/26326484/)_ &ensp;&ensp;在库未出
-- **历史《帝国的惆怅：中国创痛社会的政治与人性》** _[图书介绍](https://book.douban.com/subject/1421029/)_ &ensp;&ensp;在库未出
 
-### 2023年二季度发布书单 ###
-
-- **文化《卡耐基人际关系心理学》** _[图书介绍](https://book.douban.com/subject/2338699/)_ &ensp;&ensp;在库未出
-- **文化《世界幽默艺术博览》** _[图书介绍](https://book.douban.com/subject/1639295/)_ &ensp;&ensp;在库未出
-- 

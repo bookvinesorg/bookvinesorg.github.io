@@ -12,6 +12,8 @@
 
 ### 2023年二季度发布书单 ###
 
+- **文化《鲍勃.迪伦诗歌集》7册** _[图书介绍](https://book.douban.com/subject/27032027/)_ &ensp;&ensp;在库未出
+
 - **社科《卡耐基人际关系心理学》** _[图书介绍](https://book.douban.com/subject/2338699/)_ &ensp;&ensp;在库未出
 - **文化《世界幽默艺术博览》** _[图书介绍](https://book.douban.com/subject/1639295/)_ &ensp;&ensp;在库未出
 - **企业 《FaceBook效应》** _[图书介绍](https://book.douban.com/subject/5313010/)_ 在库未出

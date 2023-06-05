@@ -12,8 +12,11 @@
 
 ### 2023年二季度发布书单 ###
 
+- **文化《城市就是健身房:跑酷与自身体重训练》** _[图书介绍](https://book.douban.com/subject/26201055/)_ &ensp;&ensp;在库未出
+- **文化《魔鬼辞典》** _[图书介绍](https://book.douban.com/subject/1013137/)_ &ensp;&ensp;在库未出
+- **散文《祖先的深度》** _[图书介绍](https://book.douban.com/subject/1411107/)_ &ensp;&ensp;在库未出
+- **文化《做派》** _[图书介绍](https://book.douban.com/subject/1512430/)_ &ensp;&ensp;在库未出
 - **文化《鲍勃.迪伦诗歌集》7册** _[图书介绍](https://book.douban.com/subject/27032027/)_ &ensp;&ensp;在库未出
-
 - **社科《卡耐基人际关系心理学》** _[图书介绍](https://book.douban.com/subject/2338699/)_ &ensp;&ensp;在库未出
 - **文化《世界幽默艺术博览》** _[图书介绍](https://book.douban.com/subject/1639295/)_ &ensp;&ensp;在库未出
 - **企业 《FaceBook效应》** _[图书介绍](https://book.douban.com/subject/5313010/)_ 在库未出

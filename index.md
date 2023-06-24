@@ -11,6 +11,7 @@
 
 
 ### 2023年二季度发布书单 ###
+- **专业《摄影爱好者必备手册》** _[图书介绍](https://book.douban.com/subject/1214439/)_ &ensp;&ensp;在库未出
 - **文化《IBM 蓝色基因 百年智慧》** _[图书介绍](https://book.douban.com/subject/6965594/)_ &ensp;&ensp;在库未出
 - **写作《创意写作教学 实用方法50例》** _[图书介绍](https://book.douban.com/subject/25849697/)_ &ensp;&ensp;在库未出
 - **写作《情节！情节！ 通过人物、悬念与冲突赋予故事生命力》** _[图书介绍](https://book.douban.com/subject/10834606/)_ &ensp;&ensp;在库未出

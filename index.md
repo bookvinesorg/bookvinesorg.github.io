@@ -11,6 +11,21 @@
 
 
 ### 2023年二季度发布书单 ###
+- **文化《寻城记：重庆》** _[图书介绍](https://book.douban.com/subject/2025990/)_ &ensp;&ensp;在库未出
+- **文艺《精短新诗200首》** _[图书介绍](https://book.douban.com/subject/3458377/)_ &ensp;&ensp;在库未出
+- **文化《风声水起：风水方家谭》** _[图书介绍](https://book.douban.com/subject/2143461/)_ &ensp;&ensp;在库未出
+- **文化《叶隐闻书》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库未出
+- **文艺《流浪集》** _[图书介绍](https://book.douban.com/subject/4208780/)_ &ensp;&ensp;在库未出
+- **文化《大国大城》** _[图书介绍](https://book.douban.com/subject/26824237/)_ &ensp;&ensp;在库未出
+- **文化《钝感力》** _[图书介绍](https://book.douban.com/subject/2119843/)_ &ensp;&ensp;在库未出
+- **专业《心理测量与评估（心理学基础课系列教材）》** _[图书介绍](https://book.douban.com/subject/1955415/)_ &ensp;&ensp;在库未出
+- **传记《帝国如风：元朝的另类历史》** _[图书介绍](https://book.douban.com/subject/1891104/)_ &ensp;&ensp;在库未出
+- **文化《仙骨佛心-家具、紫砂与明清文人》** _[图书介绍](https://book.douban.com/subject/4011281/)_ &ensp;&ensp;在库未出
+- **传记《傅雷家书（傅敏编）》** _[图书介绍](https://book.douban.com/subject/4881264/)_ &ensp;&ensp;在库未出
+- **传记《失焦：卡帕传》** _[图书介绍](https://book.douban.com/subject/10557523/)_ &ensp;&ensp;在库未出
+- **传记《二手时间》** _[图书介绍](https://book.douban.com/subject/26704403/)_ &ensp;&ensp;在库未出
+- **传记《江城》** _[图书介绍](https://book.douban.com/subject/7060185/)_ &ensp;&ensp;在库未出
+- **文化《散文的可能性》** _[图书介绍](https://book.douban.com/subject/1973442/)_ &ensp;&ensp;在库未出
 - **专业《摄影爱好者必备手册》** _[图书介绍](https://book.douban.com/subject/1214439/)_ &ensp;&ensp;在库未出
 - **文化《IBM 蓝色基因 百年智慧》** _[图书介绍](https://book.douban.com/subject/6965594/)_ &ensp;&ensp;在库未出
 - **写作《创意写作教学 实用方法50例》** _[图书介绍](https://book.douban.com/subject/25849697/)_ &ensp;&ensp;在库未出

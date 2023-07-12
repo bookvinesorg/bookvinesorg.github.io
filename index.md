@@ -8,7 +8,10 @@
 
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。
 
+### 2023年三季度发布书单 ###
 
+- **文化《伪雅史》** _[图书介绍](https://book.douban.com/subject/5991773/)_ &ensp;&ensp;在库未出
+- **传记《我们仨》** _[图书介绍](https://book.douban.com/subject/1023045/)_ &ensp;&ensp;在库未出
 
 ### 2023年二季度发布书单 ###
 - **文化《寻城记：重庆》** _[图书介绍](https://book.douban.com/subject/2025990/)_ &ensp;&ensp;在库未出

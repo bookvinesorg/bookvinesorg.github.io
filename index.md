@@ -10,7 +10,13 @@
 
 ### 2023年三季度发布书单 ###
 
+- **传记《这些人那些事》** _[图书介绍](https://book.douban.com/subject/6388661/)_ &ensp;&ensp;在库未出
+- **文化《毛姆读书随笔》** _[图书介绍](https://book.douban.com/subject/1016429/)_ &ensp;&ensp;在库未出
 - **文化《伪雅史》** _[图书介绍](https://book.douban.com/subject/5991773/)_ &ensp;&ensp;在库未出
+- **文化《退步集》** _[图书介绍](https://book.douban.com/subject/1003284/)_ &ensp;&ensp;在库未出
+- **文化《荒废集》** _[图书介绍](https://book.douban.com/subject/3333989/)_ &ensp;&ensp;在库未出
+- **文化《多余的素材》** _[图书介绍](https://book.douban.com/subject/2287508/)_ &ensp;&ensp;在库未出
+- **文化《草草集》** _[图书介绍](https://book.douban.com/subject/25804641/)_ &ensp;&ensp;在库未出
 - **传记《我们仨》** _[图书介绍](https://book.douban.com/subject/1023045/)_ &ensp;&ensp;在库未出
 
 ### 2023年二季度发布书单 ###

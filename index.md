@@ -9,8 +9,6 @@
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。
 
 ### 2023年三季度发布书单 ###
-
-
 - **文化《禅.生命的微笑》** _[图书介绍](https://book.douban.com/subject/1007652/)_ &ensp;&ensp;在库未出
 - **传记《这些人那些事》** _[图书介绍](https://book.douban.com/subject/6388661/)_ &ensp;&ensp;在库未出
 - **文化《毛姆读书随笔》** _[图书介绍](https://book.douban.com/subject/1016429/)_ &ensp;&ensp;在库未出

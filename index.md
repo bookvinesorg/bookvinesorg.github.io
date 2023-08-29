@@ -9,6 +9,9 @@
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。
 
 ### 2023年三季度发布书单 ###
+- **传记《海德格尔传》** _[图书介绍](https://book.douban.com/subject/1709907/)_ &ensp;&ensp;在库未出
+- **小说《牵风记》** _[图书介绍](https://book.douban.com/subject/34969924/)_ &ensp;&ensp;在库未出
+- **文化《消解设计的界限》** _[图书介绍](https://book.douban.com/subject/4720817/)_ &ensp;&ensp;在库未出
 - **传记《发现的乐趣-费曼演讲.访谈集》** _[图书介绍](https://book.douban.com/subject/26776967/)_ &ensp;&ensp;在库未出
 - **文化《禅.生命的微笑》** _[图书介绍](https://book.douban.com/subject/1007652/)_ &ensp;&ensp;在库未出
 - **传记《这些人那些事》** _[图书介绍](https://book.douban.com/subject/6388661/)_ &ensp;&ensp;在库未出

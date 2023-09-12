@@ -10,6 +10,8 @@
 
 ### 2023年三季度发布书单 ###
 
+- **文化《2003中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
+- **文化《2002中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
 - **文化《隐形的力量：心灵秘密与内省之道》** _[图书介绍](https://book.douban.com/subject/3932529/)_ &ensp;&ensp;在库未出
 - **传记《海德格尔传》** _[图书介绍](https://book.douban.com/subject/1709907/)_ &ensp;&ensp;在库未出
 - **小说《牵风记》** _[图书介绍](https://book.douban.com/subject/34969924/)_ &ensp;&ensp;在库未出

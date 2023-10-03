@@ -1,15 +1,15 @@
 # 书蔓社
 
-## 书蔓社免费书单 ##
-
-&ensp;&ensp;&ensp;&ensp;书蔓社近期将释放相当规模的旧实体书，采用书单发布寄送方式（到付），采用先到先得方式，可自“书蔓社”公众号输入“预定图书"进一步获取联系方式。
+## 已阅书单 ##
 
 &ensp;&ensp;&ensp;&ensp;所有书籍均为已阅书籍，部分为旧版书籍，可能有阅读和标注痕迹，书封有书蔓社藏书章或枫藏书章。
 
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。
 
-### 2023年三季度发布书单 ###
+### 2023年四季度发布书单 ###
 
+### 2023年三季度发布书单 ###
+- **成功学 《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;在库未出
 - **文化《2003中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
 - **文化《2002中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
 - **文化《隐形的力量：心灵秘密与内省之道》** _[图书介绍](https://book.douban.com/subject/3932529/)_ &ensp;&ensp;在库未出
@@ -74,10 +74,3 @@
 - **旅游 《爱尔兰 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/27195756/)_  &ensp;&ensp;在库未出
 - **旅游 《冰岛 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/30134993/)_  &ensp;&ensp;在库未出
 - **经济 《零边界成本社会--一个物联网、合作共赢的新经济时代》**  _[图书介绍](https://book.douban.com/subject/25986746/)_  &ensp;&ensp;在库未出
-
-
-
-
-
-
-[def]: https://book.douban.com/subject/26776967/

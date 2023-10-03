@@ -9,7 +9,7 @@
 ### 2023年四季度发布书单 ###
 
 ### 2023年三季度发布书单 ###
-- **成功学 《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;在库未出
+- **成功学《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;在库未出
 - **文化《2003中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
 - **文化《2002中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
 - **文化《隐形的力量：心灵秘密与内省之道》** _[图书介绍](https://book.douban.com/subject/3932529/)_ &ensp;&ensp;在库未出

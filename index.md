@@ -7,6 +7,10 @@
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。
 
 ### 2023年四季度发布书单 ###
+- **成功学《忠诚:致加西亚的信》** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出
+- **文学《2000中国年度最佳诗歌》** _[图书介绍](https://book.douban.com/subject/1058620/)_ &ensp;&ensp;在库未出
+- **游记《好像永远住下去：搜索台湾最美民宿》** _[图书介绍](https://book.douban.com/subject/26718468/)_ &ensp;&ensp;在库未出
+
 
 ### 2023年三季度发布书单 ###
 - **成功学《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;在库未出
@@ -52,7 +56,7 @@
 - **文化《城市就是健身房:跑酷与自身体重训练》** _[图书介绍](https://book.douban.com/subject/26201055/)_ &ensp;&ensp;在库未出
 - **文化《魔鬼辞典》** _[图书介绍](https://book.douban.com/subject/1013137/)_ &ensp;&ensp;在库未出
 - **散文《祖先的深度》** _[图书介绍](https://book.douban.com/subject/1411107/)_ &ensp;&ensp;在库未出
-- **文化《鲍勃.迪伦诗歌集》7册** _[图书介绍](https://book.douban.com/subject/27032027/)_ &ensp;&ensp;在库未出
+- **文化《鲍勃.迪伦诗歌集》全8册** _[图书介绍](https://book.douban.com/subject/27032027/)_ &ensp;&ensp;出库已清
 - **社科《卡耐基人际关系心理学》** _[图书介绍](https://book.douban.com/subject/2338699/)_ &ensp;&ensp;在库未出
 - **文化《世界幽默艺术博览》** _[图书介绍](https://book.douban.com/subject/1639295/)_ &ensp;&ensp;在库未出
 - **企业 《FaceBook效应》** _[图书介绍](https://book.douban.com/subject/5313010/)_ 在库未出

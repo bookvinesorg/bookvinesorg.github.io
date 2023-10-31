@@ -35,7 +35,7 @@
 - **文化 《河流生命论》** _[图书介绍](https://book.douban.com/subject/2309291/)_ &ensp;&ensp;在库未出
 - **传记 《高卢战记》** _[图书介绍](https://book.douban.com/subject/1511912/)_ &ensp;&ensp;在库未出
 - **文化 《行云纪：《刺客聂隐娘》拍摄侧录》** _[图书介绍](https://book.douban.com/subject/26434974/)_ &ensp;&ensp;在库未出
-- **文学 《金瓶梅词话 梅节校订版》（4册）** _(未知)_  &ensp;&ensp;在库未出
+- ~~**文学 《金瓶梅词话 梅节校订版》（4册）** _(未知)_  &ensp;&ensp;在库未出~~
 - **文学 《世界中篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
 - **文学 《世界短篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
 
@@ -54,7 +54,7 @@
 - **传记《发现的乐趣-费曼演讲.访谈集》** _[图书介绍](https://book.douban.com/subject/26776967/)_ &ensp;&ensp;在库未出
 - **文化《禅.生命的微笑》** _[图书介绍](https://book.douban.com/subject/1007652/)_ &ensp;&ensp;在库未出
 - ~~**传记《这些人那些事》** _[图书介绍](https://book.douban.com/subject/6388661/)_ &ensp;&ensp;~~出库已清
-- **文化《毛姆读书随笔》** _[图书介绍](https://book.douban.com/subject/1016429/)_ &ensp;&ensp;在库未出
+- ~~**文化《毛姆读书随笔》** _[图书介绍](https://book.douban.com/subject/1016429/)_ &ensp;&ensp;在库未出~~
 - **文化《伪雅史》** _[图书介绍](https://book.douban.com/subject/5991773/)_ &ensp;&ensp;在库未出
 - **文化《退步集》** _[图书介绍](https://book.douban.com/subject/1003284/)_ &ensp;&ensp;在库未出
 - **文化《荒废集》** _[图书介绍](https://book.douban.com/subject/3333989/)_ &ensp;&ensp;在库未出

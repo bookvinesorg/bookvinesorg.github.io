@@ -36,8 +36,8 @@
 - ~~**文学 《金瓶梅词话 梅节校订版》（4册）** _(未知)_  &ensp;&ensp;出库已清~~
 - **文学 《世界中篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
 - **文学 《世界短篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
-- **哲学 《情爱论》 **_[图书介绍](https://book.douban.com/subject/2056342/)_ &ensp;&ensp;在库未出
-- **商业 《只有偏执狂才能生存》 **_[图书介绍](https://book.douban.com/subject/1940579/)_ &ensp;&ensp;在库未出
+- **哲学 《情爱论》**_[图书介绍](https://book.douban.com/subject/2056342/)_ &ensp;&ensp;在库未出
+- **商业 《只有偏执狂才能生存》**_[图书介绍](https://book.douban.com/subject/1940579/)_ &ensp;&ensp;在库未出
 
 ### 2023年三季度发布书单 ###
 - **成功学《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;在库未出
@@ -59,10 +59,8 @@
 - ~~**传记《我们仨》** _[图书介绍](https://book.douban.com/subject/1023045/)_ &ensp;&ensp;出库已清~~
 
 ### 2023年二季度发布书单 ###
-- **文化《寻城记：重庆》** _[图书介绍](https://book.douban.com/subject/2025990/)_ &ensp;&ensp;在库未出
+- ~~**文化《寻城记：重庆》** _[图书介绍](https://book.douban.com/subject/2025990/)_ &ensp;&ensp;出库已清~~
 - **文艺《精短新诗200首》** _[图书介绍](https://book.douban.com/subject/3458377/)_ &ensp;&ensp;在库未出
-- **文化《风声水起：风水方家谭》** _[图书介绍](https://book.douban.com/subject/2143461/)_ &ensp;&ensp;在库未出
-- **文化《叶隐闻书》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库未出
 - **文艺《流浪集》** _[图书介绍](https://book.douban.com/subject/4208780/)_ &ensp;&ensp;在库未出
 - ~~**文化《大国大城》** _[图书介绍](https://book.douban.com/subject/26824237/)_ &ensp;&ensp;~~出库已清
 - ~~**文化《钝感力》** _[图书介绍](https://book.douban.com/subject/2119843/)_ &ensp;&ensp;出库已清~~
@@ -76,7 +74,7 @@
 - ~~**文化《散文的可能性》** _[图书介绍](https://book.douban.com/subject/1973442/)_ &ensp;&ensp;出库已清~~
 - **专业《摄影爱好者必备手册》** _[图书介绍](https://book.douban.com/subject/1214439/)_ &ensp;&ensp;在库未出
 - **文化《IBM 蓝色基因 百年智慧》** _[图书介绍](https://book.douban.com/subject/6965594/)_ &ensp;&ensp;在库未出
-- ~~**写作《创意写作教学 实用方法50例》** _[图书介绍](https://book.douban.com/subject/25849697/)_ &ensp;&ensp;出库已清~~
+- **写作《创意写作教学 实用方法50例》** _[图书介绍](https://book.douban.com/subject/25849697/)_ &ensp;&ensp;在库未出
 - ~~**写作《情节！情节！ 通过人物、悬念与冲突赋予故事生命力》** _[图书介绍](https://book.douban.com/subject/10834606/)_ &ensp;&ensp;出库已清~~
 - ~~**写作《开始写吧！ 非虚构文学创作》** _[图书介绍](https://book.douban.com/subject/5944388/)_ &ensp;&ensp;出库已清~~
 - ~~**写作《写好前五页》** _[图书介绍](https://book.douban.com/subject/20471352/)_ &ensp;&ensp;出库已清~~

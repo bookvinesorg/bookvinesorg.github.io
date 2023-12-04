@@ -5,7 +5,6 @@
 &ensp;&ensp;&ensp;&ensp;所有书籍均为已阅书籍，部分为旧版书籍，可能有阅读和标注痕迹，书封有书蔓社藏书章或枫藏书章。
 
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。 
-增加
 
 跳转至 [书蔓藏书清单](books.md) 
 
@@ -39,6 +38,14 @@
 - **文学 《世界短篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
 - **哲学 《情爱论》**_[图书介绍](https://book.douban.com/subject/2056342/)_ &ensp;&ensp;在库未出
 - **商业 《只有偏执狂才能生存》**_[图书介绍](https://book.douban.com/subject/1940579/)_ &ensp;&ensp;在库未出
+- **商业 《华尔街的智慧天才:费希尔.布莱克和他的革命性金融思想》**_[图书介绍](https://book.douban.com/subject/2176823/)_ &ensp;&ensp;在库未出
+- **商业 《一天一根胡萝卜:365天的员工激励方案》**_[图书介绍](https://book.douban.com/subject/1392400/)_ &ensp;&ensp;在库未出
+- **文学 《旷世风华：大运河传》**_[图书介绍](https://book.douban.com/subject/1248523/)_ &ensp;&ensp;在库未出
+- **文学 《中国微型诗300首》**_[图书介绍](https://book.douban.com/subject/4273847/)_ &ensp;&ensp;在库未出
+- **文学 《名利场》**_[图书介绍](https://book.douban.com/subject/1411053/)_ &ensp;&ensp;在库未出
+- **文学 《红字》**_[图书介绍](https://book.douban.com/subject/2032657/)_ &ensp;&ensp;在库未出
+- **文学 《中国当代诗歌经典》**_[图书介绍](https://book.douban.com/subject/1212700/)_ &ensp;&ensp;在库未出
+
 
 ### 2023年三季度发布书单 ###
 - **成功学《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;在库未出
@@ -67,7 +74,7 @@
 - ~~**文化《钝感力》** _[图书介绍](https://book.douban.com/subject/2119843/)_ &ensp;&ensp;出库已清~~
 - **专业《心理测量与评估（心理学基础课系列教材）》** _[图书介绍](https://book.douban.com/subject/1955415/)_ &ensp;&ensp;在库未出
 - **传记《帝国如风：元朝的另类历史》** _[图书介绍](https://book.douban.com/subject/1891104/)_ &ensp;&ensp;在库未出
-- **文化《仙骨佛心-家具、紫砂与明清文人》** _[图书介绍](https://book.douban.com/subject/4011281/)_ &ensp;&ensp;在库未出
+- ~~**文化《仙骨佛心-家具、紫砂与明清文人》** _[图书介绍](https://book.douban.com/subject/4011281/)_ &ensp;&ensp;出库已清~~
 - **传记《傅雷家书（傅敏编）》** _[图书介绍](https://book.douban.com/subject/4881264/)_ &ensp;&ensp;在库未出
 - **传记《失焦：卡帕传》** _[图书介绍](https://book.douban.com/subject/10557523/)_ &ensp;&ensp;在库未出
 - ~~**传记《二手时间》** _[图书介绍](https://book.douban.com/subject/26704403/)_ &ensp;&ensp;出库已清~~

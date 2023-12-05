@@ -44,7 +44,10 @@
 - **文学 《中国微型诗300首》**_[图书介绍](https://book.douban.com/subject/4273847/)_ &ensp;&ensp;在库未出
 - **文学 《名利场》**_[图书介绍](https://book.douban.com/subject/1411053/)_ &ensp;&ensp;在库未出
 - **文学 《红字》**_[图书介绍](https://book.douban.com/subject/2032657/)_ &ensp;&ensp;在库未出
-- **文学 《中国当代诗歌经典》**_[图书介绍](https://book.douban.com/subject/1212700/)_ &ensp;&ensp;在库未出
+- **文学 《余光中传》**_[图书介绍](https://book.douban.com/subject/1087061/)_ &ensp;&ensp;在库未出
+- **文学 《散文研究》**_[图书介绍](https://book.douban.com/subject/1660135/)_ &ensp;&ensp;在库未出
+- **文学 《散文艺术论》**_[图书介绍](https://book.douban.com/subject/1912951/)_ &ensp;&ensp;在库未出
+- **文学 《外国名花风俗传说》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
 
 
 ### 2023年三季度发布书单 ###

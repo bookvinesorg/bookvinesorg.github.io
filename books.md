@@ -12,6 +12,7 @@
 - **《风声水起：风水方家谭》** _[图书介绍](https://book.douban.com/subject/2143461/)_ &ensp;&ensp;
 - **《叶隐闻书》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;
 - **《散文讲稿》**_[图书介绍](https://book.douban.com/subject/1110178/)_ &ensp;&ensp;
+- **《中国当代诗歌经典》**_[图书介绍](https://book.douban.com/subject/1212700/)_ &ensp;&ensp;在库未出
 
 ### 生活 ###
 

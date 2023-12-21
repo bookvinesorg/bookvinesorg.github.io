@@ -17,6 +17,7 @@
 - **文学 《1998中国最佳诗歌》** _[图书介绍](https://book.douban.com/subject/1028926/)_ &ensp;&ensp;在库未出
 - **文学 《2000中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/1019301/)_ &ensp;&ensp;在库未出
 - **文学 《2002中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/1077460/)_ &ensp;&ensp;在库未出
+- **文学 《2003中国年度最佳散文诗》** _[图书介绍](https://book.douban.com/subject/1077460/)_ &ensp;&ensp;在库未出
 - **文学 《2005中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/1491606/)_ &ensp;&ensp;在库未出
 - **文学 《2006年中国散文诗精选》** _[图书介绍](https://book.douban.com/subject/1967287/)_ &ensp;&ensp;在库未出
 - **文学 《2007中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/2678442/)_ &ensp;&ensp;在库未出
@@ -34,8 +35,8 @@
 - ~~**传记 《高卢战记》** _[图书介绍](https://book.douban.com/subject/1511912/)_ &ensp;&ensp;出库已清~~
 - ~~**文化 《行云纪：《刺客聂隐娘》拍摄侧录》** _[图书介绍](https://book.douban.com/subject/26434974/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《金瓶梅词话 梅节校订版》（4册）** _(未知)_  &ensp;&ensp;出库已清~~
-- **文学 《世界中篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
-- **文学 《世界短篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
+- **小说 《世界中篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
+- **小说 《世界短篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
 - **哲学 《情爱论》**_[图书介绍](https://book.douban.com/subject/2056342/)_ &ensp;&ensp;在库未出
 - **商业 《只有偏执狂才能生存》**_[图书介绍](https://book.douban.com/subject/1940579/)_ &ensp;&ensp;在库未出
 - **商业 《华尔街的智慧天才:费希尔.布莱克和他的革命性金融思想》**_[图书介绍](https://book.douban.com/subject/2176823/)_ &ensp;&ensp;在库未出
@@ -48,6 +49,11 @@
 - **文学 《散文研究》**_[图书介绍](https://book.douban.com/subject/1660135/)_ &ensp;&ensp;在库未出
 - **文学 《散文艺术论》**_[图书介绍](https://book.douban.com/subject/1912951/)_ &ensp;&ensp;在库未出
 - **文学 《外国名花风俗传说》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
+- **文学 《二十世纪中国散文诗论》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
+- **文学 《喧嚣中的足迹》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
+- **文学 《杂文写作论》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
+- **小说 《基督山伯爵》（4册）**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
+- **传记 《香水情芬：调出来的神秘》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
 
 
 ### 2023年三季度发布书单 ###

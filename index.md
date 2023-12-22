@@ -49,11 +49,11 @@
 - **文学 《散文研究》**_[图书介绍](https://book.douban.com/subject/1660135/)_ &ensp;&ensp;在库未出
 - **文学 《散文艺术论》**_[图书介绍](https://book.douban.com/subject/1912951/)_ &ensp;&ensp;在库未出
 - **文学 《外国名花风俗传说》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
-- **文学 《二十世纪中国散文诗论》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
-- **文学 《喧嚣中的足迹》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
-- **文学 《杂文写作论》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
-- **小说 《基督山伯爵》（4册）**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
-- **传记 《香水情芬：调出来的神秘》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;在库未出
+- **文学 《二十世纪中国散文诗论》**_[图书介绍](https://book.douban.com/subject/1221404/)_ &ensp;&ensp;在库未出
+- **文学 《喧嚣中的足迹》**_[图书介绍](https://book.douban.com/subject/1144684/)_ &ensp;&ensp;在库未出
+- **文学 《杂文写作论》**_[图书介绍](无)_ &ensp;&ensp;在库未出
+- **小说 《基督山伯爵》（4册）**_[图书介绍](https://book.douban.com/subject/3904329/)_ &ensp;&ensp;在库未出
+- **传记 《香水情芬：调出来的神秘》**_[图书介绍](https://book.douban.com/subject/1951803/)_ &ensp;&ensp;在库未出
 
 
 ### 2023年三季度发布书单 ###

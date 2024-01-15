@@ -8,6 +8,16 @@
 
 跳转至 [书蔓藏书清单](books.md) 
 
+### 2024年一季度发布书单 ###
+- **传记 《读书人》** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;在库未出
+- **社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;在库未出
+- **社科 《中国盗墓传奇》** _[图书介绍](https://book.douban.com/subject/2339953/)_ &ensp;&ensp;在库未出
+- **教育 《孩子提问题，大师来回答》** _[图书介绍](https://book.douban.com/subject/25712707/)_ &ensp;&ensp;在库未出
+- **哲学 《恋人絮语：一个解构主义的文本》** _[图书介绍](https://book.douban.com/subject/3765331/)_ &ensp;&ensp;在库未出
+- **哲学 《文之悦》** _[图书介绍](https://book.douban.com/subject/3824556/)_ &ensp;&ensp;在库未出
+- **哲学 《诗意的栖居》** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出
+- **社科 《鲜花帝国：鲜花育种、栽培和售卖的秘密》** _[图书介绍](https://book.douban.com/subject/25876757/)_ &ensp;&ensp;在库未出
+
 ### 2023年四季度发布书单 ###
 - **成功学《忠诚:致加西亚的信》** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出
 - **文学《2000中国年度最佳诗歌》** _[图书介绍](https://book.douban.com/subject/1058620/)_ &ensp;&ensp;在库未出

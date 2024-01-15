@@ -21,7 +21,7 @@
 ### 2023年四季度发布书单 ###
 - **成功学《忠诚:致加西亚的信》** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出
 - **文学《2000中国年度最佳诗歌》** _[图书介绍](https://book.douban.com/subject/1058620/)_ &ensp;&ensp;在库未出
-- **游记《好像永远住下去：搜索台湾最美民宿》** _[图书介绍](https://book.douban.com/subject/26718468/)_ &ensp;&ensp;在库未出
+- **游记《好想永远住下去：搜索台湾最美民宿》** _[图书介绍](https://book.douban.com/subject/26718468/)_ &ensp;&ensp;在库未出
 - ~~**文学 《万物静默如迷：辛波斯卡诗选》** _[图书介绍](https://book.douban.com/subject/11584574/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《海子的诗》** _[图书介绍](https://book.douban.com/subject/1011754/)_ &ensp;&ensp;出库已清~~
 - **文学 《1998中国最佳诗歌》** _[图书介绍](https://book.douban.com/subject/1028926/)_ &ensp;&ensp;在库未出

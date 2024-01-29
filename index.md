@@ -8,7 +8,10 @@
 
 跳转至 [书蔓藏书清单](books.md) 
 
-### 2024年一季度发布书单 ###
+### 目前合计119本 ###
+
+### 2024年一季度发布书单 20本 ###
+
 - **传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;在库未出
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
 - **社科 《中国盗墓传奇》** _[图书介绍](https://book.douban.com/subject/2339953/)_ &ensp;&ensp;在库未出
@@ -20,18 +23,19 @@
 - ~~**文学 《哀痛日记》罗兰.巴特** _[图书介绍](https://book.douban.com/subject/7163123/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《叶隐入门》三岛由纪夫** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《茶之书."粹“的构造》冈仓天心，九鬼周造** _[图书介绍](https://book.douban.com/subject/6797947/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《沉思录》马可.奥勒留** _[图书介绍](https://book.douban.com/subject/2359003/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《我在哈佛学到的人脉课》冈岛悦子** _[图书介绍](https://book.douban.com/subject/10555899/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《本巴》刘亮程** _[图书介绍](https://book.douban.com/subject/35684638/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《回响》东西** _[图书介绍](https://book.douban.com/subject/35476563/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《人生的智慧》叔本华** _[图书介绍](https://book.douban.com/subject/3261600/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《悲剧的诞生》尼采** _[图书介绍](https://book.douban.com/subject/26696656/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《社会信任和社会资本重建》林聚任** _[图书介绍](https://book.douban.com/subject/2343128/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《当代中国公共精神的培育研究》刘鑫淼** _[图书介绍](https://book.douban.com/subject/5388754/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《北京生态文化建设理论与实践》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《沉思录》马可.奥勒留** _[图书介绍](https://book.douban.com/subject/2359003/)_ &ensp;&ensp;出库已清~~
+- ~~**职场 《我在哈佛学到的人脉课》冈岛悦子** _[图书介绍](https://book.douban.com/subject/10555899/)_ &ensp;&ensp;出库已清~~
+- ~~**小说 《本巴》刘亮程** _[图书介绍](https://book.douban.com/subject/35684638/)_ &ensp;&ensp;出库已清~~
+- ~~**小说 《回响》东西** _[图书介绍](https://book.douban.com/subject/35476563/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《人生的智慧》叔本华** _[图书介绍](https://book.douban.com/subject/3261600/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《悲剧的诞生》尼采** _[图书介绍](https://book.douban.com/subject/26696656/)_ &ensp;&ensp;出库已清~~
+- ~~**社科 《社会信任和社会资本重建》林聚任** _[图书介绍](https://book.douban.com/subject/2343128/)_ &ensp;&ensp;出库已清~~
+- ~~**社科 《当代中国公共精神的培育研究》刘鑫淼** _[图书介绍](https://book.douban.com/subject/5388754/)_ &ensp;&ensp;出库已清~~
+- ~~**社科 《北京生态文化建设理论与实践》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
   
 
-### 2023年四季度发布书单 ###
+### 2023年四季度发布书单 45本 ###
+
 - **成功学《忠诚:致加西亚的信》** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出
 - **文学《2000中国年度最佳诗歌》** _[图书介绍](https://book.douban.com/subject/1058620/)_ &ensp;&ensp;在库未出
 - **游记《好想永远住下去：搜索台湾最美民宿》** _[图书介绍](https://book.douban.com/subject/26718468/)_ &ensp;&ensp;在库未出
@@ -79,7 +83,8 @@
 - **传记 《香水情芬：调出来的神秘》**_[图书介绍](https://book.douban.com/subject/1951803/)_ &ensp;&ensp;在库未出
 
 
-### 2023年三季度发布书单 ###
+### 2023年三季度发布书单 17本 ###
+
 - **成功学《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;在库未出
 - **文化《2003中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
 - **文化《2002中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
@@ -98,7 +103,8 @@
 - ~~**文化《草草集》** _[图书介绍](https://book.douban.com/subject/25804641/)_ &ensp;&ensp;出库已清~~
 - ~~**传记《我们仨》** _[图书介绍](https://book.douban.com/subject/1023045/)_ &ensp;&ensp;出库已清~~
 
-### 2023年二季度发布书单 ###
+### 2023年二季度发布书单 27本 ###
+
 - ~~**文化《寻城记：重庆》** _[图书介绍](https://book.douban.com/subject/2025990/)_ &ensp;&ensp;出库已清~~
 - **文艺《精短新诗200首》** _[图书介绍](https://book.douban.com/subject/3458377/)_ &ensp;&ensp;在库未出
 - **文艺《流浪集》** _[图书介绍](https://book.douban.com/subject/4208780/)_ &ensp;&ensp;在库未出
@@ -128,12 +134,12 @@
 - **社科 《气场》** _[图书介绍](https://book.douban.com/subject/5325861/)_  &ensp;&ensp;在库未出
 
 
-### 2023年一季度发布书单 ###
+### 2023年一季度发布书单 2本 ###
 
 - ~~**健身《跑步圣经》** _[图书介绍](https://book.douban.com/subject/26326484/)_ &ensp;&ensp;出库已清~~
 - **历史《帝国的惆怅：中国创痛社会的政治与人性》** _[图书介绍](https://book.douban.com/subject/1421029/)_ &ensp;&ensp;在库未出
 
-### 2022年四季度发布书单 ###
+### 2022年四季度发布书单 8本 ###
 
 - **管理 《你的团队需要一个会讲故事的人-用故事思维解决问题》** _[图书介绍](https://book.douban.com/subject/26780215/)_  &ensp;&ensp;在库未出
 - ~~**文化 《冰鉴-中国识人第一书》** _[图书介绍](https://book.douban.com/subject/6534729/)_   &ensp;&ensp;出库已清~~

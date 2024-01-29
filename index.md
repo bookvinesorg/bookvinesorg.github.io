@@ -9,14 +9,27 @@
 跳转至 [书蔓藏书清单](books.md) 
 
 ### 2024年一季度发布书单 ###
-- **传记 《读书人》** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;在库未出
-- **社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;在库未出
+- **传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;在库未出
+- ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
 - **社科 《中国盗墓传奇》** _[图书介绍](https://book.douban.com/subject/2339953/)_ &ensp;&ensp;在库未出
-- **教育 《孩子提问题，大师来回答》** _[图书介绍](https://book.douban.com/subject/25712707/)_ &ensp;&ensp;在库未出
-- **哲学 《恋人絮语：一个解构主义的文本》** _[图书介绍](https://book.douban.com/subject/3765331/)_ &ensp;&ensp;在库未出
-- **哲学 《文之悦》** _[图书介绍](https://book.douban.com/subject/3824556/)_ &ensp;&ensp;在库未出
-- **哲学 《诗意的栖居》** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出
-- **社科 《鲜花帝国：鲜花育种、栽培和售卖的秘密》** _[图书介绍](https://book.douban.com/subject/25876757/)_ &ensp;&ensp;在库未出
+- ~~**教育 《孩子提问题，大师来回答》** _[图书介绍](https://book.douban.com/subject/25712707/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《恋人絮语：一个解构主义的文本》罗兰.巴特** _[图书介绍](https://book.douban.com/subject/3765331/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《文之悦》罗兰.巴特** _[图书介绍](https://book.douban.com/subject/3824556/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《人,诗意的栖居》海德格尔** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出~~
+- ~~**社科 《鲜花帝国：鲜花育种、栽培和售卖的秘密》艾米.斯图尔特** _[图书介绍](https://book.douban.com/subject/25876757/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《哀痛日记》罗兰.巴特** _[图书介绍](https://book.douban.com/subject/7163123/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《叶隐入门》三岛由纪夫** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《茶之书."粹“的构造》冈仓天心，九鬼周造** _[图书介绍](https://book.douban.com/subject/6797947/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《沉思录》马可.奥勒留** _[图书介绍](https://book.douban.com/subject/2359003/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《我在哈佛学到的人脉课》冈岛悦子** _[图书介绍](https://book.douban.com/subject/10555899/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《本巴》刘亮程** _[图书介绍](https://book.douban.com/subject/35684638/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《回响》东西** _[图书介绍](https://book.douban.com/subject/35476563/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《人生的智慧》叔本华** _[图书介绍](https://book.douban.com/subject/3261600/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《悲剧的诞生》尼采** _[图书介绍](https://book.douban.com/subject/26696656/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《社会信任和社会资本重建》林聚任** _[图书介绍](https://book.douban.com/subject/2343128/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《当代中国公共精神的培育研究》刘鑫淼** _[图书介绍](https://book.douban.com/subject/5388754/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《北京生态文化建设理论与实践》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+  
 
 ### 2023年四季度发布书单 ###
 - **成功学《忠诚:致加西亚的信》** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出
@@ -41,7 +54,7 @@
 - **文学 《2013中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/25799712/)_ &ensp;&ensp;在库未出
 - **文学 《2014中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/30666984/)_ &ensp;&ensp;在库未出
 - **文学 《2015年中国散文精选 台湾卷》** _[图书介绍](https://book.douban.com/subject/26832659/)_ &ensp;&ensp;在库未出
-- **健身 《囚徒健身2》** _[图书介绍](https://book.douban.com/subject/26126563/)_ &ensp;&ensp;在库未出
+- ~~**健身 《囚徒健身2》** _[图书介绍](https://book.douban.com/subject/26126563/)_ &ensp;&ensp;在库已清~~
 - ~~**传记 《高卢战记》** _[图书介绍](https://book.douban.com/subject/1511912/)_ &ensp;&ensp;出库已清~~
 - ~~**文化 《行云纪：《刺客聂隐娘》拍摄侧录》** _[图书介绍](https://book.douban.com/subject/26434974/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《金瓶梅词话 梅节校订版》（4册）** _(未知)_  &ensp;&ensp;出库已清~~
@@ -120,7 +133,7 @@
 - ~~**健身《跑步圣经》** _[图书介绍](https://book.douban.com/subject/26326484/)_ &ensp;&ensp;出库已清~~
 - **历史《帝国的惆怅：中国创痛社会的政治与人性》** _[图书介绍](https://book.douban.com/subject/1421029/)_ &ensp;&ensp;在库未出
 
-### 2022年四季度 发布书单 ###
+### 2022年四季度发布书单 ###
 
 - **管理 《你的团队需要一个会讲故事的人-用故事思维解决问题》** _[图书介绍](https://book.douban.com/subject/26780215/)_  &ensp;&ensp;在库未出
 - ~~**文化 《冰鉴-中国识人第一书》** _[图书介绍](https://book.douban.com/subject/6534729/)_   &ensp;&ensp;出库已清~~
@@ -129,4 +142,4 @@
 - ~~**旅游 《瑞士 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/30450328/)_  &ensp;&ensp;出库已清~~
 - ~~**旅游 《爱尔兰 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/27195756/)_  &ensp;&ensp;出库已清~~
 - ~~**旅游 《冰岛 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/30134993/)_  &ensp;&ensp;出库已清~~
-- **经济 《零边界成本社会--一个物联网、合作共赢的新经济时代》**  _[图书介绍](https://book.douban.com/subject/25986746/)_  &ensp;&ensp;在库未出
+- ~~**经济 《零边界成本社会--一个物联网、合作共赢的新经济时代》**  _[图书介绍](https://book.douban.com/subject/25986746/)_  &ensp;&ensp;出库已清~~

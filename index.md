@@ -8,11 +8,11 @@
 
 跳转至 [书蔓藏书清单](books.md)  
 
-### 目前合计119本
+### 目前合计140本
 
-### 2024年一季度发布书单 20本
+### 2024年一季度发布书单 41本
 
-- **传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;在库未出
+- ~~**传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
 - **社科 《中国盗墓传奇》** _[图书介绍](https://book.douban.com/subject/2339953/)_ &ensp;&ensp;在库未出
 - ~~**教育 《孩子提问题，大师来回答》** _[图书介绍](https://book.douban.com/subject/25712707/)_ &ensp;&ensp;出库已清~~
@@ -31,7 +31,28 @@
 - ~~**哲学 《悲剧的诞生》尼采** _[图书介绍](https://book.douban.com/subject/26696656/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《社会信任和社会资本重建》林聚任** _[图书介绍](https://book.douban.com/subject/2343128/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《当代中国公共精神的培育研究》刘鑫淼** _[图书介绍](https://book.douban.com/subject/5388754/)_ &ensp;&ensp;出库已清~~
-- ~~**社科shid 《北京生态文化建设理论与实践》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**社科 《北京生态文化建设理论与实践》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**小说 《牵风记》徐怀中** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**散文 《人文动物园》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**社科 《故事照亮未来》杨照** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**散文 《鲤.不上班的理想生活》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**社科 《绿色传播论》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**社科 《乡土中国》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**散文 《味道.味觉现象》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**小说 《霍乱时期的爱情》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**影集 《东京日和》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《如何阅读一本书》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《<徒然草>受中日古典文学的影响》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《怎样用韵》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《云的理论》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**游记 《行走台湾》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**诗歌 《海子作品精选》** _[图书介绍](https://book.douban.com/subject/3825731/)_ &ensp;&ensp;出库已清~~
+- ~~**诗歌 《北岛作品精选》** _[图书介绍](https://book.douban.com/subject/5399267/)_ &ensp;&ensp;出库已清~~
+- ~~**小说 《白鹿原》** _[图书介绍](https://book.douban.com/subject/10564071/)_ &ensp;&ensp;出库已清~~
+- ~~**散文 《民主的细节:美国当代政治观察随笔》** _[图书介绍](https://book.douban.com/subject/3813669/)_ &ensp;&ensp;出库已清~~
+- ~~**散文 《送你一颗子弹》** _[图书介绍](https://book.douban.com/subject/4238362/)_ &ensp;&ensp;出库已清~~
+- ~~**诗歌 《俳句的魅力》** _[图书介绍](https://book.douban.com/subject/3107941/)_ &ensp;&ensp;出库已清~~
+- ~~**管理 《和韵禅风日式庭院系列:绿意庭院造景设计》** _[图书介绍](https://book.douban.com/subject/19980122/)_ &ensp;&ensp;出库已清~~
   
 
 ### 2023年四季度发布书单 45本
@@ -66,7 +87,7 @@
 - **小说 《世界短篇小说经典全集》（6册）** _(未知)_ &ensp;&ensp;在库未出
 - **哲学 《情爱论》**_[图书介绍](https://book.douban.com/subject/2056342/)_ &ensp;&ensp;在库未出
 - **商业 《只有偏执狂才能生存》**_[图书介绍](https://book.douban.com/subject/1940579/)_ &ensp;&ensp;在库未出
-- **商业 《华尔街的智慧天才:费希尔.布莱克和他的革命性金融思想》**_[图书介绍](https://book.douban.com/subject/2176823/)_ &ensp;&ensp;在库未出
+- ~~**商业 《华尔街的智慧天才:费希尔.布莱克和他的革命性金融思想》**_[图书介绍](https://book.douban.com/subject/2176823/)_ &ensp;&ensp;出库已清~~
 - **商业 《一天一根胡萝卜:365天的员工激励方案》**_[图书介绍](https://book.douban.com/subject/1392400/)_ &ensp;&ensp;在库未出
 - **文学 《旷世风华：大运河传》**_[图书介绍](https://book.douban.com/subject/1248523/)_ &ensp;&ensp;在库未出
 - **文学 《中国微型诗300首》**_[图书介绍](https://book.douban.com/subject/4273847/)_ &ensp;&ensp;在库未出
@@ -141,7 +162,7 @@
 
 ### 2022年四季度发布书单 8本
 
-- **管理 《你的团队需要一个会讲故事的人-用故事思维解决问题》** _[图书介绍](https://book.douban.com/subject/26780215/)_  &ensp;&ensp;在库未出
+- ~~**管理 《你的团队需要一个会讲故事的人-用故事思维解决问题》** _[图书介绍](https://book.douban.com/subject/26780215/)_  &ensp;&ensp;出库已清~~
 - ~~**文化 《冰鉴-中国识人第一书》** _[图书介绍](https://book.douban.com/subject/6534729/)_   &ensp;&ensp;出库已清~~
 - **管理 《每一次都作对决策》** _[图书介绍](https://book.douban.com/subject/1892895/)_  &ensp;&ensp;在库未出
 - ~~**旅游 《尼泊尔 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/26897889/)_  &ensp;&ensp;出库已清~~

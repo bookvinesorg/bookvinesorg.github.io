@@ -1,16 +1,16 @@
 # 书蔓社
 
-## 已阅书单
+## 已阅待处理书单
 
-&ensp;&ensp;&ensp;&ensp;所有书籍均为已阅书籍，部分为旧版书籍，可能有阅读和标注痕迹，书封有书蔓社藏书章或枫藏书章。
+&ensp;&ensp;&ensp;&ensp;所有书籍均为已阅书籍，部分为旧版书籍，可能有阅读和标注痕迹，书封有书蔓社藏书章或枫藏书章，少量书籍有撰写笔记或读后感，可移步“书蔓社”微信公众号。
 
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。 
 
-跳转至 [书蔓藏书清单](books.md)  
+跳转至 [书蔓已阅藏书清单](books.md)  
 
-### 目前合计140本
+### 目前合计154本
 
-### 2024年一季度发布书单 41本
+### 2024年一季度发布书单 55本
 
 - ~~**传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
@@ -42,7 +42,7 @@
 - ~~**小说 《霍乱时期的爱情》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**影集 《东京日和》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《如何阅读一本书》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
-- ~~**文学 《<徒然草>受中日古典文学的影响》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**文学 《徒然草.受中日古典文学的影响》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《怎样用韵》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**哲学 《云的理论》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**游记 《行走台湾》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
@@ -52,7 +52,22 @@
 - ~~**散文 《民主的细节:美国当代政治观察随笔》** _[图书介绍](https://book.douban.com/subject/3813669/)_ &ensp;&ensp;出库已清~~
 - ~~**散文 《送你一颗子弹》** _[图书介绍](https://book.douban.com/subject/4238362/)_ &ensp;&ensp;出库已清~~
 - ~~**诗歌 《俳句的魅力》** _[图书介绍](https://book.douban.com/subject/3107941/)_ &ensp;&ensp;出库已清~~
-- ~~**管理 《和韵禅风日式庭院系列:绿意庭院造景设计》** _[图书介绍](https://book.douban.com/subject/19980122/)_ &ensp;&ensp;出库已清~~
+- ~~**设计 《和韵禅风日式庭院系列:绿意庭院造景设计》** _[图书介绍](https://book.douban.com/subject/19980122/)_ &ensp;&ensp;出库已清~~
+- ~~**传记 《师从天才：一个科学帝国的崛起》** _[图书介绍](https://book.douban.com/subject/20492371/)_ &ensp;&ensp;出库已清~~
+- ~~**游记 《好像永远住下去》** _[图书介绍](https://book.douban.com/subject/26718468/)_ &ensp;&ensp;出库已清~~
+- ~~**学术 《国际科学技术发展报告（2018）》** _[图书介绍](https://book.douban.com/subject/30357845/)_ &ensp;&ensp;出库已清~~
+- ~~**传记 《无畏的希望》** _[图书介绍](https://book.douban.com/subject/3176245/)_ &ensp;&ensp;出库已清~~
+- ~~**散文 《观念的水位》** _[图书介绍](https://book.douban.com/subject/20463108/)_ &ensp;&ensp;出库已清~~
+- ~~**小说 《百年孤独》** _[图书介绍](https://book.douban.com/subject/6082808/)_ &ensp;&ensp;出库已清~~
+- ~~**小说 《千里江山图》** _[图书介绍](https://book.douban.com/subject/35897992/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《明室：摄影札记》** _[图书介绍](https://book.douban.com/subject/6068109/)_ &ensp;&ensp;出库已清~~
+- ~~**社会 《下流社会：一个新社会阶层的出现》** _[图书介绍](https://book.douban.com/subject/1962680/)_ &ensp;&ensp;出库已清~~
+- ~~**散文 《新时期散文的发展向度》** _[图书介绍](https://book.douban.com/subject/26592286/)_ &ensp;&ensp;出库已清~~
+- ~~**电影 《贾想1996-2008：贾樟柯电影手记》** _[图书介绍](https://book.douban.com/subject/3547099/)_ &ensp;&ensp;出库已清~~
+- ~~**设计 《设计的觉醒》** _[图书介绍](https://book.douban.com/subject/4101013/)_ &ensp;&ensp;出库已清~~
+- ~~**写作 《642件可写的事：停不下来的创意冒险》** _[图书介绍](https://book.douban.com/subject/30408577/)_ &ensp;&ensp;出库已清~~
+- ~~**社会 《无缘社会》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;出库已清~~
+
   
 
 ### 2023年四季度发布书单 45本

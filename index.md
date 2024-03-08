@@ -85,7 +85,7 @@
 - **文学 《2006年中国散文诗精选》** _[图书介绍](https://book.douban.com/subject/1967287/)_ &ensp;&ensp;在库未出
 - **文学 《2007中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/2678442/)_ &ensp;&ensp;在库未出
 - **文学 《2007年中国散文诗精选》** _[图书介绍](https://book.douban.com/subject/2369165/)_ &ensp;&ensp;在库未出
-- **文学 《2008中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/3463585/)_ &ensp;&ensp;在库未出
+- ~~**文学 《2008中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/3463585/)_ &ensp;&ensp;出库已清~~
 - **文学 《2008年中国散文诗精选》** _[图书介绍](https://book.douban.com/subject/3391404/)_ &ensp;&ensp;在库未出
 - **文学 《2009中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/4237538/)_ &ensp;&ensp;在库未
 - **文学 《2010中国年度散文诗》** _[图书介绍](https://book.douban.com/subject/5922212/)_ &ensp;&ensp;在库未出

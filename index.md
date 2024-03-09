@@ -2,7 +2,7 @@
 
 ## 已阅待处理书单
 
-&ensp;&ensp;&ensp;&ensp;所有书籍均为已阅书籍，部分为旧版书籍，可能有阅读和标注痕迹，书封有书蔓社藏书章或枫藏书章，少量书籍有撰写笔记或读后感，可移步“书蔓社”微信公众号。
+&ensp;&ensp;&ensp;&ensp;所有书籍均为已阅书籍，部分为旧版书籍，可能有阅读和标注痕迹，书封有书蔓社藏书章或枫藏书章，。
 
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。 
 
@@ -32,7 +32,6 @@
 - ~~**社科 《社会信任和社会资本重建》林聚任** _[图书介绍](https://book.douban.com/subject/2343128/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《当代中国公共精神的培育研究》刘鑫淼** _[图书介绍](https://book.douban.com/subject/5388754/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《北京生态文化建设理论与实践》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
-- ~~**小说 《牵风记》徐怀中** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**散文 《人文动物园》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《故事照亮未来》杨照** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**散文 《鲤.不上班的理想生活》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
@@ -67,6 +66,17 @@
 - ~~**设计 《设计的觉醒》** _[图书介绍](https://book.douban.com/subject/4101013/)_ &ensp;&ensp;出库已清~~
 - ~~**写作 《642件可写的事：停不下来的创意冒险》** _[图书介绍](https://book.douban.com/subject/30408577/)_ &ensp;&ensp;出库已清~~
 - ~~**社会 《无缘社会》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;出库已清~~
+- **国学 《随园食单》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **国学 《长物志》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《多瑙河领航员》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《飘逝的半岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《桑道夫伯爵》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《隐身新娘》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《征服者罗比尔》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《培根的伍亿法郎》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《烽火岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《机器岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
+- **小说 《昂蒂费尔师傅奇遇记》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
 
   
 
@@ -126,7 +136,7 @@
 - **文化《2002中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;在库未出
 - **文化《隐形的力量：心灵秘密与内省之道》** _[图书介绍](https://book.douban.com/subject/3932529/)_ &ensp;&ensp;在库未出
 - **传记《海德格尔传》** _[图书介绍](https://book.douban.com/subject/1709907/)_ &ensp;&ensp;在库未出
-- **小说《牵风记》** _[图书介绍](https://book.douban.com/subject/34969924/)_ &ensp;&ensp;在库未出
+- ~~**小说《牵风记》** _[图书介绍](https://book.douban.com/subject/34969924/)_ &ensp;&ensp;在库未出~~
 - ~~**文化《消解设计的界限》** _[图书介绍](https://book.douban.com/subject/4720817/)_ &ensp;&ensp;~~出库已清
 - ~~**传记《发现的乐趣-费曼演讲.访谈集》** _[图书介绍](https://book.douban.com/subject/26776967/)_ &ensp;&ensp;出库已清~~
 - **文化《禅.生命的微笑》** _[图书介绍](https://book.douban.com/subject/1007652/)_ &ensp;&ensp;在库未出
@@ -173,7 +183,7 @@
 ### 2023年一季度发布书单 2本
 
 - ~~**健身《跑步圣经》** _[图书介绍](https://book.douban.com/subject/26326484/)_ &ensp;&ensp;出库已清~~
-- **历史《帝国的惆怅：中国创痛社会的政治与人性》** _[图书介绍](https://book.douban.com/subject/1421029/)_ &ensp;&ensp;在库未出
+- ~~**历史《帝国的惆怅：中国创痛社会的政治与人性》** _[图书介绍](https://book.douban.com/subject/1421029/)_ &ensp;&ensp;在库未出~~
 
 ### 2022年四季度发布书单 8本
 

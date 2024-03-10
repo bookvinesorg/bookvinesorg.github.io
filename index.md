@@ -6,7 +6,7 @@
 
 &ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。 
 
-跳转至 [书蔓已阅藏书清单](books.md)  
+另，可跳转至 [书蔓社藏书单](books.md)  
 
 ### 目前合计154本
 
@@ -66,18 +66,19 @@
 - ~~**设计 《设计的觉醒》** _[图书介绍](https://book.douban.com/subject/4101013/)_ &ensp;&ensp;出库已清~~
 - ~~**写作 《642件可写的事：停不下来的创意冒险》** _[图书介绍](https://book.douban.com/subject/30408577/)_ &ensp;&ensp;出库已清~~
 - ~~**社会 《无缘社会》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;出库已清~~
-- **国学 《随园食单》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **国学 《长物志》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《多瑙河领航员》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《飘逝的半岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《桑道夫伯爵》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《隐身新娘》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《征服者罗比尔》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《培根的伍亿法郎》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《烽火岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《机器岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-- **小说 《昂蒂费尔师傅奇遇记》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;在库
-
+- **国学 《随园食单（中华雅文化经典丛书）》** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;在库
+- **国学 《长物志（中华雅文化经典丛书》** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;在库
+- **小说 《多瑙河领航员》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1328629/)_ &ensp;&ensp;在库
+- **小说 《飘逝的半岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1276542/)_ &ensp;&ensp;在库
+- **小说 《桑道夫伯爵》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1275375/)_ &ensp;&ensp;在库
+- **小说 《隐身新娘》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1643596/)_ &ensp;&ensp;在库
+- **小说 《征服者罗比尔》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/2213247/)_ &ensp;&ensp;在库
+- **小说 《培根的伍亿法郎》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/2052551/)_ &ensp;&ensp;在库
+- **小说 《烽火岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1643597/)_ &ensp;&ensp;在库
+- **小说 《机器岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1797577/)_ &ensp;&ensp;在库
+- **小说 《昂蒂费尔师傅奇遇记》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1643598/)_ &ensp;&ensp;在库
+- **《中国哲学简史》（重复购买）** _[图书介绍](https://book.douban.com/subject/20501147/)_ &ensp;&ensp;在库
+- **《中国哲学简史》（重复购买）** _[图书介绍](https://book.douban.com/subject/11601093/)_ &ensp;&ensp;在库
   
 
 ### 2023年四季度发布书单 45本

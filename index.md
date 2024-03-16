@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计154本
+### 目前合计173本
 
-### 2024年一季度发布书单 55本
+### 2024年一季度发布书单 74本
 
 - ~~**传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
@@ -36,7 +36,7 @@
 - ~~**社科 《故事照亮未来》杨照** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**散文 《鲤.不上班的理想生活》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《绿色传播论》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
-- ~~**社科 《乡土中国》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
+- ~~**社科 《乡土中国》费孝通** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**散文 《味道.味觉现象》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**小说 《霍乱时期的爱情》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
 - ~~**影集 《东京日和》** _[图书介绍](https://book.douban.com/subject/30792664/)_ &ensp;&ensp;出库已清~~
@@ -77,8 +77,26 @@
 - **小说 《烽火岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1643597/)_ &ensp;&ensp;在库
 - **小说 《机器岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1797577/)_ &ensp;&ensp;在库
 - **小说 《昂蒂费尔师傅奇遇记》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1643598/)_ &ensp;&ensp;在库
-- **《中国哲学简史》（重复购买）** _[图书介绍](https://book.douban.com/subject/20501147/)_ &ensp;&ensp;在库
-- **《中国哲学简史》（重复购买）** _[图书介绍](https://book.douban.com/subject/11601093/)_ &ensp;&ensp;在库
+- **哲学《中国哲学简史》（重复购买）** _[图书介绍](https://book.douban.com/subject/20501147/)_ &ensp;&ensp;在库
+- **散文《女儿红》** _[图书介绍](https://book.douban.com/subject/4169342/)_ &ensp;&ensp;在库
+- **艺术《演员自我修养》** _[图书介绍](https://book.douban.com/subject/26426676/)_ &ensp;&ensp;在库
+- **散文《风中的纸屑》 周国平** _[图书介绍](https://book.douban.com/subject/5264095/)_ &ensp;&ensp;在库
+- **散文《你是那人间的四月天》 林徽因** _[图书介绍](https://book.douban.com/subject/4165852/)_ &ensp;&ensp;在库
+- **纪实《成为和平饭店》陈丹燕** _[图书介绍](https://book.douban.com/subject/11601093/)_ &ensp;&ensp;在库
+- **传记《萨特自述》萨特** _[图书介绍](https://book.douban.com/subject/1742335/)_ &ensp;&ensp;在库
+- **设计《家的要素：如何打造一个舒适的家》** _[图书介绍](https://book.douban.com/subject/4746128/)_ &ensp;&ensp;在库
+- **科学《生命的未来》** _[图书介绍](https://book.douban.com/subject/26728065/)_ &ensp;&ensp;在库
+- **游记《晓松奇谈：世界卷》高晓松** _[图书介绍](https://book.douban.com/subject/26919519/)_ &ensp;&ensp;在库
+- **小说《世界尽头与冷酷仙境》村上春树** _[图书介绍](https://book.douban.com/subject/2158161/)_ &ensp;&ensp;在库
+- **艺术《观看之道》约翰.伯格** _[图书介绍](https://book.douban.com/subject/26427579/)_ &ensp;&ensp;在库
+- **散文《文学履途：漫游在伟大故事诞生之地》** _[图书介绍](https://book.douban.com/subject/30322377/)_ &ensp;&ensp;在库
+- **历史《枪炮、病菌与钢铁》** _[图书介绍](https://book.douban.com/subject/1813841/)_ &ensp;&ensp;在库
+- **人生《甘露与净瓶的对话：圣严法师开示》** _[图书介绍](https://book.douban.com/subject/3167925/)_ &ensp;&ensp;在库
+- **小说《外国短篇小说》** _[图书介绍](https://book.douban.com/subject/30163876/)_ &ensp;&ensp;在库
+- **小说《外国短篇小说选》** _[图书介绍](https://book.douban.com/subject/25896512/)_ &ensp;&ensp;在库
+- **小说《芳华》** _[图书介绍](https://book.douban.com/subject/36166774/)_ &ensp;&ensp;在库
+- **散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;在库
+- 
   
 
 ### 2023年四季度发布书单 45本

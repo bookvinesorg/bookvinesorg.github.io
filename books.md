@@ -17,80 +17,79 @@
 
 #### 诗歌
 
-- **《郑愁予诗的自选II》**_[图书介绍](https://book.douban.com/subject/1034338/)_ &ensp;&ensp;在库
+- **《郑愁予诗的自选II》**_[图书介绍](https://book.douban.com/subject/1027169/)_ &ensp;&ensp;在库
 - **《中国当代诗歌经典》**_[图书介绍](https://book.douban.com/subject/1212700/)_ &ensp;&ensp;在库
-- **《叶嘉莹说初盛唐诗》**_[图书介绍](https://book.douban.com/subject/1212700/)_ &ensp;&ensp;在库
+- **《叶嘉莹说初盛唐诗》**_[图书介绍](https://book.douban.com/subject/26296240/)_ &ensp;&ensp;在库
 
 #### 散文
 
 ##### 旅行和自然
 
-- **《翡翠岛编年》**_[图书介绍](https://book.douban.com/subject/1034338/)_ &ensp;&ensp;在库
-- **《人间的食粮》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《我的阿勒泰》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《素颜》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《四季啊，慢慢走：北京自然笔记》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《无尽绿）》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《纽约客》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《西班牙旅行笔记》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《如彗星划过夜空》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《历史深处的忧虑》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《总统是靠不住的》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《我也有一个梦想》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《带一本书去巴黎》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《故都的秋》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《翡翠岛编年》**_[图书介绍](https://book.douban.com/subject/25818124/)_ &ensp;&ensp;在库
+- **《人间的食粮》** _[图书介绍](https://book.douban.com/subject/4208870/)_ &ensp;&ensp;在库
+- **《我的阿勒泰》** _[图书介绍](https://book.douban.com/subject/4884218/)_ &ensp;&ensp;在库
+- **《四季啊，慢慢走：北京自然笔记》** _[图书介绍](https://book.douban.com/subject/27169757/)_ &ensp;&ensp;在库
+- **《无尽绿》** _[图书介绍](https://book.douban.com/subject/26646456/)_ &ensp;&ensp;在库
+- **《纽约客》** _[图书介绍](https://book.douban.com/subject/5337243/)_ &ensp;&ensp;在库
+- **《西班牙旅行笔记》** _[图书介绍](https://book.douban.com/subject/1962923/)_ &ensp;&ensp;在库
+- **《如彗星划过夜空：近距离看美国之四》** _[图书介绍](https://book.douban.com/subject/1762869/)_ &ensp;&ensp;在库
+- **《历史深处的忧虑：近距离看美国之一》** _[图书介绍](https://book.douban.com/subject/1027191/)_ &ensp;&ensp;在库
+- **《总统是靠不住的：近距离看美国之二》** _[图书介绍](https://book.douban.com/subject/1056315/)_ &ensp;&ensp;在库
+- **《我也有一个梦想：近距离看美国之三》** _[图书介绍](https://book.douban.com/subject/1014825/)_ &ensp;&ensp;在库
+- **《带一本书去巴黎》** _[图书介绍](https://book.douban.com/subject/1001885/)_ &ensp;&ensp;在库
+- **《故都的秋》** _[图书介绍](https://book.douban.com/subject/6538422/)_ &ensp;&ensp;在库
 
 ##### 社会
 
 - **《城市牛哞》**_[图书介绍](https://book.douban.com/subject/1034338/)_ &ensp;&ensp;在库
-- **《在新疆》**_[图书介绍](https://book.douban.com/subject/1034338/)_ &ensp;&ensp;在库
-- **《一个人的村庄》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《南渡北归》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《大江大海一九四九》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《沉默的大多数》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《失落的优雅》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《在新疆》**_[图书介绍](https://book.douban.com/subject/10517247/)_ &ensp;&ensp;在库
+- **《一个人的村庄》** _[图书介绍](https://book.douban.com/subject/1692648/)_ &ensp;&ensp;在库
+- **《南渡北归》** _[图书介绍](https://book.douban.com/subject/26700745/)_ &ensp;&ensp;在库
+- **《大江大海一九四九》** _[图书介绍](香港版本)_ &ensp;&ensp;在库
+- **《沉默的大多数》** _[图书介绍](https://book.douban.com/subject/27052050/)_ &ensp;&ensp;在库
+- **《失落的优雅》** _[图书介绍](https://book.douban.com/subject/24875976/)_ &ensp;&ensp;在库
 
 ##### 理论
 
 - **《散文讲稿》**_[图书介绍](https://book.douban.com/subject/1110178/)_ &ensp;&ensp;在库
-- **《中国散文诗研究》**_[图书介绍](https://book.douban.com/subject/1212700/)_ &ensp;&ensp;在库
-- **《山水风景审美》**_[图书介绍](https://book.douban.com/subject/1212700/)_ &ensp;&ensp;在库
-- **《辞赋铺陈之美》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《现代诗学形式与技巧30讲》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《如何读一本书》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《当代汉语散文流变论》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《把自己作为方法：与项飈谈话》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《中国散文诗研究》**_[图书介绍](https://book.douban.com/subject/1736920/)_ &ensp;&ensp;在库
+- **《山水风景审美》**_[图书介绍](https://book.douban.com/subject/1665507/)_ &ensp;&ensp;在库
+- **《辞赋铺陈之美》** _[图书介绍](https://book.douban.com/subject/26636842/)_ &ensp;&ensp;在库
+- **《现代诗学形式与技巧30讲》** _[图书介绍](https://book.douban.com/subject/1450446/)_ &ensp;&ensp;在库
+- **《如何读一本书》** _[图书介绍](https://book.douban.com/subject/1013208/)_ &ensp;&ensp;在库
+- **《当代汉语散文流变论》** _[图书介绍](https://book.douban.com/subject/1100663/)_ &ensp;&ensp;在库
+- **《把自己作为方法：与项飈谈话》** _[图书介绍](https://book.douban.com/subject/35092383/)_ &ensp;&ensp;在库
 - 
 
 ##### 人生
 
-- **《做派》**_[图书介绍](https://book.douban.com/subject/1034338/)_ &ensp;&ensp;在库
-- **《以箭为翅》**_[图书介绍](https://book.douban.com/subject/1034338/)_ &ensp;&ensp;在库
-- **《奥克诺斯》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《亲爱的安德烈》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《朝花夕拾》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《做派》**_[图书介绍](https://book.douban.com/subject/1512430/)_ &ensp;&ensp;在库
+- **《以箭为翅》**_[图书介绍](https://book.douban.com/subject/2254582/)_ &ensp;&ensp;在库
+- **《奥克诺斯》** _[图书介绍](https://book.douban.com/subject/26275572/)_ &ensp;&ensp;在库
+- **《亲爱的安德烈》** _[图书介绍](https://book.douban.com/subject/3369793/)_ &ensp;&ensp;在库
+- **《朝花夕拾》** _[图书介绍](https://book.douban.com/subject/27167509/)_ &ensp;&ensp;在库
   
 ### 文化
 
 #### 社会学
 
-- **《吾国与吾民》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《当代摄影大师：二十位人性见证者》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《人类情感论》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《社会心理学（第8版）》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《乌合之众》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《津巴多普通心理学》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《国家的常识：政权\地理\文化》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《吾国与吾民》** _[图书介绍](https://book.douban.com/subject/30340950/)_ &ensp;&ensp;在库
+- **《当代摄影大师：二十位人性见证者》** _[图书介绍](https://book.douban.com/subject/11622273/)_ &ensp;&ensp;在库
+- **《人类情感论》** _[图书介绍](https://book.douban.com/subject/1659266/)_ &ensp;&ensp;在库
+- **《社会心理学（第8版）》** _[图书介绍](https://book.douban.com/subject/1476651/)_ &ensp;&ensp;在库
+- **《乌合之众：大众心理研究》** _[图书介绍](https://book.douban.com/subject/6966569/)_ &ensp;&ensp;在库
+- **《津巴多普通心理学》** _[图书介绍](https://book.douban.com/subject/3143537/)_ &ensp;&ensp;在库
+- **《国家的常识：政权\地理\文化》** _[图书介绍](https://book.douban.com/subject/22806583/)_ &ensp;&ensp;在库
 - 
 
 #### 哲学
 
-- **《中国哲学简史》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《哲学与人生》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《心灵自由之路》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《人生中不可不想的事》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《爱与寂寞》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
-- **《爱的觉醒》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《中国哲学简史》** _[图书介绍](https://book.douban.com/subject/20501147/)_ &ensp;&ensp;在库
+- **《哲学与人生》** _[图书介绍](https://book.douban.com/subject/1053526/)_ &ensp;&ensp;在库
+- **《心灵自由之路》** _[图书介绍](https://book.douban.com/subject/1256282/)_ &ensp;&ensp;在库
+- **《人生中不可不想的事》** _[图书介绍](https://book.douban.com/subject/1045716/)_ &ensp;&ensp;在库
+- **《爱与寂寞》** _[图书介绍](https://book.douban.com/subject/1258513/)_ &ensp;&ensp;在库
+- **《爱的觉醒》** _[图书介绍](https://book.douban.com/subject/1829799/)_ &ensp;&ensp;在库
 - **《唤醒能量》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
 - **《人论》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
 - **《沉思录》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
@@ -260,6 +259,7 @@
 
 - **《人体解剖学图谱》** _[图书介绍](https://book.douban.com/subject/27020143/)_ &ensp;&ensp;在库
 - **《极简医学史》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《医道还元》** _[图书介绍](https://book.douban.com/subject/11601093/)_ &ensp;&ensp;在库
   
 ### 宗教
 

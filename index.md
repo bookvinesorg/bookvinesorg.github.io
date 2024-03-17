@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计173本
+### 目前合计175本
 
-### 2024年一季度发布书单 74本
+### 2024年一季度发布书单 76本
 
 - ~~**传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
@@ -96,6 +96,8 @@
 - **小说《外国短篇小说选》** _[图书介绍](https://book.douban.com/subject/25896512/)_ &ensp;&ensp;在库
 - **小说《芳华》** _[图书介绍](https://book.douban.com/subject/36166774/)_ &ensp;&ensp;在库
 - **散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;在库
+- **历史《南宋行暮：宋光宗宋宁宗时代》** _[图书介绍](https://book.douban.com/subject/30277466/)_ &ensp;&ensp;在库
+- **纪实《平壤冷面：一位法国记者暗访北韩的见闻纪实》** _[图书介绍](https://book.douban.com/subject/25892571/)_ &ensp;&ensp;在库
 - 
   
 

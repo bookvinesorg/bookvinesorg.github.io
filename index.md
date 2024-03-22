@@ -98,7 +98,11 @@
 - **散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;在库
 - **历史《南宋行暮：宋光宗宋宁宗时代》** _[图书介绍](https://book.douban.com/subject/30277466/)_ &ensp;&ensp;在库
 - **纪实《平壤冷面：一位法国记者暗访北韩的见闻纪实》** _[图书介绍](https://book.douban.com/subject/25892571/)_ &ensp;&ensp;在库
-- 
+- **散文《悲伤与理智》** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库
+- **散文《爱情笔记》** _[图书介绍](https://book.douban.com/subject/3669406/)_ &ensp;&ensp;在库
+- **散文《无聊的魅力》** _[图书介绍](https://book.douban.com/subject/24838970/)_ &ensp;&ensp;在库
+- **散文《身份的焦虑》** _[图书介绍](https://book.douban.com/subject/2033081/)_ &ensp;&ensp;在库
+- **散文《幸福的建筑》** _[图书介绍](https://book.douban.com/subject/2036993/)_ &ensp;&ensp;在库
   
 
 ### 2023年四季度发布书单 45本

@@ -38,6 +38,8 @@
 - **《我也有一个梦想：近距离看美国之三》** _[图书介绍](https://book.douban.com/subject/1014825/)_ &ensp;&ensp;在库
 - **《带一本书去巴黎》** _[图书介绍](https://book.douban.com/subject/1001885/)_ &ensp;&ensp;在库
 - **《故都的秋》** _[图书介绍](https://book.douban.com/subject/6538422/)_ &ensp;&ensp;在库
+- **《身份的焦虑》** _[图书介绍](https://book.douban.com/subject/2033081/)_ &ensp;&ensp;在库
+- **《幸福的建筑》** _[图书介绍](https://book.douban.com/subject/2036993/)_ &ensp;&ensp;在库
 
 ##### 社会
 

@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计175本
+### 目前合计188本
 
-### 2024年一季度发布书单 76本
+### 2024年一季度发布书单 89本
 
 - ~~**传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
@@ -101,8 +101,17 @@
 - **散文《悲伤与理智》** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库
 - **散文《爱情笔记》** _[图书介绍](https://book.douban.com/subject/3669406/)_ &ensp;&ensp;在库
 - **散文《无聊的魅力》** _[图书介绍](https://book.douban.com/subject/24838970/)_ &ensp;&ensp;在库
-- **散文《身份的焦虑》** _[图书介绍](https://book.douban.com/subject/2033081/)_ &ensp;&ensp;在库
-- **散文《幸福的建筑》** _[图书介绍](https://book.douban.com/subject/2036993/)_ &ensp;&ensp;在库
+- **散文《槭树下的家》** _[图书介绍](https://book.douban.com/subject/1056616/)_ &ensp;&ensp;在库
+- **散文《透明的哀伤》** _[图书介绍](https://book.douban.com/subject/1048441/)_ &ensp;&ensp;在库
+- **历史《笛卡尔的骨头：信仰与理性冲突简史》** _[图书介绍](https://book.douban.com/subject/19906957/)_ &ensp;&ensp;在库
+- **历史《伶人往事》** _[图书介绍](https://weread.qq.com/web/bookDetail/ba7327b0811e4fa5fg01871c)_ &ensp;&ensp;在库
+- **国学《南怀瑾学人生智慧》** _[图书介绍](https://book.douban.com/subject/6777992/)_ &ensp;&ensp;在库
+- **小说《追风筝的人》** _[图书介绍](https://book.douban.com/subject/1770782/)_ &ensp;&ensp;在库
+- **传记《一路投奔奇迹：爱因斯坦的生命和他的宇宙》** _[图书介绍](https://book.douban.com/subject/2125852/)_ &ensp;&ensp;在库
+- **小说《当我们谈论爱情时我们在谈论什么》** _[图书介绍](https://book.douban.com/subject/4010969/)_ &ensp;&ensp;在库
+- **工具《快速阅读》** _[图书介绍](https://book.douban.com/subject/3916049/)_ &ensp;&ensp;在库
+- **诗歌《王尔德诗选》** _[图书介绍](https://book.douban.com/subject/4850137/)_ &ensp;&ensp;在库
+
   
 
 ### 2023年四季度发布书单 45本

@@ -50,6 +50,7 @@
 - **《大江大海一九四九》** _[图书介绍](香港版本)_ &ensp;&ensp;在库
 - **《沉默的大多数》** _[图书介绍](https://book.douban.com/subject/27052050/)_ &ensp;&ensp;在库
 - **《失落的优雅》** _[图书介绍](https://book.douban.com/subject/24875976/)_ &ensp;&ensp;在库
+- **《悲伤与理智》** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库
 
 ##### 理论
 
@@ -61,6 +62,7 @@
 - **《如何读一本书》** _[图书介绍](https://book.douban.com/subject/1013208/)_ &ensp;&ensp;在库
 - **《当代汉语散文流变论》** _[图书介绍](https://book.douban.com/subject/1100663/)_ &ensp;&ensp;在库
 - **《把自己作为方法：与项飈谈话》** _[图书介绍](https://book.douban.com/subject/35092383/)_ &ensp;&ensp;在库
+- **《托尔斯泰与陀思妥耶夫斯基》** _[图书介绍](https://book.douban.com/subject/4149229/)_ &ensp;&ensp;在库
 - 
 
 ##### 人生

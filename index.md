@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计188本
+### 目前合计198本
 
-### 2024年一季度发布书单 89本
+### 2024年一季度发布书单 92本
 
 - ~~**传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
@@ -98,7 +98,6 @@
 - **散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;在库
 - **历史《南宋行暮：宋光宗宋宁宗时代》** _[图书介绍](https://book.douban.com/subject/30277466/)_ &ensp;&ensp;在库
 - **纪实《平壤冷面：一位法国记者暗访北韩的见闻纪实》** _[图书介绍](https://book.douban.com/subject/25892571/)_ &ensp;&ensp;在库
-- **散文《悲伤与理智》** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库
 - **散文《爱情笔记》** _[图书介绍](https://book.douban.com/subject/3669406/)_ &ensp;&ensp;在库
 - **散文《无聊的魅力》** _[图书介绍](https://book.douban.com/subject/24838970/)_ &ensp;&ensp;在库
 - **散文《槭树下的家》** _[图书介绍](https://book.douban.com/subject/1056616/)_ &ensp;&ensp;在库
@@ -111,6 +110,9 @@
 - **小说《当我们谈论爱情时我们在谈论什么》** _[图书介绍](https://book.douban.com/subject/4010969/)_ &ensp;&ensp;在库
 - **工具《快速阅读》** _[图书介绍](https://book.douban.com/subject/3916049/)_ &ensp;&ensp;在库
 - **诗歌《王尔德诗选》** _[图书介绍](https://book.douban.com/subject/4850137/)_ &ensp;&ensp;在库
+- **商业《黑天鹅：如何应对不可预知的未来》** _[图书介绍](https://book.douban.com/subject/6854525/)_ &ensp;&ensp;在库
+- **商业《罗伯特议事规则（第10版）》** _[图书介绍](https://book.douban.com/subject/2382433/)_ &ensp;&ensp;在库
+- **小说《傲慢与偏见》** _[图书介绍](https://book.douban.com/subject/1045926/)_ &ensp;&ensp;在库
 
   
 

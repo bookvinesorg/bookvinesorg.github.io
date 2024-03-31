@@ -13,6 +13,8 @@
 
 **读书不仅是记忆，更多的是感受，在不知不觉中塑造着自己，无论善恶，皆有因缘。**
 
+合计173本，未完待补充
+
 ### 文学
 
 #### 诗歌
@@ -20,6 +22,7 @@
 - **《郑愁予诗的自选II》**_[图书介绍](https://book.douban.com/subject/1027169/)_ &ensp;&ensp;在库
 - **《中国当代诗歌经典》**_[图书介绍](https://book.douban.com/subject/1212700/)_ &ensp;&ensp;在库
 - **《叶嘉莹说初盛唐诗》**_[图书介绍](https://book.douban.com/subject/26296240/)_ &ensp;&ensp;在库
+- **《文学回忆录：木心讲述》**_[图书介绍](https://book.douban.com/subject/25717239/)_ &ensp;&ensp;在库
 
 #### 散文
 
@@ -51,6 +54,7 @@
 - **《沉默的大多数》** _[图书介绍](https://book.douban.com/subject/27052050/)_ &ensp;&ensp;在库
 - **《失落的优雅》** _[图书介绍](https://book.douban.com/subject/24875976/)_ &ensp;&ensp;在库
 - **《悲伤与理智》** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库
+- **《草木精神》** _[图书介绍](https://book.douban.com/subject/1854565/)_ &ensp;&ensp;在库
 
 ##### 理论
 
@@ -127,6 +131,7 @@
 
 - **《李光耀论中国与世界》** _[图书介绍](https://book.douban.com/subject/25730239/)_ &ensp;&ensp;在库
 - **《中东乱局之谜》** _[图书介绍](https://book.douban.com/subject/3037592/)_ &ensp;&ensp;在库
+- **《西方军事学名著提要》** _[图书介绍](https://book.douban.com/subject/1051523/)_ &ensp;&ensp;在库
 
 #### 生活
 
@@ -146,6 +151,7 @@
 - **《怎样学习古文》** _[图书介绍](https://book.douban.com/subject/25964662/)_ &ensp;&ensp;在库
 - **《大好河山可骑驴：中国之美在宋朝》** _[图书介绍](https://book.douban.com/subject/26791617/)_ &ensp;&ensp;在库
 - **《珍物：中国文艺百人物语》** _[图书介绍](https://book.douban.com/subject/26976455/)_ &ensp;&ensp;在库
+- **《闲情偶寄》** _[图书介绍](https://book.douban.com/subject/1007196/)_ &ensp;&ensp;在库
 - 
 
 
@@ -221,6 +227,7 @@
 - **《投资交易笔记》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
 - **《投资交易笔记.续》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
 - **《投资中最简单的事》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《西方经济学名著提要》** _[图书介绍](https://book.douban.com/subject/1045731/)_ &ensp;&ensp;在库
 
 #### 管理学
 

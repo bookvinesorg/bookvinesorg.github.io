@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计198本
+### 目前合计199本
 
-### 2024年一季度发布书单 92本
+### 2024年一季度发布书单 93本
 
 - ~~**传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;出库已清~~
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;出库已清~~
@@ -113,6 +113,9 @@
 - **商业《黑天鹅：如何应对不可预知的未来》** _[图书介绍](https://book.douban.com/subject/6854525/)_ &ensp;&ensp;在库
 - **商业《罗伯特议事规则（第10版）》** _[图书介绍](https://book.douban.com/subject/2382433/)_ &ensp;&ensp;在库
 - **小说《傲慢与偏见》** _[图书介绍](https://book.douban.com/subject/1045926/)_ &ensp;&ensp;在库
+- **商业《斯坦福极简经济学》** _[图书介绍](https://book.douban.com/subject/26314063/)_ &ensp;&ensp;在库
+- **商业《穷人的银行家》** _[图书介绍](https://book.douban.com/subject/20379812/)_ &ensp;&ensp;在库
+
 
   
 

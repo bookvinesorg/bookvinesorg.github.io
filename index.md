@@ -8,7 +8,23 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计199本
+### 目前合计212 本
+
+### 2024年二季度发布书单 13本
+
+- **国学 《故宫退食录》朱家溍** _[图书介绍](https://book.douban.com/subject/4240739/)_ &ensp;&ensp;在库未出
+- **哲学 《生活之路》列夫.托尔斯泰** _[图书介绍](https://book.douban.com/subject/25894989/)_ &ensp;&ensp;在库未出
+- **自传 《百吻巴黎》杨雅晴** _[图书介绍](https://book.douban.com/subject/6798709/)_ &ensp;&ensp;在库未出
+- **小说 《孤独美食家》村上龙** _[图书介绍](https://book.douban.com/subject/26834351/)_ &ensp;&ensp;在库未出
+- **小说 《最后一场电影》村上龙** _[图书介绍](https://book.douban.com/subject/20489742/)_ &ensp;&ensp;在库未出
+- **写作 《做了这本书》** _[图书介绍](https://book.douban.com/subject/26279776/)_ &ensp;&ensp;在库未出
+- **小说 《少年Pi的奇幻漂流》扬.马特尔** _[图书介绍](https://book.douban.com/subject/20326626/)_ &ensp;&ensp;在库未出
+- **小说 《福尔摩斯探案全集》柯南道尔** _[图书介绍](https://book.douban.com/subject/6791428/)_ &ensp;&ensp;在库未出
+- **小说 《雪山大地》** _[图书介绍](https://book.douban.com/subject/36247562/)_ &ensp;&ensp;在库未出
+- **小说 《小姨多鹤》严歌苓** _[图书介绍](https://book.douban.com/subject/4721438/)_ &ensp;&ensp;在库未出
+- ~~**散文《朱光潜谈美》** _[图书介绍](https://book.douban.com/subject/10582044/)_ &ensp;&ensp;出库已清~~
+- ~~**散文《雅舍小品》梁实秋** _[图书介绍](https://book.douban.com/subject/10582034/)_ &ensp;&ensp;出库已清~~
+- **社科 《犬与鬼：现代日本的堕落》** _[图书介绍](https://book.douban.com/subject/25906119/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 
@@ -67,7 +83,7 @@
 - ~~**写作 《642件可写的事：停不下来的创意冒险》** _[图书介绍](https://book.douban.com/subject/30408577/)_ &ensp;&ensp;出库已清~~
 - ~~**社会 《无缘社会》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;出库已清~~
 - **国学 《随园食单（中华雅文化经典丛书）》** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;在库
-- **国学 《长物志（中华雅文化经典丛书》** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;在库
+- ~~**国学 《长物志（中华雅文化经典丛书》** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;出库已清~~
 - **小说 《多瑙河领航员》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1328629/)_ &ensp;&ensp;在库
 - **小说 《飘逝的半岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1276542/)_ &ensp;&ensp;在库
 - **小说 《桑道夫伯爵》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1275375/)_ &ensp;&ensp;在库
@@ -78,38 +94,38 @@
 - **小说 《机器岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1797577/)_ &ensp;&ensp;在库
 - **小说 《昂蒂费尔师傅奇遇记》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1643598/)_ &ensp;&ensp;在库
 - **哲学《中国哲学简史》（重复购买）** _[图书介绍](https://book.douban.com/subject/20501147/)_ &ensp;&ensp;在库
-- **散文《女儿红》** _[图书介绍](https://book.douban.com/subject/4169342/)_ &ensp;&ensp;在库
-- **艺术《演员自我修养》** _[图书介绍](https://book.douban.com/subject/26426676/)_ &ensp;&ensp;在库
-- **散文《风中的纸屑》 周国平** _[图书介绍](https://book.douban.com/subject/5264095/)_ &ensp;&ensp;在库
-- **散文《你是那人间的四月天》 林徽因** _[图书介绍](https://book.douban.com/subject/4165852/)_ &ensp;&ensp;在库
-- **纪实《成为和平饭店》陈丹燕** _[图书介绍](https://book.douban.com/subject/11601093/)_ &ensp;&ensp;在库
+- ~~**散文《女儿红》** _[图书介绍](https://book.douban.com/subject/4169342/)_ &ensp;&ensp;出库已清~~
+- ~~**艺术《演员自我修养》** _[图书介绍](https://book.douban.com/subject/26426676/)_ &ensp;&ensp;出库已清~~
+- ~~**散文《风中的纸屑》 周国平** _[图书介绍](https://book.douban.com/subject/5264095/)_ &ensp;&ensp;出库已清~~
+- ~~**散文《你是那人间的四月天》 林徽因** _[图书介绍](https://book.douban.com/subject/4165852/)_ &ensp;&ensp;出库已清~~
+- ~~**纪实《成为和平饭店》陈丹燕** _[图书介绍](https://book.douban.com/subject/11601093/)_ &ensp;&ensp;出库已清~~
 - **传记《萨特自述》萨特** _[图书介绍](https://book.douban.com/subject/1742335/)_ &ensp;&ensp;在库
-- **设计《家的要素：如何打造一个舒适的家》** _[图书介绍](https://book.douban.com/subject/4746128/)_ &ensp;&ensp;在库
-- **科学《生命的未来》** _[图书介绍](https://book.douban.com/subject/26728065/)_ &ensp;&ensp;在库
+- ~~**设计《家的要素：如何打造一个舒适的家》** _[图书介绍](https://book.douban.com/subject/4746128/)_ &ensp;&ensp;出库已清~~
+- ~~**科学《生命的未来》** _[图书介绍](https://book.douban.com/subject/26728065/)_ &ensp;&ensp;出库已清~~
 - **游记《晓松奇谈：世界卷》高晓松** _[图书介绍](https://book.douban.com/subject/26919519/)_ &ensp;&ensp;在库
-- **小说《世界尽头与冷酷仙境》村上春树** _[图书介绍](https://book.douban.com/subject/2158161/)_ &ensp;&ensp;在库
-- **艺术《观看之道》约翰.伯格** _[图书介绍](https://book.douban.com/subject/26427579/)_ &ensp;&ensp;在库
+- ~~**小说《世界尽头与冷酷仙境》村上春树** _[图书介绍](https://book.douban.com/subject/2158161/)_ &ensp;&ensp;出库已清~~
+- ~~**艺术《观看之道》约翰.伯格** _[图书介绍](https://book.douban.com/subject/26427579/)_ &ensp;&ensp;出库已清~~
 - **散文《文学履途：漫游在伟大故事诞生之地》** _[图书介绍](https://book.douban.com/subject/30322377/)_ &ensp;&ensp;在库
-- **历史《枪炮、病菌与钢铁》** _[图书介绍](https://book.douban.com/subject/1813841/)_ &ensp;&ensp;在库
+- ~~**历史《枪炮、病菌与钢铁》** _[图书介绍](https://book.douban.com/subject/1813841/)_ &ensp;&ensp;出库已清~~
 - **人生《甘露与净瓶的对话：圣严法师开示》** _[图书介绍](https://book.douban.com/subject/3167925/)_ &ensp;&ensp;在库
 - **小说《外国短篇小说》** _[图书介绍](https://book.douban.com/subject/30163876/)_ &ensp;&ensp;在库
 - **小说《外国短篇小说选》** _[图书介绍](https://book.douban.com/subject/25896512/)_ &ensp;&ensp;在库
-- **小说《芳华》** _[图书介绍](https://book.douban.com/subject/36166774/)_ &ensp;&ensp;在库
+- ~~**小说《芳华》** _[图书介绍](https://book.douban.com/subject/36166774/)_ &ensp;&ensp;出库已清~~
 - **散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;在库
-- **历史《南宋行暮：宋光宗宋宁宗时代》** _[图书介绍](https://book.douban.com/subject/30277466/)_ &ensp;&ensp;在库
+- ~~**历史《南宋行暮：宋光宗宋宁宗时代》** _[图书介绍](https://book.douban.com/subject/30277466/)_ &ensp;&ensp;出库已清~~
 - **纪实《平壤冷面：一位法国记者暗访北韩的见闻纪实》** _[图书介绍](https://book.douban.com/subject/25892571/)_ &ensp;&ensp;在库
 - **散文《爱情笔记》** _[图书介绍](https://book.douban.com/subject/3669406/)_ &ensp;&ensp;在库
-- **散文《无聊的魅力》** _[图书介绍](https://book.douban.com/subject/24838970/)_ &ensp;&ensp;在库
+- ~~**散文《无聊的魅力》** _[图书介绍](https://book.douban.com/subject/24838970/)_ &ensp;&ensp;出库已清~~
 - **散文《槭树下的家》** _[图书介绍](https://book.douban.com/subject/1056616/)_ &ensp;&ensp;在库
 - **散文《透明的哀伤》** _[图书介绍](https://book.douban.com/subject/1048441/)_ &ensp;&ensp;在库
 - **历史《笛卡尔的骨头：信仰与理性冲突简史》** _[图书介绍](https://book.douban.com/subject/19906957/)_ &ensp;&ensp;在库
 - **历史《伶人往事》** _[图书介绍](https://weread.qq.com/web/bookDetail/ba7327b0811e4fa5fg01871c)_ &ensp;&ensp;在库
 - **国学《南怀瑾学人生智慧》** _[图书介绍](https://book.douban.com/subject/6777992/)_ &ensp;&ensp;在库
-- **小说《追风筝的人》** _[图书介绍](https://book.douban.com/subject/1770782/)_ &ensp;&ensp;在库
+- ~~**小说《追风筝的人》** _[图书介绍](https://book.douban.com/subject/1770782/)_ &ensp;&ensp;出库已清~~
 - **传记《一路投奔奇迹：爱因斯坦的生命和他的宇宙》** _[图书介绍](https://book.douban.com/subject/2125852/)_ &ensp;&ensp;在库
-- **小说《当我们谈论爱情时我们在谈论什么》** _[图书介绍](https://book.douban.com/subject/4010969/)_ &ensp;&ensp;在库
+- ~~**小说《当我们谈论爱情时我们在谈论什么》** _[图书介绍](https://book.douban.com/subject/4010969/)_ &ensp;&ensp;出库已清~~
 - **工具《快速阅读》** _[图书介绍](https://book.douban.com/subject/3916049/)_ &ensp;&ensp;在库
-- **诗歌《王尔德诗选》** _[图书介绍](https://book.douban.com/subject/4850137/)_ &ensp;&ensp;在库
+- ~~**诗歌《王尔德诗选》** _[图书介绍](https://book.douban.com/subject/4850137/)_ &ensp;&ensp;出库已清~~
 - **商业《黑天鹅：如何应对不可预知的未来》** _[图书介绍](https://book.douban.com/subject/6854525/)_ &ensp;&ensp;在库
 - **商业《罗伯特议事规则（第10版）》** _[图书介绍](https://book.douban.com/subject/2382433/)_ &ensp;&ensp;在库
 - **小说《傲慢与偏见》** _[图书介绍](https://book.douban.com/subject/1045926/)_ &ensp;&ensp;在库
@@ -164,7 +180,7 @@
 - **文学 《二十世纪中国散文诗论》**_[图书介绍](https://book.douban.com/subject/1221404/)_ &ensp;&ensp;在库未出
 - **文学 《喧嚣中的足迹》**_[图书介绍](https://book.douban.com/subject/1144684/)_ &ensp;&ensp;在库未出
 - **文学 《杂文写作论》**_[图书介绍](无)_ &ensp;&ensp;在库未出
-- **小说 《基督山伯爵》（4册）**_[图书介绍](https://book.douban.com/subject/3904329/)_ &ensp;&ensp;在库未出
+- ~~**小说 《基督山伯爵》（4册）**_[图书介绍](https://book.douban.com/subject/3904329/)_ &ensp;&ensp;出库已清~~
 - **传记 《香水情芬：调出来的神秘》**_[图书介绍](https://book.douban.com/subject/1951803/)_ &ensp;&ensp;在库未出
 
 

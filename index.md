@@ -25,6 +25,9 @@
 - ~~**散文《朱光潜谈美》** _[图书介绍](https://book.douban.com/subject/10582044/)_ &ensp;&ensp;出库已清~~
 - ~~**散文《雅舍小品》梁实秋** _[图书介绍](https://book.douban.com/subject/10582034/)_ &ensp;&ensp;出库已清~~
 - **社科 《犬与鬼：现代日本的堕落》** _[图书介绍](https://book.douban.com/subject/25906119/)_ &ensp;&ensp;在库未出
+- **管理 《德胜员工守则》** _[图书介绍](https://book.douban.com/subject/24732532/)_ &ensp;&ensp;在库未出
+- **散文 《悲伤与理智》约瑟夫.布罗茨基** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库未出
+- **国学 《心经随喜》胡兰成** _[图书介绍](https://book.douban.com/subject/10487570/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 
@@ -99,13 +102,13 @@
 - ~~**散文《风中的纸屑》 周国平** _[图书介绍](https://book.douban.com/subject/5264095/)_ &ensp;&ensp;出库已清~~
 - ~~**散文《你是那人间的四月天》 林徽因** _[图书介绍](https://book.douban.com/subject/4165852/)_ &ensp;&ensp;出库已清~~
 - ~~**纪实《成为和平饭店》陈丹燕** _[图书介绍](https://book.douban.com/subject/11601093/)_ &ensp;&ensp;出库已清~~
-- **传记《萨特自述》萨特** _[图书介绍](https://book.douban.com/subject/1742335/)_ &ensp;&ensp;在库
+- ~~**传记《萨特自述》萨特** _[图书介绍](https://book.douban.com/subject/1742335/)_ &ensp;&ensp;出库已清~~
 - ~~**设计《家的要素：如何打造一个舒适的家》** _[图书介绍](https://book.douban.com/subject/4746128/)_ &ensp;&ensp;出库已清~~
 - ~~**科学《生命的未来》** _[图书介绍](https://book.douban.com/subject/26728065/)_ &ensp;&ensp;出库已清~~
-- **游记《晓松奇谈：世界卷》高晓松** _[图书介绍](https://book.douban.com/subject/26919519/)_ &ensp;&ensp;在库
+- ~~**游记《晓松奇谈：世界卷》高晓松** _[图书介绍](https://book.douban.com/subject/26919519/)_ &ensp;&ensp;~~
 - ~~**小说《世界尽头与冷酷仙境》村上春树** _[图书介绍](https://book.douban.com/subject/2158161/)_ &ensp;&ensp;出库已清~~
 - ~~**艺术《观看之道》约翰.伯格** _[图书介绍](https://book.douban.com/subject/26427579/)_ &ensp;&ensp;出库已清~~
-- **散文《文学履途：漫游在伟大故事诞生之地》** _[图书介绍](https://book.douban.com/subject/30322377/)_ &ensp;&ensp;在库
+- ~~**散文《文学履途：漫游在伟大故事诞生之地》** _[图书介绍](https://book.douban.com/subject/30322377/)_ &ensp;&ensp;~~
 - ~~**历史《枪炮、病菌与钢铁》** _[图书介绍](https://book.douban.com/subject/1813841/)_ &ensp;&ensp;出库已清~~
 - **人生《甘露与净瓶的对话：圣严法师开示》** _[图书介绍](https://book.douban.com/subject/3167925/)_ &ensp;&ensp;在库
 - **小说《外国短篇小说》** _[图书介绍](https://book.douban.com/subject/30163876/)_ &ensp;&ensp;在库
@@ -208,14 +211,14 @@
 
 - ~~**文化《寻城记：重庆》** _[图书介绍](https://book.douban.com/subject/2025990/)_ &ensp;&ensp;出库已清~~
 - **文艺《精短新诗200首》** _[图书介绍](https://book.douban.com/subject/3458377/)_ &ensp;&ensp;在库未出
-- **文艺《流浪集》** _[图书介绍](https://book.douban.com/subject/4208780/)_ &ensp;&ensp;在库未出
+- ~~**文艺《流浪集》** _[图书介绍](https://book.douban.com/subject/4208780/)_ &ensp;&ensp;~~
 - ~~**文化《大国大城》** _[图书介绍](https://book.douban.com/subject/26824237/)_ &ensp;&ensp;~~出库已清
 - ~~**文化《钝感力》** _[图书介绍](https://book.douban.com/subject/2119843/)_ &ensp;&ensp;出库已清~~
 - **专业《心理测量与评估（心理学基础课系列教材）》** _[图书介绍](https://book.douban.com/subject/1955415/)_ &ensp;&ensp;在库未出
 - **传记《帝国如风：元朝的另类历史》** _[图书介绍](https://book.douban.com/subject/1891104/)_ &ensp;&ensp;在库未出
 - ~~**文化《仙骨佛心-家具、紫砂与明清文人》** _[图书介绍](https://book.douban.com/subject/4011281/)_ &ensp;&ensp;出库已清~~
-- **传记《傅雷家书（傅敏编）》** _[图书介绍](https://book.douban.com/subject/4881264/)_ &ensp;&ensp;在库未出
-- **传记《失焦：卡帕传》** _[图书介绍](https://book.douban.com/subject/10557523/)_ &ensp;&ensp;在库未出
+- ~~**传记《傅雷家书（傅敏编）》** _[图书介绍](https://book.douban.com/subject/4881264/)_ &ensp;&ensp;~~
+- ~~**传记《失焦：卡帕传》** _[图书介绍](https://book.douban.com/subject/10557523/)_ &ensp;&ensp;~~
 - ~~**传记《二手时间》** _[图书介绍](https://book.douban.com/subject/26704403/)_ &ensp;&ensp;出库已清~~
 - ~~**传记《江城》** _[图书介绍](https://book.douban.com/subject/7060185/)_ &ensp;&ensp;出库已清~~
 - ~~**文化《散文的可能性》** _[图书介绍](https://book.douban.com/subject/1973442/)_ &ensp;&ensp;出库已清~~
@@ -231,7 +234,7 @@
 - ~~**文化《鲍勃.迪伦诗歌集》全8册** _[图书介绍](https://book.douban.com/subject/27032027/)_ &ensp;&ensp;~~出库已清
 - **社科《卡耐基人际关系心理学》** _[图书介绍](https://book.douban.com/subject/2338699/)_ &ensp;&ensp;在库未出
 - **文化《世界幽默艺术博览》** _[图书介绍](https://book.douban.com/subject/1639295/)_ &ensp;&ensp;在库未出
-- **企业 《FaceBook效应》** _[图书介绍](https://book.douban.com/subject/5313010/)_ 在库未出
+- ~~**企业 《FaceBook效应》** _[图书介绍](https://book.douban.com/subject/5313010/)_ &ensp;&ensp; 出库已清~~
 - **社科 《气场》** _[图书介绍](https://book.douban.com/subject/5325861/)_  &ensp;&ensp;在库未出
 
 

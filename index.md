@@ -28,6 +28,10 @@
 - **管理 《德胜员工守则》** _[图书介绍](https://book.douban.com/subject/24732532/)_ &ensp;&ensp;在库未出
 - **散文 《悲伤与理智》约瑟夫.布罗茨基** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库未出
 - **国学 《心经随喜》胡兰成** _[图书介绍](https://book.douban.com/subject/10487570/)_ &ensp;&ensp;在库未出
+- **小说 《拉普拉斯的魔女》东野圭吾** _[图书介绍](https://book.douban.com/subject/26920165/)_ &ensp;&ensp;在库未出
+- **国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;在库未出
+- **国学 《约翰.克里斯朵夫》罗曼.罗兰** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;在库未出
+- **中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 
@@ -134,8 +138,6 @@
 - **小说《傲慢与偏见》** _[图书介绍](https://book.douban.com/subject/1045926/)_ &ensp;&ensp;在库
 - **商业《斯坦福极简经济学》** _[图书介绍](https://book.douban.com/subject/26314063/)_ &ensp;&ensp;在库
 - **商业《穷人的银行家》** _[图书介绍](https://book.douban.com/subject/20379812/)_ &ensp;&ensp;在库
-
-
   
 
 ### 2023年四季度发布书单 45本

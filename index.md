@@ -32,6 +32,7 @@
 - **国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;在库未出
 - **国学 《约翰.克里斯朵夫》罗曼.罗兰** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;在库未出
 - **中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;在库未出
+- **成功 《精要主义：如何应对拥挤不堪的工作与生活》** _[图书介绍](https://book.douban.com/subject/26761859/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 

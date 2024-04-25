@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计220 本
+### 目前合计224 本
 
-### 2024年二季度发布书单 21本
+### 2024年二季度发布书单 25本
 
 - **国学 《故宫退食录》朱家溍** _[图书介绍](https://book.douban.com/subject/4240739/)_ &ensp;&ensp;在库未出
 - **哲学 《生活之路》列夫.托尔斯泰** _[图书介绍](https://book.douban.com/subject/25894989/)_ &ensp;&ensp;在库未出
@@ -31,8 +31,12 @@
 - **小说 《拉普拉斯的魔女》东野圭吾** _[图书介绍](https://book.douban.com/subject/26920165/)_ &ensp;&ensp;在库未出
 - **国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;在库未出
 - **国学 《约翰.克里斯朵夫》罗曼.罗兰** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;在库未出
-- **中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;在库未出
+- ~~**中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;出库已清~~
 - **成功 《精要主义：如何应对拥挤不堪的工作与生活》** _[图书介绍](https://book.douban.com/subject/26761859/)_ &ensp;&ensp;在库未出
+- **管理 《重来2：更为简单高效的远程工作方式》** _[图书介绍](https://book.douban.com/subject/25861795/)_ &ensp;&ensp;在库未出
+- **诗歌 《再别康桥：徐志摩诗歌全集》徐志摩** _[图书介绍](https://book.douban.com/subject/3261221/)_ &ensp;&ensp;在库未出
+- **小说 《卡门》** _[图书介绍](https://book.douban.com/subject/6863525/)_ &ensp;&ensp;在库未出
+- **散文 《静观尘世》 丰子恺** _[图书介绍](https://book.douban.com/subject/10582041/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 

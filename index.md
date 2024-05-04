@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计224 本
+### 目前合计228 本
 
-### 2024年二季度发布书单 25本
+### 2024年二季度发布书单 29本
 
 - **国学 《故宫退食录》朱家溍** _[图书介绍](https://book.douban.com/subject/4240739/)_ &ensp;&ensp;在库未出
 - **哲学 《生活之路》列夫.托尔斯泰** _[图书介绍](https://book.douban.com/subject/25894989/)_ &ensp;&ensp;在库未出
@@ -37,6 +37,10 @@
 - **诗歌 《再别康桥：徐志摩诗歌全集》徐志摩** _[图书介绍](https://book.douban.com/subject/3261221/)_ &ensp;&ensp;在库未出
 - **小说 《卡门》** _[图书介绍](https://book.douban.com/subject/6863525/)_ &ensp;&ensp;在库未出
 - **散文 《静观尘世》 丰子恺** _[图书介绍](https://book.douban.com/subject/10582041/)_ &ensp;&ensp;在库未出
+- **写作 《结构化写作：心中有谱、下笔有神，赢得职场说服力》** _[图书介绍](https://book.douban.com/subject/27598613/)_ &ensp;&ensp;在库未出
+- **写作 《如何高效写作》** _[图书介绍](https://book.douban.com/subject/30266007/)_ &ensp;&ensp;在库未出
+- **写作 《模版写作法：世界上最简单的写作课》** _[图书介绍](https://book.douban.com/subject/35442664/)_ &ensp;&ensp;在库未出
+- **传记 《三仲马：外国名人传记》安德烈.莫洛亚** _[图书介绍](https://book.douban.com/subject/2243099/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 

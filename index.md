@@ -4,7 +4,7 @@
 
 &ensp;&ensp;&ensp;&ensp;所有书籍均为已阅书籍，部分为旧版书籍，可能有阅读和标注痕迹，书封有书蔓社藏书章或枫藏书章，。
 
-&ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。 
+&ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。 最近增加了“推荐”标记，用以标识其中大众视角下适合阅读的书籍。
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
@@ -12,36 +12,36 @@
 
 ### 2024年二季度发布书单 30本
 
-- **国学 《故宫退食录》朱家溍** _[图书介绍](https://book.douban.com/subject/4240739/)_ &ensp;&ensp;在库未出
-- **哲学 《生活之路》列夫.托尔斯泰** _[图书介绍](https://book.douban.com/subject/25894989/)_ &ensp;&ensp;在库未出
+- **国学 《故宫退食录》朱家溍【推荐】** _[图书介绍](https://book.douban.com/subject/4240739/)_ &ensp;&ensp;在库未出
+- **哲学 《生活之路》列夫.托尔斯泰【推荐】** _[图书介绍](https://book.douban.com/subject/25894989/)_ &ensp;&ensp;在库未出
 - **自传 《百吻巴黎》杨雅晴** _[图书介绍](https://book.douban.com/subject/6798709/)_ &ensp;&ensp;在库未出
 - **小说 《孤独美食家》村上龙** _[图书介绍](https://book.douban.com/subject/26834351/)_ &ensp;&ensp;在库未出
 - **小说 《最后一场电影》村上龙** _[图书介绍](https://book.douban.com/subject/20489742/)_ &ensp;&ensp;在库未出
 - **写作 《做了这本书》** _[图书介绍](https://book.douban.com/subject/26279776/)_ &ensp;&ensp;在库未出
 - **小说 《少年Pi的奇幻漂流》扬.马特尔** _[图书介绍](https://book.douban.com/subject/20326626/)_ &ensp;&ensp;在库未出
-- **小说 《福尔摩斯探案全集》柯南道尔** _[图书介绍](https://book.douban.com/subject/6791428/)_ &ensp;&ensp;在库未出
+- **小说 《福尔摩斯探案全集》柯南道尔【推荐】** _[图书介绍](https://book.douban.com/subject/6791428/)_ &ensp;&ensp;在库未出
 - **小说 《雪山大地》** _[图书介绍](https://book.douban.com/subject/36247562/)_ &ensp;&ensp;在库未出
 - **小说 《小姨多鹤》严歌苓** _[图书介绍](https://book.douban.com/subject/4721438/)_ &ensp;&ensp;在库未出
-- ~~**散文《朱光潜谈美》** _[图书介绍](https://book.douban.com/subject/10582044/)_ &ensp;&ensp;出库已清~~
-- ~~**散文《雅舍小品》梁实秋** _[图书介绍](https://book.douban.com/subject/10582034/)_ &ensp;&ensp;出库已清~~
+- ~~**散文《朱光潜谈美》【推荐】** _[图书介绍](https://book.douban.com/subject/10582044/)_ &ensp;&ensp;出库已清~~
+- ~~**散文《雅舍小品》梁实秋【推荐】** _[图书介绍](https://book.douban.com/subject/10582034/)_ &ensp;&ensp;出库已清~~
 - **社科 《犬与鬼：现代日本的堕落》** _[图书介绍](https://book.douban.com/subject/25906119/)_ &ensp;&ensp;在库未出
-- **管理 《德胜员工守则》** _[图书介绍](https://book.douban.com/subject/24732532/)_ &ensp;&ensp;在库未出
-- **散文 《悲伤与理智》约瑟夫.布罗茨基** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库未出
-- **国学 《心经随喜》胡兰成** _[图书介绍](https://book.douban.com/subject/10487570/)_ &ensp;&ensp;在库未出
+- **管理 《德胜员工守则》【推荐】** _[图书介绍](https://book.douban.com/subject/24732532/)_ &ensp;&ensp;在库未出
+- **散文 《悲伤与理智》约瑟夫.布罗茨基【推荐】** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库未出
+- **国学 《心经随喜》胡兰成【推荐】** _[图书介绍](https://book.douban.com/subject/10487570/)_ &ensp;&ensp;在库未出
 - **小说 《拉普拉斯的魔女》东野圭吾** _[图书介绍](https://book.douban.com/subject/26920165/)_ &ensp;&ensp;在库未出
 - **国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;在库未出
-- **国学 《约翰.克里斯朵夫》罗曼.罗兰** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;在库未出
+- **国学 《约翰.克里斯朵夫》罗曼.罗兰【推荐】** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;在库未出
 - ~~**中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;出库已清~~
 - **成功 《精要主义：如何应对拥挤不堪的工作与生活》** _[图书介绍](https://book.douban.com/subject/26761859/)_ &ensp;&ensp;在库未出
-- **管理 《重来2：更为简单高效的远程工作方式》** _[图书介绍](https://book.douban.com/subject/25861795/)_ &ensp;&ensp;在库未出
+- **管理 《重来2：更为简单高效的远程工作方式》【推荐】** _[图书介绍](https://book.douban.com/subject/25861795/)_ &ensp;&ensp;在库未出
 - **诗歌 《再别康桥：徐志摩诗歌全集》徐志摩** _[图书介绍](https://book.douban.com/subject/3261221/)_ &ensp;&ensp;在库未出
-- **小说 《卡门》** _[图书介绍](https://book.douban.com/subject/6863525/)_ &ensp;&ensp;在库未出
+- **小说 《卡门》【推荐】** _[图书介绍](https://book.douban.com/subject/6863525/)_ &ensp;&ensp;在库未出
 - **散文 《静观尘世》 丰子恺** _[图书介绍](https://book.douban.com/subject/10582041/)_ &ensp;&ensp;在库未出
-- **写作 《结构化写作：心中有谱、下笔有神，赢得职场说服力》** _[图书介绍](https://book.douban.com/subject/27598613/)_ &ensp;&ensp;在库未出
+- **写作 《结构化写作：心中有谱、下笔有神，赢得职场说服力》【推荐】** _[图书介绍](https://book.douban.com/subject/27598613/)_ &ensp;&ensp;在库未出
 - **写作 《如何高效写作》** _[图书介绍](https://book.douban.com/subject/30266007/)_ &ensp;&ensp;在库未出
 - **写作 《模版写作法：世界上最简单的写作课》** _[图书介绍](https://book.douban.com/subject/35442664/)_ &ensp;&ensp;在库未出
-- **传记 《三仲马：外国名人传记》安德烈.莫洛亚** _[图书介绍](https://book.douban.com/subject/2243099/)_ &ensp;&ensp;在库未出
-- **历史 《魏晋名士链》萧华荣** _[图书介绍](https://book.douban.com/subject/25929709/)_ &ensp;&ensp;在库未出
+- **传记 《三仲马：外国名人传记》安德烈.莫洛亚【推荐】** _[图书介绍](https://book.douban.com/subject/2243099/)_ &ensp;&ensp;在库未出
+- **历史 《魏晋名士链》萧华荣【推荐】** _[图书介绍](https://book.douban.com/subject/25929709/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 

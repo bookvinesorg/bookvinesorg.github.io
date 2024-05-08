@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计228 本
+### 目前合计229 本
 
-### 2024年二季度发布书单 29本
+### 2024年二季度发布书单 30本
 
 - **国学 《故宫退食录》朱家溍** _[图书介绍](https://book.douban.com/subject/4240739/)_ &ensp;&ensp;在库未出
 - **哲学 《生活之路》列夫.托尔斯泰** _[图书介绍](https://book.douban.com/subject/25894989/)_ &ensp;&ensp;在库未出
@@ -41,6 +41,7 @@
 - **写作 《如何高效写作》** _[图书介绍](https://book.douban.com/subject/30266007/)_ &ensp;&ensp;在库未出
 - **写作 《模版写作法：世界上最简单的写作课》** _[图书介绍](https://book.douban.com/subject/35442664/)_ &ensp;&ensp;在库未出
 - **传记 《三仲马：外国名人传记》安德烈.莫洛亚** _[图书介绍](https://book.douban.com/subject/2243099/)_ &ensp;&ensp;在库未出
+- **历史 《魏晋名士链》萧华荣** _[图书介绍](https://book.douban.com/subject/25929709/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 

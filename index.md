@@ -49,6 +49,10 @@
 - **小说 《应物兄》李洱** _[图书介绍](https://book.douban.com/subject/30409058/)_ &ensp;&ensp;在库未出
 - **国学 《园治》【推荐】** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;在库未出
 - **哲学 《耶鲁大学公开课：死亡》【推荐】** _[图书介绍](https://book.douban.com/subject/25859542/)_ &ensp;&ensp;在库未出
+- **文化 《光影国度 2013》** _沙特高等教育部_ &ensp;&ensp;在库未出
+- **文化 《阿拉伯半岛妇女的传统饰物：11到14世纪》** _沙特高等教育部_ &ensp;&ensp;在库未出
+- **哲学 《道德情操论》亚当.史密斯** _[图书介绍](https://book.douban.com/subject/1116367/)_ &ensp;&ensp;在库未出
+- **小说 《爱的流放地》渡边淳一** _[图书介绍](https://book.douban.com/subject/2247138/)_ &ensp;&ensp;在库未出
 
 ### 2024年一季度发布书单 93本
 

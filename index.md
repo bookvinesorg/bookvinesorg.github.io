@@ -167,7 +167,6 @@
 - **商业《斯坦福极简经济学》** _[图书介绍](https://book.douban.com/subject/26314063/)_ &ensp;&ensp;在库
 - **商业《穷人的银行家》** _[图书介绍](https://book.douban.com/subject/20379812/)_ &ensp;&ensp;在库
   
-
 ### 2023年四季度发布书单 45本
 
 - **成功学《忠诚:致加西亚的信》** _[图书介绍](https://book.douban.com/subject/1201326/)_ &ensp;&ensp;在库未出
@@ -215,7 +214,6 @@
 - **文学 《杂文写作论》**_[图书介绍](无)_ &ensp;&ensp;在库未出
 - ~~**小说 《基督山伯爵》（4册）**_[图书介绍](https://book.douban.com/subject/3904329/)_ &ensp;&ensp;出库已清~~
 - **传记 《香水情芬：调出来的神秘》**_[图书介绍](https://book.douban.com/subject/1951803/)_ &ensp;&ensp;在库未出
-
 
 ### 2023年三季度发布书单 17本
 
@@ -266,7 +264,6 @@
 - **文化《世界幽默艺术博览》** _[图书介绍](https://book.douban.com/subject/1639295/)_ &ensp;&ensp;在库未出
 - ~~**企业 《FaceBook效应》** _[图书介绍](https://book.douban.com/subject/5313010/)_ &ensp;&ensp; 出库已清~~
 - **社科 《气场》** _[图书介绍](https://book.douban.com/subject/5325861/)_  &ensp;&ensp;在库未出
-
 
 ### 2023年一季度发布书单 2本
 

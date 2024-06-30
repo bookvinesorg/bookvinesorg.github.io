@@ -55,6 +55,11 @@
 - **小说 《爱的流放地》渡边淳一** _[图书介绍](https://book.douban.com/subject/2247138/)_ &ensp;&ensp;在库未出
 - **传记 《极权制造：莱尼.瑞芬斯塔尔的一生》【推荐】** _[图书介绍](https://book.douban.com/subject/4912683/)_ &ensp;&ensp;在库未出
 - **科学 《神秘的量子生命》【推荐】** _[图书介绍](https://book.douban.com/subject/26844877/)_ &ensp;&ensp;在库未出
+- **国学《烟云过眼》** _[图书介绍](https://book.douban.com/subject/25752971/)_ &ensp;&ensp;在库
+- **艺术《论摄影》** _[图书介绍](https://book.douban.com/subject/4282084/)_ &ensp;&ensp;在库
+- **园艺《公园植物造景》** _[图书介绍](https://book.douban.com/subject/7006693/)_ &ensp;&ensp;在库
+- **漫画《革命之路》** _[图书介绍](https://book.douban.com/subject/25709105/)_ &ensp;&ensp;在库
+- **漫画《切尔诺贝利之花》** _[图书介绍](https://book.douban.com/subject/7006693/)_ &ensp;&ensp;在库
 
 ### 2024年一季度发布书单 93本
 

@@ -143,7 +143,6 @@
 
 - **《瓶花谱.瓶史》** _[图书介绍](https://book.douban.com/subject/11632465/)_ &ensp;&ensp;在库
 - **《风声水起：风水方家谭》** _[图书介绍](https://book.douban.com/subject/2143461/)_ &ensp;&ensp;在库
-- **《烟云过眼》** _[图书介绍](https://book.douban.com/subject/25752971/)_ &ensp;&ensp;在库
 - **《西南联大行思录》** _[图书介绍](https://book.douban.com/subject/24838578/)_ &ensp;&ensp;在库
 - **《美的历程》** _[图书介绍](https://book.douban.com/subject/3410718/)_ &ensp;&ensp;在库
 - **《五体：新编书法字汇》** _[图书介绍](https://book.douban.com/subject/2090528/)_ &ensp;&ensp;在库

@@ -207,7 +207,7 @@
 - **商业 《只有偏执狂才能生存》**_[图书介绍](https://book.douban.com/subject/1940579/)_ &ensp;&ensp;在库未出
 - ~~**商业 《华尔街的智慧天才:费希尔.布莱克和他的革命性金融思想》**_[图书介绍](https://book.douban.com/subject/2176823/)_ &ensp;&ensp;出库已清~~
 - **商业 《一天一根胡萝卜:365天的员工激励方案》**_[图书介绍](https://book.douban.com/subject/1392400/)_ &ensp;&ensp;在库未出
-- **文学 《旷世风华：大运河传》**_[图书介绍](https://book.douban.com/subject/1248523/)_ &ensp;&ensp;在库未出
+- ~~**文学 《旷世风华：大运河传》**_[图书介绍](https://book.douban.com/subject/1248523/)_ &ensp;&ensp;出库已清~~
 - **文学 《中国微型诗300首》**_[图书介绍](https://book.douban.com/subject/4273847/)_ &ensp;&ensp;在库未出
 - **文学 《名利场》**_[图书介绍](https://book.douban.com/subject/1411053/)_ &ensp;&ensp;在库未出
 - **文学 《红字》**_[图书介绍](https://book.douban.com/subject/2032657/)_ &ensp;&ensp;在库未出
@@ -256,7 +256,7 @@
 - ~~**传记《二手时间》** _[图书介绍](https://book.douban.com/subject/26704403/)_ &ensp;&ensp;出库已清~~
 - ~~**传记《江城》** _[图书介绍](https://book.douban.com/subject/7060185/)_ &ensp;&ensp;出库已清~~
 - ~~**文化《散文的可能性》** _[图书介绍](https://book.douban.com/subject/1973442/)_ &ensp;&ensp;出库已清~~
-- **专业《摄影爱好者必备手册》** _[图书介绍](https://book.douban.com/subject/1214439/)_ &ensp;&ensp;在库未出
+- ~~**专业《摄影爱好者必备手册》** _[图书介绍](https://book.douban.com/subject/1214439/)_ &ensp;&ensp;出库已清~~
 - **文化《IBM 蓝色基因 百年智慧》** _[图书介绍](https://book.douban.com/subject/6965594/)_ &ensp;&ensp;在库未出
 - **写作《创意写作教学 实用方法50例》** _[图书介绍](https://book.douban.com/subject/25849697/)_ &ensp;&ensp;在库未出
 - ~~**写作《情节！情节！ 通过人物、悬念与冲突赋予故事生命力》** _[图书介绍](https://book.douban.com/subject/10834606/)_ &ensp;&ensp;出库已清~~

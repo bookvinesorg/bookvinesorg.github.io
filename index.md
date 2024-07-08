@@ -8,12 +8,12 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计239本
+### 目前合计250本
 
-### 2024年二季度发布书单 40本
+### 2024年二季度发布书单 45本
 
-- **国学 《故宫退食录》朱家溍【推荐】** _[图书介绍](https://book.douban.com/subject/4240739/)_ &ensp;&ensp;在库未出
-- **哲学 《生活之路》列夫.托尔斯泰【推荐】** _[图书介绍](https://book.douban.com/subject/25894989/)_ &ensp;&ensp;在库未出
+- ~~**国学 《故宫退食录》朱家溍【推荐】** _[图书介绍](https://book.douban.com/subject/4240739/)_ &ensp;&ensp;出库已清~~
+- ~~**哲学 《生活之路》列夫.托尔斯泰【推荐】** _[图书介绍](https://book.douban.com/subject/25894989/)_ &ensp;&ensp;出库已清~~
 - **自传 《百吻巴黎》杨雅晴** _[图书介绍](https://book.douban.com/subject/6798709/)_ &ensp;&ensp;在库未出
 - **小说 《孤独美食家》村上龙** _[图书介绍](https://book.douban.com/subject/26834351/)_ &ensp;&ensp;在库未出
 - **小说 《最后一场电影》村上龙** _[图书介绍](https://book.douban.com/subject/20489742/)_ &ensp;&ensp;在库未出
@@ -25,11 +25,11 @@
 - ~~**散文《朱光潜谈美》【推荐】** _[图书介绍](https://book.douban.com/subject/10582044/)_ &ensp;&ensp;出库已清~~
 - ~~**散文《雅舍小品》梁实秋【推荐】** _[图书介绍](https://book.douban.com/subject/10582034/)_ &ensp;&ensp;出库已清~~
 - **社科 《犬与鬼：现代日本的堕落》** _[图书介绍](https://book.douban.com/subject/25906119/)_ &ensp;&ensp;在库未出
-- **管理 《德胜员工守则》【推荐】** _[图书介绍](https://book.douban.com/subject/24732532/)_ &ensp;&ensp;在库未出
+- ~~**管理 《德胜员工守则》【推荐】** _[图书介绍](https://book.douban.com/subject/24732532/)_ &ensp;&ensp;出库已清~~
 - **散文 《悲伤与理智》约瑟夫.布罗茨基【推荐】** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;在库未出
 - **国学 《心经随喜》胡兰成【推荐】** _[图书介绍](https://book.douban.com/subject/10487570/)_ &ensp;&ensp;在库未出
 - **小说 《拉普拉斯的魔女》东野圭吾** _[图书介绍](https://book.douban.com/subject/26920165/)_ &ensp;&ensp;在库未出
-- **国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;在库未出
+- ~~**国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;出库已清~~
 - **国学 《约翰.克里斯朵夫》罗曼.罗兰【推荐】** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;在库未出
 - ~~**中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;出库已清~~
 - **成功 《精要主义：如何应对拥挤不堪的工作与生活》** _[图书介绍](https://book.douban.com/subject/26761859/)_ &ensp;&ensp;在库未出
@@ -41,25 +41,31 @@
 - **写作 《如何高效写作》** _[图书介绍](https://book.douban.com/subject/30266007/)_ &ensp;&ensp;在库未出
 - **写作 《模版写作法：世界上最简单的写作课》** _[图书介绍](https://book.douban.com/subject/35442664/)_ &ensp;&ensp;在库未出
 - **传记 《三仲马：外国名人传记》安德烈.莫洛亚【推荐】** _[图书介绍](https://book.douban.com/subject/2243099/)_ &ensp;&ensp;在库未出
-- **历史 《魏晋名士链》萧华荣【推荐】** _[图书介绍](https://book.douban.com/subject/25929709/)_ &ensp;&ensp;在库未出
+- ~~**历史 《魏晋名士链》萧华荣【推荐】** _[图书介绍](https://book.douban.com/subject/25929709/)_ &ensp;&ensp;出库已清~~
 - **小说 《爱上浪漫》阿兰.德波顿** _[图书介绍](https://book.douban.com/subject/3669404/)_ &ensp;&ensp;在库未出
 - **传记 《南渡北归.南渡》岳南 【推荐】** _[图书介绍](https://book.douban.com/subject/26656026/)_ &ensp;&ensp;在库未出
 - **传记 《南渡北归.北归》岳南 【推荐】** _[图书介绍](https://book.douban.com/subject/26805042/)_ &ensp;&ensp;在库未出
 - **传记 《南渡北归.离别》岳南 【推荐】** _[图书介绍](https://book.douban.com/subject/26837302/)_ &ensp;&ensp;在库未出
 - **小说 《应物兄》李洱** _[图书介绍](https://book.douban.com/subject/30409058/)_ &ensp;&ensp;在库未出
-- **国学 《园治》【推荐】** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;在库未出
+- ~~**国学 《园治》【推荐】** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;出库已清~~
 - **哲学 《耶鲁大学公开课：死亡》【推荐】** _[图书介绍](https://book.douban.com/subject/25859542/)_ &ensp;&ensp;在库未出
 - **文化 《光影国度 2013》** _沙特高等教育部_ &ensp;&ensp;在库未出
 - **文化 《阿拉伯半岛妇女的传统饰物：11到14世纪》** _沙特高等教育部_ &ensp;&ensp;在库未出
 - **哲学 《道德情操论》亚当.史密斯** _[图书介绍](https://book.douban.com/subject/1116367/)_ &ensp;&ensp;在库未出
 - **小说 《爱的流放地》渡边淳一** _[图书介绍](https://book.douban.com/subject/2247138/)_ &ensp;&ensp;在库未出
-- **传记 《极权制造：莱尼.瑞芬斯塔尔的一生》【推荐】** _[图书介绍](https://book.douban.com/subject/4912683/)_ &ensp;&ensp;在库未出
+- ~~**传记 《极权制造：莱尼.瑞芬斯塔尔的一生》【推荐】** _[图书介绍](https://book.douban.com/subject/4912683/)_ &ensp;&ensp;出库已清~~
 - **科学 《神秘的量子生命》【推荐】** _[图书介绍](https://book.douban.com/subject/26844877/)_ &ensp;&ensp;在库未出
 - **国学《烟云过眼》** _[图书介绍](https://book.douban.com/subject/25752971/)_ &ensp;&ensp;在库
-- **艺术《论摄影》** _[图书介绍](https://book.douban.com/subject/4282084/)_ &ensp;&ensp;在库
+- ~~**艺术《论摄影》** _[图书介绍](https://book.douban.com/subject/4282084/)_ &ensp;&ensp;出库已清~~
 - **园艺《公园植物造景》** _[图书介绍](https://book.douban.com/subject/7006693/)_ &ensp;&ensp;在库
 - **漫画《革命之路》** _[图书介绍](https://book.douban.com/subject/25709105/)_ &ensp;&ensp;在库
 - **漫画《切尔诺贝利之花》** _[图书介绍](https://book.douban.com/subject/7006693/)_ &ensp;&ensp;在库
+- **中医《黄帝内经注证发微》（上中下）** _[图书介绍](https://book.douban.com/subject/27618524/)_ &ensp;&ensp;在库
+- ~~**中医《黄元御医书全集》（上中下）** _[图书介绍](https://book.douban.com/subject/26778462/)_ &ensp;&ensp;出库已清~~
+- **中医《黄帝内经素问》** _[图书介绍](https://book.douban.com/subject/27081763/)_ &ensp;&ensp;在库
+- **中医《黄帝内经太素》** _[图书介绍](https://book.douban.com/subject/26994286/)_ &ensp;&ensp;在库
+- **中医《类经》（上下）** _[图书介绍](https://book.douban.com/subject/26832853/)_ &ensp;&ensp;在库
+- **地理《典藏国家地理（中国版）》（上中下）** _[图书介绍](https://book.douban.com/subject/5349794/)_ &ensp;&ensp;在库
 
 ### 2024年一季度发布书单 93本
 

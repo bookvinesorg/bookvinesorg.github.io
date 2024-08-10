@@ -10,10 +10,12 @@
 
 ### 目前合计250本
 
-### 2024年三季度发布书单 
+### 2024年三季度发布书单 4本
 
 - **小说 《名利场》** _[图书介绍](https://book.douban.com/subject/34886661/)_ &ensp;&ensp;
 - **经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;
+- **文学 《书中日月长》** _[图书介绍](https://book.douban.com/subject/25837686/)_ &ensp;&ensp;
+- **写作 《怎样写出一个好故事：从刻意练习到职业写作》** _[图书介绍](https://book.douban.com/subject/34675947/)_ &ensp;&ensp;
 
 ### 2024年二季度发布书单 45本
 

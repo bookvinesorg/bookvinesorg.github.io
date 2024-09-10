@@ -10,7 +10,7 @@
 
 ### 目前合计250本
 
-### 2024年三季度发布书单 5本
+### 2024年三季度发布书单 9本
 
 - **小说 《名利场》** _[图书介绍](https://book.douban.com/subject/34886661/)_ &ensp;&ensp;
 - **经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;
@@ -19,6 +19,10 @@
 - **写作 《写作是最好的自我投资》** _[图书介绍](https://book.douban.com/subject/30330693/)_ &ensp;&ensp;
 - **小说 《宝水》** _[图书介绍](https://book.douban.com/subject/30330693/)_ &ensp;&ensp;
 - **小说 《北上》** _[图书介绍](https://book.douban.com/subject/30302906/)_ &ensp;&ensp;
+- **商业 《创新者的窘境》** _[图书介绍](https://book.douban.com/subject/35148452/)_ &ensp;&ensp;
+- **小说 《斯巴达克斯》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;
+- **商业 《精益创业:新创企业的成长思维》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;
+
 
 ### 2024年二季度发布书单 45本
 

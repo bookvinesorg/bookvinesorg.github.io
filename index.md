@@ -10,7 +10,7 @@
 
 ### 目前合计250本
 
-### 2024年三季度发布书单 14本
+### 2024年三季度发布书单 17本
 
 - **小说 《名利场》** _[图书介绍](https://book.douban.com/subject/34886661/)_ &ensp;&ensp;
 - **经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;
@@ -27,6 +27,8 @@
 - **商业 《创业维坚：如何完成比难更难得事》** _[图书介绍](https://book.douban.com/subject/26306686/)_ &ensp;&ensp;
 - **电影 《拍电影：现代影像制作教程》（插图第6版）** _[图书介绍](https://book.douban.com/subject/2296690/)_ &ensp;&ensp;
 - **电影 《认识电影：Understanding Movies》（影印第12版）** _[图书介绍](https://book.douban.com/subject/6892422/)_ &ensp;&ensp;
+- **小说 《Shadow Watch》** _[图书介绍](https://book.douban.com/subject/2642108/)_ &ensp;&ensp;
+- **小说 《New Moon》** _[图书介绍](https://book.douban.com/subject/3520998/)_ &ensp;&ensp;
 
 ### 2024年二季度发布书单 45本
 
@@ -50,14 +52,14 @@
 - ~~**国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;出库已清~~
 - ~~**国学 《约翰.克里斯朵夫》罗曼.罗兰【推荐】** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;出库已清~~
 - ~~**中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;出库已清~~
-- **成功 《精要主义：如何应对拥挤不堪的工作与生活》** _[图书介绍](https://book.douban.com/subject/26761859/)_ &ensp;&ensp;在库未出
+- ~~**成功 《精要主义：如何应对拥挤不堪的工作与生活》** _[图书介绍](https://book.douban.com/subject/26761859/)_ &ensp;&ensp;在库未出~~
 - ~~**管理 《重来2：更为简单高效的远程工作方式》【推荐】** _[图书介绍](https://book.douban.com/subject/25861795/)_ &ensp;&ensp;出库已清~~
 - **诗歌 《再别康桥：徐志摩诗歌全集》徐志摩** _[图书介绍](https://book.douban.com/subject/3261221/)_ &ensp;&ensp;在库未出
 - **小说 《卡门》【推荐】** _[图书介绍](https://book.douban.com/subject/6863525/)_ &ensp;&ensp;在库未出
 - **散文 《静观尘世》 丰子恺** _[图书介绍](https://book.douban.com/subject/10582041/)_ &ensp;&ensp;在库未出
 - **写作 《结构化写作：心中有谱、下笔有神，赢得职场说服力》【推荐】** _[图书介绍](https://book.douban.com/subject/27598613/)_ &ensp;&ensp;在库未出
 - **写作 《如何高效写作》** _[图书介绍](https://book.douban.com/subject/30266007/)_ &ensp;&ensp;在库未出
-- **写作 《模版写作法：世界上最简单的写作课》** _[图书介绍](https://book.douban.com/subject/35442664/)_ &ensp;&ensp;在库未出
+- ~~**写作 《模版写作法：世界上最简单的写作课》** _[图书介绍](https://book.douban.com/subject/35442664/)_ &ensp;&ensp;在库未出~~
 - ~~**传记 《三仲马：外国名人传记》安德烈.莫洛亚【推荐】** _[图书介绍](https://book.douban.com/subject/2243099/)_ &ensp;&ensp;出库已清~~
 - ~~**历史 《魏晋名士链》萧华荣【推荐】** _[图书介绍](https://book.douban.com/subject/25929709/)_ &ensp;&ensp;出库已清~~
 - ~~**小说 《爱上浪漫》阿兰.德波顿** _[图书介绍](https://book.douban.com/subject/3669404/)_ &ensp;&ensp;出库已清~~
@@ -73,7 +75,7 @@
 - **小说 《爱的流放地》渡边淳一** _[图书介绍](https://book.douban.com/subject/2247138/)_ &ensp;&ensp;在库未出
 - ~~**传记 《极权制造：莱尼.瑞芬斯塔尔的一生》【推荐】** _[图书介绍](https://book.douban.com/subject/4912683/)_ &ensp;&ensp;出库已清~~
 - **科学 《神秘的量子生命》【推荐】** _[图书介绍](https://book.douban.com/subject/26844877/)_ &ensp;&ensp;在库未出
-- **国学《烟云过眼》** _[图书介绍](https://book.douban.com/subject/25752971/)_ &ensp;&ensp;在库
+- ~~**国学《烟云过眼》** _[图书介绍](https://book.douban.com/subject/25752971/)_ &ensp;&ensp;在库~~
 - ~~**艺术《论摄影》** _[图书介绍](https://book.douban.com/subject/4282084/)_ &ensp;&ensp;出库已清~~
 - ~~**园艺《公园植物造景》** _[图书介绍](https://book.douban.com/subject/7006693/)_ &ensp;&ensp;出库已清~~
 - ~~**漫画《革命之路》** _[图书介绍](https://book.douban.com/subject/25709105/)_ &ensp;&ensp;出库已清~~
@@ -82,7 +84,6 @@
 - ~~**中医《黄元御医书全集》（上中下）** _[图书介绍](https://book.douban.com/subject/26778462/)_ &ensp;&ensp;出库已清~~
 - ~~**中医《黄帝内经素问》** _[图书介绍](https://book.douban.com/subject/27081763/)_ &ensp;&ensp;出库已清库~~
 - ~~**中医《黄帝内经太素》** _[图书介绍](https://book.douban.com/subject/26994286/)_ &ensp;&ensp;出库已清~~
-- **中医《类经》（上下）** _[图书介绍](https://book.douban.com/subject/26832853/)_ &ensp;&ensp;在库
 - **地理《典藏国家地理（中国版）》（上中下）** _[图书介绍](https://book.douban.com/subject/5349794/)_ &ensp;&ensp;在库
 
 ### 2024年一季度发布书单 93本
@@ -228,10 +229,10 @@
 - ~~**文学 《旷世风华：大运河传》**_[图书介绍](https://book.douban.com/subject/1248523/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《中国微型诗300首》**_[图书介绍](https://book.douban.com/subject/4273847/)_ &ensp;&ensp;出库已清~~
 - **文学 《名利场》**_[图书介绍](https://book.douban.com/subject/1411053/)_ &ensp;&ensp;在库未出
-- **文学 《红字》**_[图书介绍](https://book.douban.com/subject/2032657/)_ &ensp;&ensp;在库未出
-- **文学 《余光中传》**_[图书介绍](https://book.douban.com/subject/1087061/)_ &ensp;&ensp;在库未出
+- ~~**文学 《红字》**_[图书介绍](https://book.douban.com/subject/2032657/)_ &ensp;&ensp;在库未出~~
+- ~~**文学 《余光中传》**_[图书介绍](https://book.douban.com/subject/1087061/)_ &ensp;&ensp;在库未出~~
 - ~~**文学 《散文研究》**_[图书介绍](https://book.douban.com/subject/1660135/)_ &ensp;&ensp;出库已清~~
-- **文学 《散文艺术论》**_[图书介绍](https://book.douban.com/subject/1912951/)_ &ensp;&ensp;在库未出
+- ~~**文学 《散文艺术论》**_[图书介绍](https://book.douban.com/subject/1912951/)_ &ensp;&ensp;在库未出~~
 - ~~**文学 《外国名花风俗传说》**_[图书介绍](https://book.douban.com/subject/1528788/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《二十世纪中国散文诗论》**_[图书介绍](https://book.douban.com/subject/1221404/)_ &ensp;&ensp;出库已清~~
 - ~~**文学 《喧嚣中的足迹》**_[图书介绍](https://book.douban.com/subject/1144684/)_ &ensp;&ensp;出库已清~~
@@ -262,7 +263,7 @@
 ### 2023年二季度发布书单 27本
 
 - ~~**文化《寻城记：重庆》** _[图书介绍](https://book.douban.com/subject/2025990/)_ &ensp;&ensp;出库已清~~
-- **文艺《精短新诗200首》** _[图书介绍](https://book.douban.com/subject/3458377/)_ &ensp;&ensp;在库未出
+- ~~**文艺《精短新诗200首》** _[图书介绍](https://book.douban.com/subject/3458377/)_ &ensp;&ensp;在库已清~~
 - ~~**文艺《流浪集》** _[图书介绍](https://book.douban.com/subject/4208780/)_ &ensp;&ensp;~~
 - ~~**文化《大国大城》** _[图书介绍](https://book.douban.com/subject/26824237/)_ &ensp;&ensp;~~出库已清
 - ~~**文化《钝感力》** _[图书介绍](https://book.douban.com/subject/2119843/)_ &ensp;&ensp;出库已清~~

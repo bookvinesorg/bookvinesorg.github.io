@@ -116,7 +116,6 @@
 - **《罗丹艺术论》** _[图书介绍](https://book.douban.com/subject/2253734/)_ &ensp;&ensp;在库
 - **《走进建筑师的家》** _[图书介绍](https://book.douban.com/subject/26658841/)_ &ensp;&ensp;在库
 - **《听音乐:音乐欣赏的教程》** _[图书介绍](https://book.douban.com/subject/3095037/)_ &ensp;&ensp;在库
-- **《认识电影（影印第12版）》** _[图书介绍](https://book.douban.com/subject/6892422/)_ &ensp;&ensp;在库
 - **《认识电影（插图第11版）》** _[图书介绍](https://book.douban.com/subject/2326403/)_ &ensp;&ensp;在库
 - **《电影艺术：形式与风格（插图第8版）》** _[图书介绍](https://book.douban.com/subject/3227478/)_ &ensp;&ensp;在库
 - **《安藤忠雄：建造属于自己的世界》** _[图书介绍](https://book.douban.com/subject/27182602/)_ &ensp;&ensp;在库
@@ -245,6 +244,7 @@
 
 - **《创造：只给勤奋者的创新书》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
 - **《从0到1》** _[图书介绍](https://book.douban.com/subject/2122399/)_ &ensp;&ensp;在库
+- **《创新者的解答》** _[图书介绍](https://book.douban.com/subject/25742292/)_ &ensp;&ensp;
 
 
 

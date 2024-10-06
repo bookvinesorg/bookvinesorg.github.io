@@ -28,6 +28,7 @@
 - **电影 《认识电影：Understanding Movies》（影印第12版）** _[图书介绍](https://book.douban.com/subject/6892422/)_ &ensp;&ensp;
 - **小说 《Shadow Watch》** _[图书介绍](https://book.douban.com/subject/2642108/)_ &ensp;&ensp;
 - **小说 《New Moon》** _[图书介绍](https://book.douban.com/subject/3520998/)_ &ensp;&ensp;
+- **散文 《我书》**_[图书介绍](https://book.douban.com/subject/5343679/)_ &ensp;&ensp;
 
 ### 2024年二季度发布书单 45本
 
@@ -64,7 +65,7 @@
 - ~~**小说 《爱上浪漫》阿兰.德波顿** _[图书介绍](https://book.douban.com/subject/3669404/)_ &ensp;&ensp;~~
 - ~~**传记 《南渡北归.南渡》岳南 【推荐】** _[图书介绍](https://book.douban.com/subject/26656026/)_ &ensp;&ensp;~~
 - ~~**传记 《南渡北归.北归》岳南 【推荐】** _[图书介绍](https://book.douban.com/subject/26805042/)_ &ensp;&ensp;~~
-- **传记 《南渡北归.离别》岳南 【推荐】** _[图书介绍](https://book.douban.com/subject/26837302/)_ &ensp;&ensp;
+- ~~**传记 《南渡北归.离别》岳南 【推荐】** _[图书介绍](https://book.douban.com/subject/26837302/)_ &ensp;&ensp;~~
 - ~~**小说 《应物兄》李洱** _[图书介绍](https://book.douban.com/subject/30409058/)_ &ensp;&ensp;~~
 - ~~**国学 《园治》【推荐】** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;~~
 - **哲学 《耶鲁大学公开课：死亡》【推荐】** _[图书介绍](https://book.douban.com/subject/25859542/)_ &ensp;&ensp;

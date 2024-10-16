@@ -28,6 +28,7 @@
 - **电影 《认识电影：Understanding Movies》（影印第12版）** _[图书介绍](https://book.douban.com/subject/6892422/)_ &ensp;&ensp;
 - **小说 《Shadow Watch》** _[图书介绍](https://book.douban.com/subject/2642108/)_ &ensp;&ensp;
 - **小说 《New Moon》** _[图书介绍](https://book.douban.com/subject/3520998/)_ &ensp;&ensp;
+- **散文 《野果》** _[图书介绍](https://book.douban.com/subject/3999563/)_ &ensp;&ensp;
 
 ### 2024年二季度发布书单 45本
 

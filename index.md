@@ -23,11 +23,12 @@
 - **商业 《创新者的基因》** _[图书介绍](https://book.douban.com/subject/20507211/)_ &ensp;&ensp;
 - **小说 《斯巴达克斯》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;
 - **商业 《精益创业:新创企业的成长思维》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;
-- **商业 《创业维坚：如何完成比难更难得事》** _[图书介绍](https://book.douban.com/subject/26306686/)_ &ensp;&ensp;
+- **商业 《创业维坚：如何完成比难更难的事》** _[图书介绍](https://book.douban.com/subject/26306686/)_ &ensp;&ensp;
 - **电影 《拍电影：现代影像制作教程》（插图第6版）** _[图书介绍](https://book.douban.com/subject/2296690/)_ &ensp;&ensp;
 - **电影 《认识电影：Understanding Movies》（影印第12版）** _[图书介绍](https://book.douban.com/subject/6892422/)_ &ensp;&ensp;
 - **小说 《Shadow Watch》** _[图书介绍](https://book.douban.com/subject/2642108/)_ &ensp;&ensp;
 - **小说 《New Moon》** _[图书介绍](https://book.douban.com/subject/3520998/)_ &ensp;&ensp;
+- **散文 《野果》** _[图书介绍](https://book.douban.com/subject/3999563/)_ &ensp;&ensp;
 - **散文 《我书》**_[图书介绍](https://book.douban.com/subject/5343679/)_ &ensp;&ensp;
 
 ### 2024年二季度发布书单 45本

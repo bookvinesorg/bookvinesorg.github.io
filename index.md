@@ -10,7 +10,11 @@
 
 ### 目前合计250本
 
-### 2024年三季度发布书单 17本
+### 2024年四季度发布书单 
+
+- **历史 《德国反犹史》**_[图书介绍](https://book.douban.com/subject/2069650/)_ &ensp;&ensp;
+
+### 2024年三季度发布书单 18本
 
 - **小说 《名利场》** _[图书介绍](https://book.douban.com/subject/34886661/)_ &ensp;&ensp;
 - **经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;

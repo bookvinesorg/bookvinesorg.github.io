@@ -13,6 +13,8 @@
 ### 2024年四季度发布书单
 
 - **历史 《德国反犹史》**_[图书介绍](https://book.douban.com/subject/2069650/)_ &ensp;&ensp;
+- **商业 《文案发烧》**_[图书介绍](https://book.douban.com/subject/5914498/)_ &ensp;&ensp;
+- **散文 《看不见的森林：林中自然笔记》**_[图书介绍](https://book.douban.com/subject/25876750/)_ &ensp;&ensp;
 
 ### 2024年三季度发布书单 18本
 

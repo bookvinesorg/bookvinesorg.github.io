@@ -10,13 +10,14 @@
 
 ### 目前合计250本
 
-### 2024年四季度发布书单
+### 2024年四季度发布书单 4本
 
 - **历史 《德国反犹史》**_[图书介绍](https://book.douban.com/subject/2069650/)_ &ensp;&ensp;
 - **商业 《文案发烧》**_[图书介绍](https://book.douban.com/subject/5914498/)_ &ensp;&ensp;
 - **散文 《看不见的森林：林中自然笔记》**_[图书介绍](https://book.douban.com/subject/25876750/)_ &ensp;&ensp;
+- **写作 《写作是什么：给爱写作的你》**_[图书介绍](https://book.douban.com/subject/26616466/)_ &ensp;&ensp;
 
-### 2024年三季度发布书单 18本
+### 2024年三季度发布书单 19本
 
 - **小说 《名利场》** _[图书介绍](https://book.douban.com/subject/34886661/)_ &ensp;&ensp;
 - **经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;
@@ -36,6 +37,7 @@
 - **小说 《New Moon》** _[图书介绍](https://book.douban.com/subject/3520998/)_ &ensp;&ensp;
 - **散文 《野果》** _[图书介绍](https://book.douban.com/subject/3999563/)_ &ensp;&ensp;
 - **散文 《我书》**_[图书介绍](https://book.douban.com/subject/5343679/)_ &ensp;&ensp;
+- **散文 《纳兰一派》**_[图书介绍](https://book.douban.com/subject/1037435/)_ &ensp;&ensp;
 
 ### 2024年二季度发布书单 45本
 

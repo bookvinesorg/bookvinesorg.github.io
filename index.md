@@ -16,6 +16,7 @@
 - **商业 《文案发烧》**_[图书介绍](https://book.douban.com/subject/5914498/)_ &ensp;&ensp;
 - **散文 《看不见的森林：林中自然笔记》**_[图书介绍](https://book.douban.com/subject/25876750/)_ &ensp;&ensp;
 - **写作 《写作是什么：给爱写作的你》**_[图书介绍](https://book.douban.com/subject/26616466/)_ &ensp;&ensp;
+- **历史 《信徒的国度》**_[图书介绍](https://book.douban.com/subject/25876615/)_ &ensp;&ensp;
 
 ### 2024年三季度发布书单 19本
 

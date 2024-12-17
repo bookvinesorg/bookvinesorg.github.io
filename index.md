@@ -17,16 +17,18 @@
 - **散文 《看不见的森林：林中自然笔记》**_[图书介绍](https://book.douban.com/subject/25876750/)_ &ensp;&ensp;
 - **写作 《写作是什么：给爱写作的你》**_[图书介绍](https://book.douban.com/subject/26616466/)_ &ensp;&ensp;
 - **历史 《信徒的国度》**_[图书介绍](https://book.douban.com/subject/25876615/)_ &ensp;&ensp;
+- **社科 《中国文化的深层结构》**_[图书介绍](https://book.douban.com/subject/26607683/)_ &ensp;&ensp;
+- **写作 《创意写作大师课》**_[图书介绍](https://book.douban.com/subject/24840459/)_ &ensp;&ensp;
 
 ### 2024年三季度发布书单 19本
 
 - **小说 《名利场》** _[图书介绍](https://book.douban.com/subject/34886661/)_ &ensp;&ensp;
-- **经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;
-- **文学 《书中日月长》** _[图书介绍](https://book.douban.com/subject/25837686/)_ &ensp;&ensp;
-- **写作 《怎样写出一个好故事：从刻意练习到职业写作》** _[图书介绍](https://book.douban.com/subject/34675947/)_ &ensp;&ensp;
+- ~~**经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;
+- ~~**文学 《书中日月长》** _[图书介绍](https://book.douban.com/subject/25837686/)_ &ensp;&ensp;~~
+- ~~**写作 《怎样写出一个好故事：从刻意练习到职业写作》** _[图书介绍](https://book.douban.com/subject/34675947/)_ &ensp;&ensp;~~
 - **写作 《写作是最好的自我投资》** _[图书介绍](https://book.douban.com/subject/30330693/)_ &ensp;&ensp;
-- **小说 《宝水》** _[图书介绍](https://book.douban.com/subject/30330693/)_ &ensp;&ensp;
-- **小说 《北上》** _[图书介绍](https://book.douban.com/subject/30302906/)_ &ensp;&ensp;
+- ~~**小说 《宝水》** _[图书介绍](https://book.douban.com/subject/30330693/)_ &ensp;&ensp;~~
+- ~~**小说 《北上》** _[图书介绍](https://book.douban.com/subject/30302906/)_ &ensp;&ensp;~~
 - **商业 《创新者的窘境》** _[图书介绍](https://book.douban.com/subject/35148452/)_ &ensp;&ensp;
 - **商业 《创新者的基因》** _[图书介绍](https://book.douban.com/subject/20507211/)_ &ensp;&ensp;
 - **小说 《斯巴达克斯》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;

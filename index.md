@@ -22,7 +22,6 @@
 
 ### 2024年三季度发布书单 19本
 
-- **小说 《名利场》** _[图书介绍](https://book.douban.com/subject/34886661/)_ &ensp;&ensp;
 - ~~**经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;
 - ~~**文学 《书中日月长》** _[图书介绍](https://book.douban.com/subject/25837686/)_ &ensp;&ensp;~~
 - ~~**写作 《怎样写出一个好故事：从刻意练习到职业写作》** _[图书介绍](https://book.douban.com/subject/34675947/)_ &ensp;&ensp;~~
@@ -60,7 +59,7 @@
 - ~~**管理 《德胜员工守则》【推荐】** _[图书介绍](https://book.douban.com/subject/24732532/)_ &ensp;&ensp;~~
 - ~~**散文 《悲伤与理智》约瑟夫.布罗茨基【推荐】** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;~~
 - **国学 《心经随喜》胡兰成【推荐】** _[图书介绍](https://book.douban.com/subject/10487570/)_ &ensp;&ensp;
-- **小说 《拉普拉斯的魔女》东野圭吾** _[图书介绍](https://book.douban.com/subject/26920165/)_ &ensp;&ensp;
+- ~~**小说 《拉普拉斯的魔女》东野圭吾** _[图书介绍](https://book.douban.com/subject/26920165/)_ &ensp;&ensp;~~
 - ~~**国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;~~
 - ~~**国学 《约翰.克里斯朵夫》罗曼.罗兰【推荐】** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;~~
 - ~~**中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;~~
@@ -165,7 +164,7 @@
 - ~~**小说 《烽火岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1643597/)_ &ensp;&ensp;~~
 - ~~**小说 《机器岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1797577/)_ &ensp;&ensp;~~
 - ~~**小说 《昂蒂费尔师傅奇遇记》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1643598/)_ &ensp;&ensp;~~
-- **哲学《中国哲学简史》（重复购买）** _[图书介绍](https://book.douban.com/subject/20501147/)_ &ensp;&ensp;在库
+- ~~**哲学《中国哲学简史》（重复购买）** _[图书介绍](https://book.douban.com/subject/20501147/)_ &ensp;&ensp;~~
 - ~~**散文《女儿红》** _[图书介绍](https://book.douban.com/subject/4169342/)_ &ensp;&ensp;~~
 - ~~**艺术《演员自我修养》** _[图书介绍](https://book.douban.com/subject/26426676/)_ &ensp;&ensp;~~
 - ~~**散文《风中的纸屑》 周国平** _[图书介绍](https://book.douban.com/subject/5264095/)_ &ensp;&ensp;~~

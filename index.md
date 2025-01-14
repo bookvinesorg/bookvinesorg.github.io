@@ -19,10 +19,12 @@
 - **历史 《信徒的国度》**_[图书介绍](https://book.douban.com/subject/25876615/)_ &ensp;&ensp;
 - **社科 《中国文化的深层结构》**_[图书介绍](https://book.douban.com/subject/26607683/)_ &ensp;&ensp;
 - **写作 《创意写作大师课》**_[图书介绍](https://book.douban.com/subject/24840459/)_ &ensp;&ensp;
+- **小说 《白痴》**_[图书介绍](https://book.douban.com/subject/1859108/)_ &ensp;&ensp;
+- **哲学 《理想国》**_[图书介绍](https://book.douban.com/subject/1004821/)_ &ensp;&ensp;
 
 ### 2024年三季度发布书单 19本
 
-- ~~**经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;
+- ~~**经济 《日本战后经济史》** _[图书介绍](https://book.douban.com/subject/30169979/)_ &ensp;&ensp;~~
 - ~~**文学 《书中日月长》** _[图书介绍](https://book.douban.com/subject/25837686/)_ &ensp;&ensp;~~
 - ~~**写作 《怎样写出一个好故事：从刻意练习到职业写作》** _[图书介绍](https://book.douban.com/subject/34675947/)_ &ensp;&ensp;~~
 - **写作 《写作是最好的自我投资》** _[图书介绍](https://book.douban.com/subject/30330693/)_ &ensp;&ensp;
@@ -35,11 +37,11 @@
 - **商业 《创业维坚：如何完成比难更难的事》** _[图书介绍](https://book.douban.com/subject/26306686/)_ &ensp;&ensp;
 - **电影 《拍电影：现代影像制作教程》（插图第6版）** _[图书介绍](https://book.douban.com/subject/2296690/)_ &ensp;&ensp;
 - **电影 《认识电影：Understanding Movies》（影印第12版）** _[图书介绍](https://book.douban.com/subject/6892422/)_ &ensp;&ensp;
-- **小说 《Shadow Watch》** _[图书介绍](https://book.douban.com/subject/2642108/)_ &ensp;&ensp;
-- **小说 《New Moon》** _[图书介绍](https://book.douban.com/subject/3520998/)_ &ensp;&ensp;
-- **散文 《野果》** _[图书介绍](https://book.douban.com/subject/3999563/)_ &ensp;&ensp;
-- **散文 《我书》**_[图书介绍](https://book.douban.com/subject/5343679/)_ &ensp;&ensp;
-- **散文 《纳兰一派》**_[图书介绍](https://book.douban.com/subject/1037435/)_ &ensp;&ensp;
+- ~~**小说 《Shadow Watch》** _[图书介绍](https://book.douban.com/subject/2642108/)_ &ensp;&ensp;~~
+- ~~**小说 《New Moon》** _[图书介绍](https://book.douban.com/subject/3520998/)_ &ensp;&ensp;~~
+- ~~**散文 《野果》** _[图书介绍](https://book.douban.com/subject/3999563/)_ &ensp;&ensp;~~
+- ~~**散文 《我书》**_[图书介绍](https://book.douban.com/subject/5343679/)_ &ensp;&ensp;~~
+- ~~**散文 《纳兰一派》**_[图书介绍](https://book.douban.com/subject/1037435/)_ &ensp;&ensp;
 
 ### 2024年二季度发布书单 45本
 
@@ -66,7 +68,7 @@
 - ~~**成功 《精要主义：如何应对拥挤不堪的工作与生活》** _[图书介绍](https://book.douban.com/subject/26761859/)_ &ensp;&ensp;~~
 - ~~**管理 《重来2：更为简单高效的远程工作方式》【推荐】** _[图书介绍](https://book.douban.com/subject/25861795/)_ &ensp;&ensp;~~
 - **诗歌 《再别康桥：徐志摩诗歌全集》徐志摩** _[图书介绍](https://book.douban.com/subject/3261221/)_ &ensp;&ensp;
-- **小说 《卡门》【推荐】** _[图书介绍](https://book.douban.com/subject/6863525/)_ &ensp;&ensp;
+- ~~**小说 《卡门》【推荐】** _[图书介绍](https://book.douban.com/subject/6863525/)_ &ensp;&ensp;~~
 - **散文 《静观尘世》 丰子恺** _[图书介绍](https://book.douban.com/subject/10582041/)_ &ensp;&ensp;
 - **写作 《结构化写作：心中有谱、下笔有神，赢得职场说服力》【推荐】** _[图书介绍](https://book.douban.com/subject/27598613/)_ &ensp;&ensp;
 - **写作 《如何高效写作》** _[图书介绍](https://book.douban.com/subject/30266007/)_ &ensp;&ensp;
@@ -82,10 +84,10 @@
 - **哲学 《耶鲁大学公开课：死亡》【推荐】** _[图书介绍](https://book.douban.com/subject/25859542/)_ &ensp;&ensp;
 - ~~**文化 《光影国度 2013》** _沙特高等教育部_ &ensp;&ensp;~~
 - ~~**文化 《阿拉伯半岛妇女的传统饰物：11到14世纪》** _沙特高等教育部_ &ensp;&ensp;~~
-- **哲学 《道德情操论》亚当.史密斯** _[图书介绍](https://book.douban.com/subject/1116367/)_ &ensp;&ensp;
+- ~~**哲学 《道德情操论》亚当.史密斯** _[图书介绍](https://book.douban.com/subject/1116367/)_ &ensp;&ensp;~~
 - **小说 《爱的流放地》渡边淳一** _[图书介绍](https://book.douban.com/subject/2247138/)_ &ensp;&ensp;
 - ~~**传记 《极权制造：莱尼.瑞芬斯塔尔的一生》【推荐】** _[图书介绍](https://book.douban.com/subject/4912683/)_ &ensp;&ensp;~~
-- **科学 《神秘的量子生命》【推荐】** _[图书介绍](https://book.douban.com/subject/26844877/)_ &ensp;&ensp;
+- ~~**科学 《神秘的量子生命》【推荐】** _[图书介绍](https://book.douban.com/subject/26844877/)_ &ensp;&ensp;~~
 - ~~**国学《烟云过眼》** _[图书介绍](https://book.douban.com/subject/25752971/)_ &ensp;&ensp;在库~~
 - ~~**艺术《论摄影》** _[图书介绍](https://book.douban.com/subject/4282084/)_ &ensp;&ensp;~~
 - ~~**园艺《公园植物造景》** _[图书介绍](https://book.douban.com/subject/7006693/)_ &ensp;&ensp;~~

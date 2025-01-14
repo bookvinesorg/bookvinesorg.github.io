@@ -32,7 +32,7 @@
 - ~~**小说 《北上》** _[图书介绍](https://book.douban.com/subject/30302906/)_ &ensp;&ensp;~~
 - **商业 《创新者的窘境》** _[图书介绍](https://book.douban.com/subject/35148452/)_ &ensp;&ensp;
 - **商业 《创新者的基因》** _[图书介绍](https://book.douban.com/subject/20507211/)_ &ensp;&ensp;
-- **小说 《斯巴达克斯》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;
+- ~~**小说 《斯巴达克斯》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;~~
 - **商业 《精益创业:新创企业的成长思维》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;
 - **商业 《创业维坚：如何完成比难更难的事》** _[图书介绍](https://book.douban.com/subject/26306686/)_ &ensp;&ensp;
 - **电影 《拍电影：现代影像制作教程》（插图第6版）** _[图书介绍](https://book.douban.com/subject/2296690/)_ &ensp;&ensp;

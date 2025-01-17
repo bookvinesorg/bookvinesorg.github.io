@@ -10,6 +10,12 @@
 
 ### 目前合计250本
 
+### 2025年一季度发布书单 1本
+
+- **小说 《白道》**_[图书介绍](https://book.douban.com/subject/5297304/)_ &ensp;&ensp;
+- **商业 《四步创业法》**_[图书介绍](https://book.douban.com/subject/11516567/)_ &ensp;&ensp;
+
+
 ### 2024年四季度发布书单 5本
 
 - **历史 《德国反犹史》**_[图书介绍](https://book.douban.com/subject/2069650/)_ &ensp;&ensp;
@@ -41,7 +47,7 @@
 - ~~**小说 《New Moon》** _[图书介绍](https://book.douban.com/subject/3520998/)_ &ensp;&ensp;~~
 - ~~**散文 《野果》** _[图书介绍](https://book.douban.com/subject/3999563/)_ &ensp;&ensp;~~
 - ~~**散文 《我书》**_[图书介绍](https://book.douban.com/subject/5343679/)_ &ensp;&ensp;~~
-- ~~**散文 《纳兰一派》**_[图书介绍](https://book.douban.com/subject/1037435/)_ &ensp;&ensp;
+- ~~**散文 《纳兰一派》**_[图书介绍](https://book.douban.com/subject/1037435/)_ &ensp;&ensp;~~
 
 ### 2024年二季度发布书单 45本
 
@@ -60,16 +66,16 @@
 - ~~**社科 《犬与鬼：现代日本的堕落》** _[图书介绍](https://book.douban.com/subject/25906119/)_ &ensp;&ensp;~~
 - ~~**管理 《德胜员工守则》【推荐】** _[图书介绍](https://book.douban.com/subject/24732532/)_ &ensp;&ensp;~~
 - ~~**散文 《悲伤与理智》约瑟夫.布罗茨基【推荐】** _[图书介绍](https://book.douban.com/subject/26264154/)_ &ensp;&ensp;~~
-- **国学 《心经随喜》胡兰成【推荐】** _[图书介绍](https://book.douban.com/subject/10487570/)_ &ensp;&ensp;
+- ~~**国学 《心经随喜》胡兰成【推荐】** _[图书介绍](https://book.douban.com/subject/10487570/)_ &ensp;&ensp;~~
 - ~~**小说 《拉普拉斯的魔女》东野圭吾** _[图书介绍](https://book.douban.com/subject/26920165/)_ &ensp;&ensp;~~
 - ~~**国学 《茶经.中国雅文化经典》陆羽** _[图书介绍](https://book.douban.com/subject/26785375/)_ &ensp;&ensp;~~
 - ~~**国学 《约翰.克里斯朵夫》罗曼.罗兰【推荐】** _[图书介绍](https://book.douban.com/subject/1851058/)_ &ensp;&ensp;~~
 - ~~**中医 《医灯续焰》王绍隆(明）** _[图书介绍](https://book.douban.com/subject/27086845/)_ &ensp;&ensp;~~
 - ~~**成功 《精要主义：如何应对拥挤不堪的工作与生活》** _[图书介绍](https://book.douban.com/subject/26761859/)_ &ensp;&ensp;~~
 - ~~**管理 《重来2：更为简单高效的远程工作方式》【推荐】** _[图书介绍](https://book.douban.com/subject/25861795/)_ &ensp;&ensp;~~
-- **诗歌 《再别康桥：徐志摩诗歌全集》徐志摩** _[图书介绍](https://book.douban.com/subject/3261221/)_ &ensp;&ensp;
+- ~~**诗歌 《再别康桥：徐志摩诗歌全集》徐志摩** _[图书介绍](https://book.douban.com/subject/3261221/)_ &ensp;&ensp;~~
 - ~~**小说 《卡门》【推荐】** _[图书介绍](https://book.douban.com/subject/6863525/)_ &ensp;&ensp;~~
-- **散文 《静观尘世》 丰子恺** _[图书介绍](https://book.douban.com/subject/10582041/)_ &ensp;&ensp;
+- ~~**散文 《静观尘世》 丰子恺** _[图书介绍](https://book.douban.com/subject/10582041/)_ &ensp;&ensp;~~
 - **写作 《结构化写作：心中有谱、下笔有神，赢得职场说服力》【推荐】** _[图书介绍](https://book.douban.com/subject/27598613/)_ &ensp;&ensp;
 - **写作 《如何高效写作》** _[图书介绍](https://book.douban.com/subject/30266007/)_ &ensp;&ensp;
 - ~~**写作 《模版写作法：世界上最简单的写作课》** _[图书介绍](https://book.douban.com/subject/35442664/)_ &ensp;&ensp;~~
@@ -103,7 +109,7 @@
 
 - ~~**传记 《读书人》 大江健三郎** _[图书介绍](https://book.douban.com/subject/5395818/)_ &ensp;&ensp;~~
 - ~~**社科 《明日的田园城市》** _[图书介绍](https://book.douban.com/subject/4882172/)_ &ensp;&ensp;~~
-- **社科 《中国盗墓传奇》** _[图书介绍](https://book.douban.com/subject/2339953/)_ &ensp;&ensp;
+- ~~**社科 《中国盗墓传奇》** _[图书介绍](https://book.douban.com/subject/2339953/)_ &ensp;&ensp;~~
 - ~~**教育 《孩子提问题，大师来回答》** _[图书介绍](https://book.douban.com/subject/25712707/)_ &ensp;&ensp;~~
 - ~~**哲学 《恋人絮语：一个解构主义的文本》罗兰.巴特** _[图书介绍](https://book.douban.com/subject/3765331/)_ &ensp;&ensp;~~
 - ~~**哲学 《文之悦》罗兰.巴特** _[图书介绍](https://book.douban.com/subject/3824556/)_ &ensp;&ensp;~~
@@ -191,7 +197,7 @@
 - ~~**散文《无聊的魅力》** _[图书介绍](https://book.douban.com/subject/24838970/)_ &ensp;&ensp;~~
 - **散文《槭树下的家》** _[图书介绍](https://book.douban.com/subject/1056616/)_ &ensp;&ensp;在库
 - **散文《透明的哀伤》** _[图书介绍](https://book.douban.com/subject/1048441/)_ &ensp;&ensp;在库
-- **历史《笛卡尔的骨头：信仰与理性冲突简史》** _[图书介绍](https://book.douban.com/subject/19906957/)_ &ensp;&ensp;在库
+- ~~**历史《笛卡尔的骨头：信仰与理性冲突简史》** _[图书介绍](https://book.douban.com/subject/19906957/)_ &ensp;&ensp;~~
 - **历史《伶人往事》** _[图书介绍](https://weread.qq.com/web/bookDetail/ba7327b0811e4fa5fg01871c)_ &ensp;&ensp;在库
 - **国学《南怀瑾学人生智慧》** _[图书介绍](https://book.douban.com/subject/6777992/)_ &ensp;&ensp;在库
 - ~~**小说《追风筝的人》** _[图书介绍](https://book.douban.com/subject/1770782/)_ &ensp;&ensp;~~
@@ -200,10 +206,10 @@
 - **工具《快速阅读》** _[图书介绍](https://book.douban.com/subject/3916049/)_ &ensp;&ensp;在库
 - ~~**诗歌《王尔德诗选》** _[图书介绍](https://book.douban.com/subject/4850137/)_ &ensp;&ensp;~~
 - ~~**商业《黑天鹅：如何应对不可预知的未来》** _[图书介绍](https://book.douban.com/subject/6854525/)_ &ensp;&ensp;~~
-- **商业《罗伯特议事规则（第10版）》** _[图书介绍](https://book.douban.com/subject/2382433/)_ &ensp;&ensp;在库
+- ~~**商业《罗伯特议事规则（第10版）》** _[图书介绍](https://book.douban.com/subject/2382433/)_ &ensp;&ensp;在库~~
 - **小说《傲慢与偏见》** _[图书介绍](https://book.douban.com/subject/1045926/)_ &ensp;&ensp;在库
-- **商业《斯坦福极简经济学》** _[图书介绍](https://book.douban.com/subject/26314063/)_ &ensp;&ensp;在库
-- **商业《穷人的银行家》** _[图书介绍](https://book.douban.com/subject/20379812/)_ &ensp;&ensp;在库
+- ~~**商业《斯坦福极简经济学》** _[图书介绍](https://book.douban.com/subject/26314063/)_ &ensp;&ensp;在库~~
+- ~~**商业《穷人的银行家》** _[图书介绍](https://book.douban.com/subject/20379812/)_ &ensp;&ensp;在库~~
   
 ### 2023年四季度发布书单 45本
 
@@ -241,7 +247,7 @@
 - ~~**商业 《一天一根胡萝卜:365天的员工激励方案》**_[图书介绍](https://book.douban.com/subject/1392400/)_ &ensp;&ensp;~~
 - ~~**文学 《旷世风华：大运河传》**_[图书介绍](https://book.douban.com/subject/1248523/)_ &ensp;&ensp;~~
 - ~~**文学 《中国微型诗300首》**_[图书介绍](https://book.douban.com/subject/4273847/)_ &ensp;&ensp;~~
-- **文学 《名利场》**_[图书介绍](https://book.douban.com/subject/1411053/)_ &ensp;&ensp;
+- ~~**文学 《名利场》**_[图书介绍](https://book.douban.com/subject/1411053/)_ &ensp;&ensp;~~
 - ~~**文学 《红字》**_[图书介绍](https://book.douban.com/subject/2032657/)_ &ensp;&ensp;~~
 - ~~**文学 《余光中传》**_[图书介绍](https://book.douban.com/subject/1087061/)_ &ensp;&ensp;~~
 - ~~**文学 《散文研究》**_[图书介绍](https://book.douban.com/subject/1660135/)_ &ensp;&ensp;~~
@@ -255,7 +261,7 @@
 
 ### 2023年三季度发布书单 17本
 
-- **成功学《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;
+- ~~**成功学《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;~~
 - ~~**文化《2003中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;~~
 - ~~**文化《2002中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;~~
 - ~~**文化《隐形的力量：心灵秘密与内省之道》** _[图书介绍](https://book.douban.com/subject/3932529/)_ &ensp;&ensp;~~
@@ -289,7 +295,7 @@
 - ~~**传记《江城》** _[图书介绍](https://book.douban.com/subject/7060185/)_ &ensp;&ensp;~~
 - ~~**文化《散文的可能性》** _[图书介绍](https://book.douban.com/subject/1973442/)_ &ensp;&ensp;~~
 - ~~**专业《摄影爱好者必备手册》** _[图书介绍](https://book.douban.com/subject/1214439/)_ &ensp;&ensp;~~
-- **文化《IBM 蓝色基因 百年智慧》** _[图书介绍](https://book.douban.com/subject/6965594/)_ &ensp;&ensp;
+- ~~**文化《IBM 蓝色基因 百年智慧》** _[图书介绍](https://book.douban.com/subject/6965594/)_ &ensp;&ensp;~~
 - **写作《创意写作教学 实用方法50例》** _[图书介绍](https://book.douban.com/subject/25849697/)_ &ensp;&ensp;
 - ~~**写作《情节！情节！ 通过人物、悬念与冲突赋予故事生命力》** _[图书介绍](https://book.douban.com/subject/10834606/)_ &ensp;&ensp;~~
 - ~~**写作《开始写吧！ 非虚构文学创作》** _[图书介绍](https://book.douban.com/subject/5944388/)_ &ensp;&ensp;~~
@@ -312,7 +318,7 @@
 
 - ~~**管理 《你的团队需要一个会讲故事的人-用故事思维解决问题》** _[图书介绍](https://book.douban.com/subject/26780215/)_  &ensp;&ensp;~~
 - ~~**文化 《冰鉴-中国识人第一书》** _[图书介绍](https://book.douban.com/subject/6534729/)_   &ensp;&ensp;~~
-- **管理 《每一次都作对决策》** _[图书介绍](https://book.douban.com/subject/1892895/)_  &ensp;&ensp;
+- ~~**管理 《每一次都作对决策》** _[图书介绍](https://book.douban.com/subject/1892895/)_  &ensp;&ensp;~~
 - ~~**旅游 《尼泊尔 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/26897889/)_  &ensp;&ensp;~~
 - ~~**旅游 《瑞士 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/30450328/)_  &ensp;&ensp;~~
 - ~~**旅游 《爱尔兰 lonely planet 2016年版本》**  _[图书介绍](https://book.douban.com/subject/27195756/)_  &ensp;&ensp;~~

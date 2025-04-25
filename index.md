@@ -8,12 +8,18 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计281本
+### 目前合计283本
 
-### 2024年四季度发布书单 4本
+### 2025年二季度发布书单 2本
+
+- **历史 《罗马帝国衰亡史 卷二》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
+- **历史 《罗马帝国衰亡史 卷三》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
+
+
+### 2025年一季度发布书单 4本
 
 - **历史 《撒马尔罕的金桃》**_[图书介绍](https://book.douban.com/subject/26747700/)_ &ensp;&ensp;
-- **商业 《罗马帝国衰亡史 卷一》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
+- **历史 《罗马帝国衰亡史 卷一》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **小说 《白道》**_[图书介绍](https://book.douban.com/subject/5297304/)_ &ensp;&ensp;
 - **商业 《四步创业法》**_[图书介绍](https://book.douban.com/subject/11516567/)_ &ensp;&ensp;
 

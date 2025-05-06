@@ -14,6 +14,7 @@
 
 - **历史 《罗马帝国衰亡史 卷二》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **历史 《罗马帝国衰亡史 卷三》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
+- **小说 《人世间》**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;
 
 ### 2025年一季度发布书单 4本
 

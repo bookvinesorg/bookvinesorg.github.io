@@ -14,9 +14,11 @@
 
 - **历史 《罗马帝国衰亡史 卷二》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **历史 《罗马帝国衰亡史 卷三》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
-- **小说 《人世间》**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;
+- **小说 《人世间 卷一》**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;
 - **商业 《竞争优势：透视企业护城河》**_[图书介绍](https://book.douban.com/subject/35578814/)_ &ensp;&ensp;
 - **历史 《顾准文集》（增订珍藏本）**_[图书介绍](https://book.douban.com/subject/4848633/)_ &ensp;&ensp;
+- **历史 《罗马帝国衰亡史 卷四》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
+- **历史 《罗马帝国衰亡史 卷五》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 
 ### 2025年一季度发布书单 4本
 

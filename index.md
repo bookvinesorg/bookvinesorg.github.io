@@ -15,6 +15,7 @@
 - **历史 《罗马帝国衰亡史 卷六》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **历史 《大好河山可骑驴》**_[图书介绍](https://book.douban.com/subject/26791617/)_ &ensp;&ensp;
 - **小说 《人世间 卷二》**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;
+- **散文 《我们在此相遇》**_[图书介绍](https://book.douban.com/subject/26427575/)_ &ensp;&ensp;
 
 ### 2025年二季度发布
 

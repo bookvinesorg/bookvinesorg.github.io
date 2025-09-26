@@ -8,9 +8,9 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计294本
+### 目前合计296本
 
-### 2025年三季度发布书单 6本
+### 2025年三季度发布书单 8本
 
 - **历史 《罗马帝国衰亡史 卷六》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **历史 《大好河山可骑驴》**_[图书介绍](https://book.douban.com/subject/26791617/)_ &ensp;&ensp;
@@ -18,6 +18,8 @@
 - **散文 《我们在此相遇》**_[图书介绍](https://book.douban.com/subject/26427575/)_ &ensp;&ensp;
 - **艺术 《罗丹艺术论》**_[图书介绍](https://book.douban.com/subject/2253734/)_ &ensp;&ensp;
 - **写作 《这样写出好故事》**_[图书介绍](https://book.douban.com/subject/27043711/)_ &ensp;&ensp;
+- **小说 《人世间 卷三》**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;
+- **经济 《薛兆丰经济学讲义》**_[图书介绍](https://book.douban.com/subject/30280804/)_ &ensp;&ensp;
 
 ### 2025年二季度发布书单 7本
 

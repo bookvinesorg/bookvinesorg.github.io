@@ -8,13 +8,15 @@
 
 另，可跳转至 [书蔓社藏书单](books.md)  
 
-### 目前合计300本
+### 目前合计302本
 
-### 2025年四季度发布书单 3本
+### 2025年四季度发布书单 5本
 
 - **散文 《故都的秋》.郁达夫**_[图书介绍](https://book.douban.com/subject/26772692/)_ &ensp;&ensp;
 - **散文 《爱上了你》.张小娴**_[图书介绍](https://book.douban.com/subject/3045175/)_ &ensp;&ensp;
 - **散文 《相逢》.张小娴**_[图书介绍](https://book.douban.com/subject/3081757/)_ &ensp;&ensp;
+- **诗歌 《The Complete Poetry of Edgar Allan Poe》**_[图书介绍](https://book.douban.com/subject/3428905/)_ &ensp;&ensp;
+- **历史 《耶路撒冷三千年》**_[图书介绍](https://book.douban.com/subject/25886351/)_ &ensp;&ensp;
 
 ### 2025年三季度发布书单 9本
 

@@ -17,6 +17,7 @@
 - **散文 《相逢》.张小娴**_[图书介绍](https://book.douban.com/subject/3081757/)_ &ensp;&ensp;
 - **诗歌 《The Complete Poetry of Edgar Allan Poe》**_[图书介绍](https://book.douban.com/subject/3428905/)_ &ensp;&ensp;
 - **历史 《耶路撒冷三千年》**_[图书介绍](https://book.douban.com/subject/25886351/)_ &ensp;&ensp;
+- **文学 《当代汉语散文流变论》**_[图书介绍](https://book.douban.com/subject/1100663/)_ &ensp;&ensp;
 
 ### 2025年三季度发布书单 9本
 

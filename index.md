@@ -1,14 +1,19 @@
 # 书蔓社
 
-## 已阅待处理书单
+## 已阅书籍
 
-&ensp;&ensp;&ensp;&ensp;所有书籍均为已阅书籍，部分为旧版书籍，可能有阅读和标注痕迹，书封有书蔓社藏书章或枫藏书章，。
+- 所有书籍均为已阅书籍，书封着书蔓社藏书章或枫藏书章，部分形成读书笔记和随感，发表至公众号“书蔓社”或“习研社”。
 
-&ensp;&ensp;&ensp;&ensp;以下书名包含豆瓣书籍介绍链接，可自行选阅。 最近增加了“推荐”标记，用以标识其中大众视角下适合阅读的书籍。
+- 以下书名包含豆瓣书籍介绍链接，方便选阅。
 
-另，可跳转至 [书蔓社藏书单](books.md)  
+- 书籍处理方式（2026年重新整理）
+  1. 已读：在读或已读完毕，书籍仍，无特殊标识
+  2. 已读出库：已读完毕，书籍已处理，~~以删除线标识~~
+  3. 已读收藏：已读完毕，书籍上架收藏，<u>以下划线标识</u>
 
-### 目前合计303本
+- 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
+
+### 目前合计365本
 
 ### 2025年四季度发布书单 6本
 
@@ -17,7 +22,7 @@
 - **散文 《相逢》.张小娴**_[图书介绍](https://book.douban.com/subject/3081757/)_ &ensp;&ensp;
 - **诗歌 《The Complete Poetry of Edgar Allan Poe》**_[图书介绍](https://book.douban.com/subject/3428905/)_ &ensp;&ensp;
 - **历史 《耶路撒冷三千年》**_[图书介绍](https://book.douban.com/subject/25886351/)_ &ensp;&ensp;
-- **文学 《当代汉语散文流变论》**_[图书介绍](https://book.douban.com/subject/1100663/)_ &ensp;&ensp;
+- <u> **文学 《当代汉语散文流变论》**_[图书介绍](https://book.douban.com/subject/1100663/)_ </u> &ensp;&ensp;
 
 ### 2025年三季度发布书单 9本
 
@@ -126,7 +131,7 @@
 - **小说 《爱的流放地》渡边淳一** _[图书介绍](https://book.douban.com/subject/2247138/)_ &ensp;&ensp;
 - ~~**传记 《极权制造：莱尼.瑞芬斯塔尔的一生》【推荐】** _[图书介绍](https://book.douban.com/subject/4912683/)_ &ensp;&ensp;~~
 - ~~**科学 《神秘的量子生命》【推荐】** _[图书介绍](https://book.douban.com/subject/26844877/)_ &ensp;&ensp;~~
-- ~~**国学《烟云过眼》** _[图书介绍](https://book.douban.com/subject/25752971/)_ &ensp;&ensp;在库~~
+- ~~**国学《烟云过眼》** _[图书介绍](https://book.douban.com/subject/25752971/)_ &ensp;&ensp;~~
 - ~~**艺术《论摄影》** _[图书介绍](https://book.douban.com/subject/4282084/)_ &ensp;&ensp;~~
 - ~~**园艺《公园植物造景》** _[图书介绍](https://book.douban.com/subject/7006693/)_ &ensp;&ensp;~~
 - ~~**漫画《革命之路》** _[图书介绍](https://book.douban.com/subject/25709105/)_ &ensp;&ensp;~~
@@ -135,7 +140,7 @@
 - ~~**中医《黄元御医书全集》（上中下）** _[图书介绍](https://book.douban.com/subject/26778462/)_ &ensp;&ensp;~~
 - ~~**中医《黄帝内经素问》** _[图书介绍](https://book.douban.com/subject/27081763/)_ &ensp;&ensp;库~~
 - ~~**中医《黄帝内经太素》** _[图书介绍](https://book.douban.com/subject/26994286/)_ &ensp;&ensp;~~
-- **地理《典藏国家地理（中国版）》（上中下）** _[图书介绍](https://book.douban.com/subject/5349794/)_ &ensp;&ensp;在库
+- **地理《典藏国家地理（中国版）》（上中下）** _[图书介绍](https://book.douban.com/subject/5349794/)_ &ensp;&ensp;
 
 ### 2024年一季度发布书单 93本
 
@@ -193,7 +198,7 @@
 - ~~**设计 《设计的觉醒》** _[图书介绍](https://book.douban.com/subject/4101013/)_ &ensp;&ensp;~~
 - ~~**写作 《642件可写的事：停不下来的创意冒险》** _[图书介绍](https://book.douban.com/subject/30408577/)_ &ensp;&ensp;~~
 - ~~**社会 《无缘社会》** _[图书介绍](https://book.douban.com/subject/25822105/)_ &ensp;&ensp;~~
-- ~~**国学 《随园食单（中华雅文化经典丛书）》** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;在库~~
+- ~~**国学 《随园食单（中华雅文化经典丛书）》** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;~~
 - ~~**国学 《长物志（中华雅文化经典丛书》** _[图书介绍](https://book.douban.com/subject/30251264/)_ &ensp;&ensp;~~
 - ~~**小说 《多瑙河领航员》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1328629/)_ &ensp;&ensp;~~
 - ~~**小说 《飘逝的半岛》（凡尔纳选集）** _[图书介绍](https://book.douban.com/subject/1276542/)_ &ensp;&ensp;~~
@@ -218,30 +223,30 @@
 - ~~**艺术《观看之道》约翰.伯格** _[图书介绍](https://book.douban.com/subject/26427579/)_ &ensp;&ensp;~~
 - ~~**散文《文学履途：漫游在伟大故事诞生之地》** _[图书介绍](https://book.douban.com/subject/30322377/)_ &ensp;&ensp;~~
 - ~~**历史《枪炮、病菌与钢铁》** _[图书介绍](https://book.douban.com/subject/1813841/)_ &ensp;&ensp;~~
-- **人生《甘露与净瓶的对话：圣严法师开示》** _[图书介绍](https://book.douban.com/subject/3167925/)_ &ensp;&ensp;在库
+- **人生《甘露与净瓶的对话：圣严法师开示》** _[图书介绍](https://book.douban.com/subject/3167925/)_ &ensp;&ensp;
 - ~~**小说《外国短篇小说》** _[图书介绍](https://book.douban.com/subject/30163876/)_ &ensp;&ensp;~~
 - ~~**小说《外国短篇小说选》** _[图书介绍](https://book.douban.com/subject/25896512/)_ &ensp;&ensp;~~
 - ~~**小说《芳华》** _[图书介绍](https://book.douban.com/subject/36166774/)_ &ensp;&ensp;~~
-- **散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;在库
+- **散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;
 - ~~**历史《南宋行暮：宋光宗宋宁宗时代》** _[图书介绍](https://book.douban.com/subject/30277466/)_ &ensp;&ensp;~~
-- **纪实《平壤冷面：一位法国记者暗访北韩的见闻纪实》** _[图书介绍](https://book.douban.com/subject/25892571/)_ &ensp;&ensp;在库
-- **散文《爱情笔记》** _[图书介绍](https://book.douban.com/subject/3669406/)_ &ensp;&ensp;在库
+- **纪实《平壤冷面：一位法国记者暗访北韩的见闻纪实》** _[图书介绍](https://book.douban.com/subject/25892571/)_ &ensp;&ensp;
+- **散文《爱情笔记》** _[图书介绍](https://book.douban.com/subject/3669406/)_ &ensp;&ensp;
 - ~~**散文《无聊的魅力》** _[图书介绍](https://book.douban.com/subject/24838970/)_ &ensp;&ensp;~~
-- **散文《槭树下的家》** _[图书介绍](https://book.douban.com/subject/1056616/)_ &ensp;&ensp;在库
-- **散文《透明的哀伤》** _[图书介绍](https://book.douban.com/subject/1048441/)_ &ensp;&ensp;在库
+- **散文《槭树下的家》** _[图书介绍](https://book.douban.com/subject/1056616/)_ &ensp;&ensp;
+- **散文《透明的哀伤》** _[图书介绍](https://book.douban.com/subject/1048441/)_ &ensp;&ensp;
 - ~~**历史《笛卡尔的骨头：信仰与理性冲突简史》** _[图书介绍](https://book.douban.com/subject/19906957/)_ &ensp;&ensp;~~
-- **历史《伶人往事》** _[图书介绍](https://weread.qq.com/web/bookDetail/ba7327b0811e4fa5fg01871c)_ &ensp;&ensp;在库
-- **国学《南怀瑾学人生智慧》** _[图书介绍](https://book.douban.com/subject/6777992/)_ &ensp;&ensp;在库
+- **历史《伶人往事》** _[图书介绍](https://weread.qq.com/web/bookDetail/ba7327b0811e4fa5fg01871c)_ &ensp;&ensp;
+- **国学《南怀瑾学人生智慧》** _[图书介绍](https://book.douban.com/subject/6777992/)_ &ensp;&ensp;
 - ~~**小说《追风筝的人》** _[图书介绍](https://book.douban.com/subject/1770782/)_ &ensp;&ensp;~~
-- **传记《一路投奔奇迹：爱因斯坦的生命和他的宇宙》** _[图书介绍](https://book.douban.com/subject/2125852/)_ &ensp;&ensp;在库
+- **传记《一路投奔奇迹：爱因斯坦的生命和他的宇宙》** _[图书介绍](https://book.douban.com/subject/2125852/)_ &ensp;&ensp;
 - ~~**小说《当我们谈论爱情时我们在谈论什么》** _[图书介绍](https://book.douban.com/subject/4010969/)_ &ensp;&ensp;~~
-- **工具《快速阅读》** _[图书介绍](https://book.douban.com/subject/3916049/)_ &ensp;&ensp;在库
+- **工具《快速阅读》** _[图书介绍](https://book.douban.com/subject/3916049/)_ &ensp;&ensp;
 - ~~**诗歌《王尔德诗选》** _[图书介绍](https://book.douban.com/subject/4850137/)_ &ensp;&ensp;~~
 - ~~**商业《黑天鹅：如何应对不可预知的未来》** _[图书介绍](https://book.douban.com/subject/6854525/)_ &ensp;&ensp;~~
-- ~~**商业《罗伯特议事规则（第10版）》** _[图书介绍](https://book.douban.com/subject/2382433/)_ &ensp;&ensp;在库~~
-- **小说《傲慢与偏见》** _[图书介绍](https://book.douban.com/subject/1045926/)_ &ensp;&ensp;在库
-- ~~**商业《斯坦福极简经济学》** _[图书介绍](https://book.douban.com/subject/26314063/)_ &ensp;&ensp;在库~~
-- ~~**商业《穷人的银行家》** _[图书介绍](https://book.douban.com/subject/20379812/)_ &ensp;&ensp;在库~~
+- ~~**商业《罗伯特议事规则（第10版）》** _[图书介绍](https://book.douban.com/subject/2382433/)_ &ensp;&ensp;~~
+- **小说《傲慢与偏见》** _[图书介绍](https://book.douban.com/subject/1045926/)_ &ensp;&ensp;
+- ~~**商业《斯坦福极简经济学》** _[图书介绍](https://book.douban.com/subject/26314063/)_ &ensp;&ensp;~~
+- ~~**商业《穷人的银行家》** _[图书介绍](https://book.douban.com/subject/20379812/)_ &ensp;&ensp;~~
   
 ### 2023年四季度发布书单 45本
 
@@ -291,7 +296,7 @@
 - ~~**小说 《基督山伯爵》（4册）**_[图书介绍](https://book.douban.com/subject/3904329/)_ &ensp;&ensp;~~
 - ~~**传记 《香水情芬：调出来的神秘》**_[图书介绍](https://book.douban.com/subject/1951803/)_ &ensp;&ensp;~~
 
-### 2023年三季度发布书单 17本
+### 2023年三季度发布书单 31本
 
 - ~~**成功学《这辈子只能这样吗？》** _[图书介绍](https://book.douban.com/subject/4920383/)_ &ensp;&ensp;~~
 - ~~**文化《2003中国年度最佳台湾散文》** _[图书介绍](https://book.douban.com/subject/1063939/)_ &ensp;&ensp;~~
@@ -310,6 +315,38 @@
 - ~~**文化《多余的素材》** _[图书介绍](https://book.douban.com/subject/2287508/)_ &ensp;&ensp;~~
 - ~~**文化《草草集》** _[图书介绍](https://book.douban.com/subject/25804641/)_ &ensp;&ensp;~~
 - ~~**传记《我们仨》** _[图书介绍](https://book.douban.com/subject/1023045/)_ &ensp;&ensp;~~
+- <u> **MOOK《碧山01：东亚的书院》** _[图书介绍](https://book.douban.com/subject/20278563/)_ </u> &ensp;&ensp;
+- <u> **MOOK《碧山02：去国还乡》** _[图书介绍](https://book.douban.com/subject/24698875/)_ </u> &ensp;&ensp;
+- <u> **MOOK《碧山03：去国还乡.续》** _[图书介绍](https://book.douban.com/subject/25753080/)_ </u> &ensp;&ensp;
+- <u> **MOOK《碧山04：结社与雅集》** _[图书介绍](https://book.douban.com/subject/25807465/)_ </u> &ensp;&ensp;
+- <u> **MOOK《碧山05：文庙儒家的先贤祠》** _[图书介绍](https://book.douban.com/subject/25891003/)_ </u> &ensp;&ensp;
+- <u> **MOOK《碧山06：民艺复兴》** _[图书介绍](https://book.douban.com/subject/26293436/)_ </u> &ensp;&ensp;
+- <u> **MOOK《碧山07：民艺复兴.续》** _[图书介绍](https://book.douban.com/subject/26293402/)_ </u> &ensp;&ensp;
+- <u> **MOOK《汉品02：说园》** _[图书介绍](https://book.douban.com/subject/10560812/)_ </u> &ensp;&ensp;
+- <u> **MOOK《汉品01：古建筑的七面体》** _[图书介绍](https://book.douban.com/subject/10560812/)_ </u> &ensp;&ensp;
+- <u> **MOOK《CLUBMAN V2:固执与审美》** _[图书介绍]MINI CLub杂志_ </u> &ensp;&ensp;
+- <u> **MOOK《目客001：花朵与我》** _[图书介绍](https://book.douban.com/subject/26337959/)_ </u> &ensp;&ensp;
+- <u> **MOOK《目客002：我这样爱你》** _[图书介绍](https://book.douban.com/subject/26431215/)_ </u> &ensp;&ensp;
+- <u> **MOOK《目客003：山本耀司》** _[图书介绍](https://book.douban.com/subject/26721550/)_ </u> &ensp;&ensp;
+- <u> **MOOK《目客004：猫，懒得理你》** _[图书介绍](https://book.douban.com/subject/26797271/)_ </u> &ensp;&ensp;
+- <u> **MOOK《泰伦.西蒙 A LIVING MAN DECLARED DEAD AND OTHER CHAPTERS》** _[图书介绍]尤伦斯展览手册_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉001：激情藏在安静的角落》** _[图书介绍](https://book.douban.com/subject/26411600/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉002：想在一生中做一件正确的事》** _[图书介绍](https://book.douban.com/subject/26529262/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉003：不需要安全感就是自由》** _[图书介绍](https://book.douban.com/subject/26612460/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉004：需要什么，年轻的身体便去寻找》** _[图书介绍](https://book.douban.com/subject/26681349/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉005：以手抵心》** _[图书介绍](https://book.douban.com/subject/26721548/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉006：我停在你将回来的地方》** _[图书介绍](https://book.douban.com/subject/26800841/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉007：想要不提供翅膀的飞翔》** _[图书介绍](https://book.douban.com/subject/26832918/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉008：那就无所畏惧的老去》** _[图书介绍](https://book.douban.com/subject/26860716/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉009：接受彼此的那种亲密》** _[图书介绍](https://book.douban.com/subject/26881057/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉010：我不再是我生命中最重要的人了》** _[图书介绍](https://book.douban.com/subject/26928508/)_ &ensp;&ensp;
+- <u> **MOOK《视觉011：我宁愿让自己迷失一会儿》** _[图书介绍](https://book.douban.com/subject/26976557/)_ </u> &ensp;&ensp;
+- <u> **MOOK《视觉014：总想逃跑却还在这里》** _[图书介绍](https://book.douban.com/subject/30325323/)_ </u> &ensp;&ensp;
+- <u> **MOOK《知日：料理的魂》** _[图书介绍](https://book.douban.com/subject/25852538/)_ </u> &ensp;&ensp;
+- <u> **MOOK《氧气生活：西湖之外》** _[图书介绍]朋友赠刊_ </u> &ensp;&ensp;
+- <u> **MOOK《东方历史评论01》** _[图书介绍](https://book.douban.com/subject/24307937/)_ </u> &ensp;&ensp;
+- <u> **MOOK《天南03:诗歌地理学》** _[图书介绍](https://book.douban.com/subject/21936113/)_ </u> &ensp;&ensp;
+
 
 ### 2023年二季度发布书单 27本
 
@@ -324,7 +361,7 @@
 - ~~**传记《傅雷家书（傅敏编）》** _[图书介绍](https://book.douban.com/subject/4881264/)_ &ensp;&ensp;~~
 - ~~**传记《失焦：卡帕传》** _[图书介绍](https://book.douban.com/subject/10557523/)_ &ensp;&ensp;~~
 - ~~**传记《二手时间》** _[图书介绍](https://book.douban.com/subject/26704403/)_ &ensp;&ensp;~~
-- ~~**传记《江城》** _[图书介绍](https://book.douban.com/subject/7060185/)_ &ensp;&ensp;~~
+- **传记《江城》** _[图书介绍](https://book.douban.com/subject/7060185/)_ &ensp;&ensp;
 - ~~**文化《散文的可能性》** _[图书介绍](https://book.douban.com/subject/1973442/)_ &ensp;&ensp;~~
 - ~~**专业《摄影爱好者必备手册》** _[图书介绍](https://book.douban.com/subject/1214439/)_ &ensp;&ensp;~~
 - ~~**文化《IBM 蓝色基因 百年智慧》** _[图书介绍](https://book.douban.com/subject/6965594/)_ &ensp;&ensp;~~
@@ -341,10 +378,41 @@
 - ~~**企业 《FaceBook效应》**_[图书介绍](https://book.douban.com/subject/5313010/)_ &ensp;&ensp;~~
 - **社科 《气场》** _[图书介绍](https://book.douban.com/subject/5325861/)_  &ensp;&ensp;
 
-### 2023年一季度发布书单 2本
+### 2023年一季度发布书单 34本
 
 - ~~**健身《跑步圣经》** _[图书介绍](https://book.douban.com/subject/26326484/)_ &ensp;&ensp;~~
 - ~~**历史《帝国的惆怅：中国创痛社会的政治与人性》** _[图书介绍](https://book.douban.com/subject/1421029/)_ &ensp;&ensp;~~
+- <u> **散文《翡翠岛编年》**_[图书介绍](https://book.douban.com/subject/25818124/)_ </u> &ensp;&ensp;
+- <u> **游记《带一本书去巴黎》** _[图书介绍](https://book.douban.com/subject/1001885/)_ </u> &ensp;&ensp;
+- <u> **散文《城市牛哞》**_[图书介绍](https://book.douban.com/subject/1034338/)_ </u> &ensp;&ensp;
+- <u> **传记《大江大海一九四九》** _[图书介绍](香港版本)_ </u> &ensp;&ensp;
+- <u> **摄影《失落的优雅》** _[图书介绍](https://book.douban.com/subject/24875976/)_ </u> &ensp;&ensp;
+- <u> **社科《把自己作为方法：与项飈谈话》** _[图书介绍](https://book.douban.com/subject/35092383/)_ </u> &ensp;&ensp;
+- <u> **摄影《当代摄影大师：二十位人性见证者》** _[图书介绍](https://book.douban.com/subject/11622273/)_ </u> &ensp;&ensp;
+- <u> **社科《乌合之众：大众心理研究》** _[图书介绍](https://book.douban.com/subject/6966569/)_ </u> &ensp;&ensp;
+- <u> **哲学《中国哲学简史》** _[图书介绍](https://book.douban.com/subject/20501147/)_ </u> &ensp;&ensp;
+- <u> **哲学《哲学与人生》** _[图书介绍](https://book.douban.com/subject/1053526/)_ </u> &ensp;&ensp;
+- <u> **哲学《心灵自由之路》** _[图书介绍](https://book.douban.com/subject/1256282/)_ </u> &ensp;&ensp;
+- <u> **哲学《人生中不可不想的事》** _[图书介绍](https://book.douban.com/subject/1045716/)_ </u> &ensp;&ensp;
+- <u> **哲学《爱与寂寞》** _[图书介绍](https://book.douban.com/subject/1258513/)_ </u> &ensp;&ensp;
+- <u> **哲学《爱的觉醒》** _[图书介绍](https://book.douban.com/subject/1829799/)_ </u> &ensp;&ensp;
+- <u> **哲学《唤醒能量》** _[图书介绍](https://book.douban.com/subject/6829168/)_ </u> &ensp;&ensp;
+- <u> **艺术《美的历史》** _[图书介绍](https://book.douban.com/subject/1958685/)_ </u> &ensp;&ensp;
+- <u> **艺术《丑的历史》** _[图书介绍](https://book.douban.com/subject/4579688/)_ </u> &ensp;&ensp;
+- <u> **艺术《无限的清单》** _[图书介绍](https://book.douban.com/subject/25697555/)_ </u> &ensp;&ensp;
+- <u> **艺术《艺术通史》** _[图书介绍](https://book.douban.com/subject/10430397/)_ </u> &ensp;&ensp;
+- <u> **政治《李光耀论中国与世界》** _[图书介绍](https://book.douban.com/subject/25730239/)_ </u> &ensp;&ensp;
+- <u> **传记《独立书店，你好！》** _[图书介绍](https://book.douban.com/subject/6429287/)_ </u> &ensp;&ensp;
+- <u> **传记《独立书店，你好！（第二季）》** _[图书介绍](https://book.douban.com/subject/10354834/)_ </u> &ensp;&ensp;
+- <u> **建筑《风声水起：风水方家谭》** _[图书介绍](https://book.douban.com/subject/2143461/)_ </u> &ensp;&ensp;
+- <u> **历史《西南联大行思录》** _[图书介绍](https://book.douban.com/subject/24838578/)_ </u> &ensp;&ensp;
+- <u> **艺术《美的历程》** _[图书介绍](https://book.douban.com/subject/3410718/)_ </u> &ensp;&ensp;
+- <u> **历史《叶隐闻书》** _[图书介绍](https://book.douban.com/subject/2122399/)_ </u> &ensp;&ensp;
+- <u> **历史《万历十五年》** _[图书介绍](https://book.douban.com/subject/1981042/)_ </u> &ensp;&ensp;
+- <u> **社科《人情与面子：中国人的权利游戏》** _[图书介绍](https://book.douban.com/subject/2122399/)_ </u> &ensp;&ensp;
+- <u> **历史《万物简史》** _[图书介绍](https://book.douban.com/subject/27020143/)_ </u> &ensp;&ensp;
+- <u> **哲学《数学之美》** _[图书介绍](https://book.douban.com/subject/2122399/)_ </u> &ensp;&ensp;
+- <u> **历史《人类简史》** _[图书介绍](https://book.douban.com/subject/4843446/)_ </u> &ensp;&ensp;
 
 ### 2022年四季度发布书单 8本
 

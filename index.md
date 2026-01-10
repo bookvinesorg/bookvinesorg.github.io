@@ -15,7 +15,11 @@
 
 ### 目前合计365本
 
-### 2025年四季度发布书单 6本
+### 2026年一季度发布书单 1本
+
+- **古籍 《山海经全译》**_[图书介绍](https://book.douban.com/subject/26889848/)_ &ensp;&ensp;
+
+### 2025年四季度发布书单 8本
 
 - **散文 《故都的秋》.郁达夫**_[图书介绍](https://book.douban.com/subject/26772692/)_ &ensp;&ensp;
 - **散文 《爱上了你》.张小娴**_[图书介绍](https://book.douban.com/subject/3045175/)_ &ensp;&ensp;

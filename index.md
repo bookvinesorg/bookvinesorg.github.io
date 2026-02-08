@@ -17,7 +17,9 @@
 
 ### 2026年一季度发布书单 1本
 
+- **文学 《人间词话》.王国维**_[图书介绍](https://book.douban.com/subject/3787127/)_ &ensp;&ensp;
 - **古籍 《山海经全译》**_[图书介绍](https://book.douban.com/subject/26889848/)_ &ensp;&ensp;
+- **文学 《托尔斯泰与陀思妥耶夫斯基（上下）》**_[图书介绍](https://book.douban.com/subject/4149229/)_ &ensp;&ensp;
 
 ### 2025年四季度发布书单 8本
 

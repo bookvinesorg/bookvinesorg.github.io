@@ -1,6 +1,6 @@
 # 书蔓社
 
-### 已阅书籍
+## 已阅书籍
 
 - 所有书籍均为已阅书籍，书封着书蔓社藏书章或枫藏书章，部分形成读书笔记和随感，发表至公众号“书蔓社”或“习研社”。
 
@@ -10,37 +10,39 @@
   1. 已读：在读或已读完毕，书籍仍，无特殊标识
   2. 已读出库：已读完毕，书籍已处理，~~以删除线标识~~
   3. 已读收藏：已读完毕，书籍上架收藏，++以高亮背景标识++
+  4. 电子版本：2026年起，部分图书以电子版本阅读，无出库标识,电子版本标记（e-book）
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 目前合计365本
+### 目前合计371本
 
-### 2026年一季度发布书单 1本
+### 2026年一季度发布书单 4本
 
 - **文学 《人间词话》.王国维**_[图书介绍](https://book.douban.com/subject/3787127/)_ &ensp;&ensp;
 - **古籍 《山海经全译》**_[图书介绍](https://book.douban.com/subject/26889848/)_ &ensp;&ensp;
 - **文学 《托尔斯泰与陀思妥耶夫斯基（上下）》**_[图书介绍](https://book.douban.com/subject/4149229/)_ &ensp;&ensp;
+- **哲学 《存在主义咖啡馆：自由，存在和杏子鸡尾酒》（e-book)**_[图书介绍](https://book.douban.com/subject/27170538/)_ &ensp;&ensp;
 
 ### 2025年四季度发布书单 8本
 
 - **散文 《故都的秋》.郁达夫**_[图书介绍](https://book.douban.com/subject/26772692/)_ &ensp;&ensp;
-- **散文 《爱上了你》.张小娴**_[图书介绍](https://book.douban.com/subject/3045175/)_ &ensp;&ensp;
-- **散文 《相逢》.张小娴**_[图书介绍](https://book.douban.com/subject/3081757/)_ &ensp;&ensp;
+- ~~**散文 《爱上了你》.张小娴**_[图书介绍](https://book.douban.com/subject/3045175/)_ &ensp;&ensp;~~
+- ~~**散文 《相逢》.张小娴**_[图书介绍](https://book.douban.com/subject/3081757/)_ &ensp;&ensp;~~
 - **诗歌 《The Complete Poetry of Edgar Allan Poe》**_[图书介绍](https://book.douban.com/subject/3428905/)_ &ensp;&ensp;
 - **历史 《耶路撒冷三千年》**_[图书介绍](https://book.douban.com/subject/25886351/)_ &ensp;&ensp;
 - ==**文学 《当代汉语散文流变论》**_[图书介绍](https://book.douban.com/subject/1100663/)_== &ensp;&ensp;
-- **散文 《拥抱》.张小娴**_[图书介绍](https://book.douban.com/subject/3099359/)_== &ensp;&ensp;
-- **散文 《永不永不说再见》.张小娴**_[图书介绍](https://book.douban.com/subject/3053868/)_== &ensp;&ensp;
+- ~~**散文 《拥抱》.张小娴**_[图书介绍](https://book.douban.com/subject/3099359/)_ &ensp;&ensp;~~
+- ~~**散文 《永不永不说再见》.张小娴**_[图书介绍](https://book.douban.com/subject/3053868/)_ &ensp;&ensp;~~
 
 ### 2025年三季度发布书单 9本
 
 - **历史 《罗马帝国衰亡史 卷六》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **历史 《大好河山可骑驴》**_[图书介绍](https://book.douban.com/subject/26791617/)_ &ensp;&ensp;
-- **小说 《人世间 卷二》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;
+- ~~**小说 《人世间 卷二》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;~~
 - **散文 《我们在此相遇》**_[图书介绍](https://book.douban.com/subject/26427575/)_ &ensp;&ensp;
 - **艺术 《罗丹艺术论》**_[图书介绍](https://book.douban.com/subject/2253734/)_ &ensp;&ensp;
 - **写作 《这样写出好故事》**_[图书介绍](https://book.douban.com/subject/27043711/)_ &ensp;&ensp;
-- **小说 《人世间 卷三》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;
+- ~~**小说 《人世间 卷三》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;~~
 - **经济 《薛兆丰经济学讲义》.薛兆丰**_[图书介绍](https://book.douban.com/subject/30280804/)_ &ensp;&ensp;
 - **历史 《财富之城 威尼斯海洋霸权》**_[图书介绍](https://book.douban.com/subject/26296352/)_ &ensp;&ensp;
 
@@ -48,15 +50,15 @@
 
 - **历史 《罗马帝国衰亡史 卷二》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **历史 《罗马帝国衰亡史 卷三》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
-- **小说 《人世间 卷一》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;
+- ~~**小说 《人世间 卷一》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;~~
 - **商业 《竞争优势：透视企业护城河》**_[图书介绍](https://book.douban.com/subject/35578814/)_ &ensp;&ensp;
-- **历史 《顾准文集》（增订珍藏本）**_[图书介绍](https://book.douban.com/subject/4848633/)_ &ensp;&ensp;
+- ~~**历史 《顾准文集》（增订珍藏本）**_[图书介绍](https://book.douban.com/subject/4848633/)_ &ensp;&ensp;~~
 - **历史 《罗马帝国衰亡史 卷四》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **历史 《罗马帝国衰亡史 卷五》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 
 ### 2025年一季度发布书单 4本
 
-- **历史 《撒马尔罕的金桃》**_[图书介绍](https://book.douban.com/subject/26747700/)_ &ensp;&ensp;
+- ~~**历史 《撒马尔罕的金桃》**_[图书介绍](https://book.douban.com/subject/26747700/)_ &ensp;&ensp;~~
 - **历史 《罗马帝国衰亡史 卷一》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
 - **小说 《白道》**_[图书介绍](https://book.douban.com/subject/5297304/)_ &ensp;&ensp;
 - **商业 《四步创业法》**_[图书介绍](https://book.douban.com/subject/11516567/)_ &ensp;&ensp;

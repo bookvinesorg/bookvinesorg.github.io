@@ -14,14 +14,17 @@
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 目前合计371本
+### 目前合计374本
 
-### 2026年一季度发布书单 4本
+### 2026年一季度发布书单 7本
 
 - **文学 《人间词话》.王国维**_[图书介绍](https://book.douban.com/subject/3787127/)_ &ensp;&ensp;
 - **古籍 《山海经全译》**_[图书介绍](https://book.douban.com/subject/26889848/)_ &ensp;&ensp;
 - **文学 《托尔斯泰与陀思妥耶夫斯基（上下）》**_[图书介绍](https://book.douban.com/subject/4149229/)_ &ensp;&ensp;
 - **哲学 《存在主义咖啡馆：自由，存在和杏子鸡尾酒》（e-book)**_[图书介绍](https://book.douban.com/subject/27170538/)_ &ensp;&ensp;
+- **商业 《重新定义公司：谷歌是如何运营的》**_[图书介绍](https://book.douban.com/subject/26582822/)_ &ensp;&ensp;
+- **散文 《守望的距离》**_[图书介绍](https://book.douban.com/subject/30133336/)_ &ensp;&ensp;
+- **写作 《作家创意手册》**_[图书介绍](https://book.douban.com/subject/26279847/)_ &ensp;&ensp;
 
 ### 2025年四季度发布书单 8本
 

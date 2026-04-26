@@ -14,18 +14,20 @@
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 目前合计377本
+### 目前合计379本
 
-### 2026年二季度发布书单 3本
+### 2026年二季度发布书单 5本
 
 - **经济 《后资本主义时代》.广井良典（e-book）**_[图书介绍](https://book.douban.com/subject/35356471/)_ &ensp;&ensp;
 - **哲学 《查拉图斯特拉如是说》.尼采（e-book）**_[图书介绍](https://book.douban.com/subject/26742940/)_ &ensp;&ensp;
 - **文学 《新月集飞鸟集》.泰戈尔**_[图书介绍](https://book.douban.com/subject/1255326/)_ &ensp;&ensp;
+- **历史 《海洋帝国：地中海大决战》**_[图书介绍](https://book.douban.com/subject/25891321/)_ &ensp;&ensp;
+- **历史 《1453：君士坦丁堡之战》**_[图书介绍](https://book.douban.com/subject/25891318/)_ &ensp;&ensp;
 
 ### 2026年一季度发布书单 7本
 
 - **文学 《人间词话》.王国维**_[图书介绍](https://book.douban.com/subject/3787127/)_ &ensp;&ensp;
-- **古籍 《山海经全译》**_[图书介绍](https://book.douban.com/subject/26889848/)_ &ensp;&ensp;
+- ~~**古籍 《山海经全译》**_[图书介绍](https://book.douban.com/subject/26889848/)_ &ensp;&ensp;~~
 - **文学 《托尔斯泰与陀思妥耶夫斯基（上下）》**_[图书介绍](https://book.douban.com/subject/4149229/)_ &ensp;&ensp;
 - **哲学 《存在主义咖啡馆：自由，存在和杏子鸡尾酒》（e-book)**_[图书介绍](https://book.douban.com/subject/27170538/)_ &ensp;&ensp;
 - **商业 《重新定义公司：谷歌是如何运营的》**_[图书介绍](https://book.douban.com/subject/26582822/)_ &ensp;&ensp;
@@ -45,7 +47,7 @@
 
 ### 2025年三季度发布书单 9本
 
-- **历史 《罗马帝国衰亡史 卷六》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
+- ~~**历史 《罗马帝国衰亡史 卷六》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;~~
 - **历史 《大好河山可骑驴》**_[图书介绍](https://book.douban.com/subject/26791617/)_ &ensp;&ensp;
 - ~~**小说 《人世间 卷二》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;~~
 - **散文 《我们在此相遇》**_[图书介绍](https://book.douban.com/subject/26427575/)_ &ensp;&ensp;
@@ -53,23 +55,23 @@
 - **写作 《这样写出好故事》**_[图书介绍](https://book.douban.com/subject/27043711/)_ &ensp;&ensp;
 - ~~**小说 《人世间 卷三》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;~~
 - **经济 《薛兆丰经济学讲义》.薛兆丰**_[图书介绍](https://book.douban.com/subject/30280804/)_ &ensp;&ensp;
-- **历史 《财富之城 威尼斯海洋霸权》**_[图书介绍](https://book.douban.com/subject/26296352/)_ &ensp;&ensp;
+- **历史 《财富之城：威尼斯海洋霸权》**_[图书介绍](https://book.douban.com/subject/26296352/)_ &ensp;&ensp;
 
 ### 2025年二季度发布书单 7本
 
-- **历史 《罗马帝国衰亡史 卷二》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
-- **历史 《罗马帝国衰亡史 卷三》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
+- ~~**历史 《罗马帝国衰亡史 卷二》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;~~
+- ~~**历史 《罗马帝国衰亡史 卷三》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;~~
 - ~~**小说 《人世间 卷一》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;~~
 - **商业 《竞争优势：透视企业护城河》**_[图书介绍](https://book.douban.com/subject/35578814/)_ &ensp;&ensp;
 - ~~**历史 《顾准文集》（增订珍藏本）**_[图书介绍](https://book.douban.com/subject/4848633/)_ &ensp;&ensp;~~
-- **历史 《罗马帝国衰亡史 卷四》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
-- **历史 《罗马帝国衰亡史 卷五》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
+- ~~**历史 《罗马帝国衰亡史 卷四》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;~~
+- ~~**历史 《罗马帝国衰亡史 卷五》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;~~
 
 ### 2025年一季度发布书单 4本
 
 - ~~**历史 《撒马尔罕的金桃》**_[图书介绍](https://book.douban.com/subject/26747700/)_ &ensp;&ensp;~~
-- **历史 《罗马帝国衰亡史 卷一》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;
-- **小说 《白道》**_[图书介绍](https://book.douban.com/subject/5297304/)_ &ensp;&ensp;
+- ~~**历史 《罗马帝国衰亡史 卷一》**_[图书介绍](https://book.douban.com/subject/6428078/)_ &ensp;&ensp;~~
+- ~~**小说 《白道》**_[图书介绍](https://book.douban.com/subject/5297304/)_ &ensp;&ensp;~~
 - **商业 《四步创业法》**_[图书介绍](https://book.douban.com/subject/11516567/)_ &ensp;&ensp;
 
 ### 2024年四季度发布书单 9本
@@ -81,8 +83,8 @@
 - ~~**历史 《信徒的国度》**_[图书介绍](https://book.douban.com/subject/25876615/)_ &ensp;&ensp;~~
 - **社科 《中国文化的深层结构》**_[图书介绍](https://book.douban.com/subject/26607683/)_ &ensp;&ensp;
 - **写作 《创意写作大师课》**_[图书介绍](https://book.douban.com/subject/24840459/)_ &ensp;&ensp;
-- **小说 《白痴》**_[图书介绍](https://book.douban.com/subject/1859108/)_ &ensp;&ensp;
-- **哲学 《理想国》**_[图书介绍](https://book.douban.com/subject/1004821/)_ &ensp;&ensp;
+- ~~**小说 《白痴》**_[图书介绍](https://book.douban.com/subject/1859108/)_ &ensp;&ensp;~~
+- ~~**哲学 《理想国》**_[图书介绍](https://book.douban.com/subject/1004821/)_ &ensp;&ensp;~~
 
 ### 2024年三季度发布书单 19本
 

@@ -14,15 +14,17 @@
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 目前合计379本
+### 目前合计381本
 
-### 2026年二季度发布书单 5本
+### 2026年二季度发布书单 7本
 
 - **经济 《后资本主义时代》.广井良典（e-book）**_[图书介绍](https://book.douban.com/subject/35356471/)_ &ensp;&ensp;
 - **哲学 《查拉图斯特拉如是说》.尼采（e-book）**_[图书介绍](https://book.douban.com/subject/26742940/)_ &ensp;&ensp;
 - **文学 《新月集飞鸟集》.泰戈尔**_[图书介绍](https://book.douban.com/subject/1255326/)_ &ensp;&ensp;
 - **历史 《海洋帝国：地中海大决战》**_[图书介绍](https://book.douban.com/subject/25891321/)_ &ensp;&ensp;
 - **历史 《1453：君士坦丁堡之战》**_[图书介绍](https://book.douban.com/subject/25891318/)_ &ensp;&ensp;
+- **哲学 《次第花开》**_[图书介绍](https://book.douban.com/subject/5450660/)_ &ensp;&ensp;
+- **哲学 《西方哲学史：从苏格拉底到萨特及其后》**_[图书介绍](https://book.douban.com/subject/3389811/)_ &ensp;&ensp;
 
 ### 2026年一季度发布书单 7本
 

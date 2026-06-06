@@ -14,23 +14,25 @@
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 目前合计381本
+### 目前合计383本
 
-### 2026年二季度发布书单 7本
+### 2026年二季度发布书单 9本
 
 - **经济 《后资本主义时代》.广井良典（e-book）**_[图书介绍](https://book.douban.com/subject/35356471/)_ &ensp;&ensp;
 - **哲学 《查拉图斯特拉如是说》.尼采（e-book）**_[图书介绍](https://book.douban.com/subject/26742940/)_ &ensp;&ensp;
 - **文学 《新月集飞鸟集》.泰戈尔**_[图书介绍](https://book.douban.com/subject/1255326/)_ &ensp;&ensp;
-- **历史 《海洋帝国：地中海大决战》**_[图书介绍](https://book.douban.com/subject/25891321/)_ &ensp;&ensp;
-- **历史 《1453：君士坦丁堡之战》**_[图书介绍](https://book.douban.com/subject/25891318/)_ &ensp;&ensp;
+- ~~**历史 《海洋帝国：地中海大决战》**_[图书介绍](https://book.douban.com/subject/25891321/)_ &ensp;&ensp;~~
+- ~~**历史 《1453：君士坦丁堡之战》**_[图书介绍](https://book.douban.com/subject/25891318/)_ &ensp;&ensp;~~
 - **哲学 《次第花开》**_[图书介绍](https://book.douban.com/subject/5450660/)_ &ensp;&ensp;
 - **哲学 《西方哲学史：从苏格拉底到萨特及其后》**_[图书介绍](https://book.douban.com/subject/3389811/)_ &ensp;&ensp;
+- ~~**生活 《简单的艺术》**_[图书介绍](https://book.douban.com/subject/11620497/)_ &ensp;&ensp;~~
+- ~~**设计 《设计准则：成为自己的室内设计师》**_[图书介绍](https://book.douban.com/subject/6722886/)_ &ensp;&ensp;~~
 
 ### 2026年一季度发布书单 7本
 
 - **文学 《人间词话》.王国维**_[图书介绍](https://book.douban.com/subject/3787127/)_ &ensp;&ensp;
 - ~~**古籍 《山海经全译》**_[图书介绍](https://book.douban.com/subject/26889848/)_ &ensp;&ensp;~~
-- **文学 《托尔斯泰与陀思妥耶夫斯基（上下）》**_[图书介绍](https://book.douban.com/subject/4149229/)_ &ensp;&ensp;
+- ~~**文学 《托尔斯泰与陀思妥耶夫斯基（上下）》**_[图书介绍](https://book.douban.com/subject/4149229/)_ &ensp;&ensp;~~
 - **哲学 《存在主义咖啡馆：自由，存在和杏子鸡尾酒》（e-book)**_[图书介绍](https://book.douban.com/subject/27170538/)_ &ensp;&ensp;
 - **商业 《重新定义公司：谷歌是如何运营的》**_[图书介绍](https://book.douban.com/subject/26582822/)_ &ensp;&ensp;
 - **散文 《守望的距离》**_[图书介绍](https://book.douban.com/subject/30133336/)_ &ensp;&ensp;
@@ -38,7 +40,7 @@
 
 ### 2025年四季度发布书单 8本
 
-- **散文 《故都的秋》.郁达夫**_[图书介绍](https://book.douban.com/subject/26772692/)_ &ensp;&ensp;
+- ~~**散文 《故都的秋》.郁达夫**_[图书介绍](https://book.douban.com/subject/26772692/)_ &ensp;&ensp;~~
 - ~~**散文 《爱上了你》.张小娴**_[图书介绍](https://book.douban.com/subject/3045175/)_ &ensp;&ensp;~~
 - ~~**散文 《相逢》.张小娴**_[图书介绍](https://book.douban.com/subject/3081757/)_ &ensp;&ensp;~~
 - **诗歌 《The Complete Poetry of Edgar Allan Poe》**_[图书介绍](https://book.douban.com/subject/3428905/)_ &ensp;&ensp;
@@ -57,7 +59,7 @@
 - **写作 《这样写出好故事》**_[图书介绍](https://book.douban.com/subject/27043711/)_ &ensp;&ensp;
 - ~~**小说 《人世间 卷三》.梁晓声**_[图书介绍](https://book.douban.com/subject/30134582/)_ &ensp;&ensp;~~
 - **经济 《薛兆丰经济学讲义》.薛兆丰**_[图书介绍](https://book.douban.com/subject/30280804/)_ &ensp;&ensp;
-- **历史 《财富之城：威尼斯海洋霸权》**_[图书介绍](https://book.douban.com/subject/26296352/)_ &ensp;&ensp;
+- ~~**历史 《财富之城：威尼斯海洋霸权》**_[图书介绍](https://book.douban.com/subject/26296352/)_ &ensp;&ensp;~~
 
 ### 2025年二季度发布书单 7本
 
@@ -246,11 +248,11 @@
 - ~~**艺术《观看之道》约翰.伯格** _[图书介绍](https://book.douban.com/subject/26427579/)_ &ensp;&ensp;~~
 - ~~**散文《文学履途：漫游在伟大故事诞生之地》** _[图书介绍](https://book.douban.com/subject/30322377/)_ &ensp;&ensp;~~
 - ~~**历史《枪炮、病菌与钢铁》** _[图书介绍](https://book.douban.com/subject/1813841/)_ &ensp;&ensp;~~
-- **人生《甘露与净瓶的对话：圣严法师开示》** _[图书介绍](https://book.douban.com/subject/3167925/)_ &ensp;&ensp;
+- ~~**人生《甘露与净瓶的对话：圣严法师开示》** _[图书介绍](https://book.douban.com/subject/3167925/)_ &ensp;&ensp;~~
 - ~~**小说《外国短篇小说》** _[图书介绍](https://book.douban.com/subject/30163876/)_ &ensp;&ensp;~~
 - ~~**小说《外国短篇小说选》** _[图书介绍](https://book.douban.com/subject/25896512/)_ &ensp;&ensp;~~
 - ~~**小说《芳华》** _[图书介绍](https://book.douban.com/subject/36166774/)_ &ensp;&ensp;~~
-- **散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;
+- ~~**散文《行走中的玫瑰》** _[图书介绍](https://book.douban.com/subject/10537637/)_ &ensp;&ensp;~~
 - ~~**历史《南宋行暮：宋光宗宋宁宗时代》** _[图书介绍](https://book.douban.com/subject/30277466/)_ &ensp;&ensp;~~
 - **纪实《平壤冷面：一位法国记者暗访北韩的见闻纪实》** _[图书介绍](https://book.douban.com/subject/25892571/)_ &ensp;&ensp;
 - **散文《爱情笔记》** _[图书介绍](https://book.douban.com/subject/3669406/)_ &ensp;&ensp;

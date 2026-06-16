@@ -30,6 +30,7 @@
 - **写作 《小说的骨架》**_[图书介绍](https://book.douban.com/subject/27204864/)_ &ensp;&ensp;
 - **散文 《我与地坛》史铁生**_[图书介绍](https://book.douban.com/subject/1209899/)_ &ensp;&ensp;
 - **小说 《占有》A.S.拜厄特**_[图书介绍](https://book.douban.com/subject/11597267/)_ &ensp;&ensp;
+- **方法 《研究设计与写作指导：定性、定量与混合研究的路径》**_[图书介绍](https://book.douban.com/subject/2004495/)_ &ensp;&ensp;
 
 ### 2026年一季度发布书单 7本
 

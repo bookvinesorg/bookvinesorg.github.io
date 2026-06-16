@@ -14,9 +14,9 @@
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 目前合计383本
+### 目前合计386本
 
-### 2026年二季度发布书单 9本
+### 2026年二季度发布书单 12本
 
 - **经济 《后资本主义时代》.广井良典（e-book）**_[图书介绍](https://book.douban.com/subject/35356471/)_ &ensp;&ensp;
 - **哲学 《查拉图斯特拉如是说》.尼采（e-book）**_[图书介绍](https://book.douban.com/subject/26742940/)_ &ensp;&ensp;
@@ -27,6 +27,9 @@
 - **哲学 《西方哲学史：从苏格拉底到萨特及其后》**_[图书介绍](https://book.douban.com/subject/3389811/)_ &ensp;&ensp;
 - ~~**生活 《简单的艺术》**_[图书介绍](https://book.douban.com/subject/11620497/)_ &ensp;&ensp;~~
 - ~~**设计 《设计准则：成为自己的室内设计师》**_[图书介绍](https://book.douban.com/subject/6722886/)_ &ensp;&ensp;~~
+- **写作 《小说的骨架》**_[图书介绍](https://book.douban.com/subject/27204864/)_ &ensp;&ensp;
+- **散文 《我与地坛》史铁生**_[图书介绍](https://book.douban.com/subject/1209899/)_ &ensp;&ensp;
+- **小说 《占有》A.S.拜厄特**_[图书介绍](https://book.douban.com/subject/11597267/)_ &ensp;&ensp;
 
 ### 2026年一季度发布书单 7本
 

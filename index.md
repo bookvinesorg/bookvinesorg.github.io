@@ -14,11 +14,15 @@
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 目前合计388本
+### 合计392本
 
-### 2026年三季度发布书单 1本
+### 2026年三季度发布书单 5本
 
 - **经济 《反脆弱：从不确定性中获益》**_[图书介绍](https://book.douban.com/subject/25782902/)_ &ensp;&ensp;
+- **艺术 《编剧的艺术》**_[图书介绍](https://book.douban.com/subject/22519910/)_ &ensp;&ensp;
+- **艺术 《吉他自学24课》**_[图书介绍](https://book.douban.com/subject/1842962/)_ &ensp;&ensp;
+- **艺术 《巴斯蒂安成人钢琴教程》（第一册）**_[图书介绍](https://book.douban.com/subject/5938866/)_ &ensp;&ensp;
+- **艺术 《拜厄钢琴基本教程》**_[图书介绍](https://book.douban.com/subject/1536776/)_ &ensp;&ensp;
 
 ### 2026年二季度发布书单 13本
 
@@ -27,7 +31,7 @@
 - **文学 《新月集飞鸟集》.泰戈尔**_[图书介绍](https://book.douban.com/subject/1255326/)_ &ensp;&ensp;
 - ~~**历史 《海洋帝国：地中海大决战》**_[图书介绍](https://book.douban.com/subject/25891321/)_ &ensp;&ensp;~~
 - ~~**历史 《1453：君士坦丁堡之战》**_[图书介绍](https://book.douban.com/subject/25891318/)_ &ensp;&ensp;~~
-- **哲学 《次第花开》**_[图书介绍](https://book.douban.com/subject/5450660/)_ &ensp;&ensp;
+- ~~**哲学 《次第花开》**_[图书介绍](https://book.douban.com/subject/5450660/)_ &ensp;&ensp;~~
 - **哲学 《西方哲学史：从苏格拉底到萨特及其后》**_[图书介绍](https://book.douban.com/subject/3389811/)_ &ensp;&ensp;
 - ~~**生活 《简单的艺术》**_[图书介绍](https://book.douban.com/subject/11620497/)_ &ensp;&ensp;~~
 - ~~**设计 《设计准则：成为自己的室内设计师》**_[图书介绍](https://book.douban.com/subject/6722886/)_ &ensp;&ensp;~~

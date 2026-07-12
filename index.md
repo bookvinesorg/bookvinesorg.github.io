@@ -14,15 +14,16 @@
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 合计392本
+### 合计393本
 
-### 2026年三季度发布书单 5本
+### 2026年三季度发布书单 6本
 
 - **经济 《反脆弱：从不确定性中获益》**_[图书介绍](https://book.douban.com/subject/25782902/)_ &ensp;&ensp;
 - **艺术 《编剧的艺术》**_[图书介绍](https://book.douban.com/subject/22519910/)_ &ensp;&ensp;
 - **艺术 《吉他自学24课》**_[图书介绍](https://book.douban.com/subject/1842962/)_ &ensp;&ensp;
 - **艺术 《巴斯蒂安成人钢琴教程》（第一册）**_[图书介绍](https://book.douban.com/subject/5938866/)_ &ensp;&ensp;
 - **艺术 《拜厄钢琴基本教程》**_[图书介绍](https://book.douban.com/subject/1536776/)_ &ensp;&ensp;
+- **国学 《中国人的家风》**_[图书介绍](https://book.douban.com/subject/37163410/)_ &ensp;&ensp;
 
 ### 2026年二季度发布书单 13本
 

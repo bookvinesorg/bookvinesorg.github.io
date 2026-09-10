@@ -24,6 +24,9 @@
 - **艺术 《巴斯蒂安成人钢琴教程》（第一册）**_[图书介绍](https://book.douban.com/subject/5938866/)_ &ensp;&ensp;
 - **艺术 《拜厄钢琴基本教程》**_[图书介绍](https://book.douban.com/subject/1536776/)_ &ensp;&ensp;
 - **国学 《中国人的家风》**_[图书介绍](https://book.douban.com/subject/37163410/)_ &ensp;&ensp;
+- **社科 《旋转的历史：社会运动论》**_[图书介绍](https://book.douban.com/subject/37163410/)_ &ensp;&ensp;
+- **信科 《人工智能：一种现代的方法（第3版）》**_[图书介绍](https://book.douban.com/subject/25796281/)_ &ensp;&ensp;
+- **社科 《午夜的幽光：关于知识分子的札记》**_[图书介绍](https://book.douban.com/subject/6977977/)_ &ensp;&ensp;
 
 ### 2026年二季度发布书单 13本
 

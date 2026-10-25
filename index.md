@@ -27,7 +27,7 @@
 - **艺术 《吉他自学24课》**_[图书介绍](https://book.douban.com/subject/1842962/)_ &ensp;&ensp;
 - **艺术 《巴斯蒂安成人钢琴教程》（第一册）**_[图书介绍](https://book.douban.com/subject/5938866/)_ &ensp;&ensp;
 - **艺术 《拜厄钢琴基本教程》**_[图书介绍](https://book.douban.com/subject/1536776/)_ &ensp;&ensp;
-- **国学 《中国人的家风》**_[图书介绍](https://book.douban.com/subject/37163410/)_ &ensp;&ensp;
+- ~~**国学 《中国人的家风》**_[图书介绍](https://book.douban.com/subject/37163410/)_ &ensp;&ensp;~~
 - **社科 《旋转的历史：社会运动论》**_[图书介绍](https://book.douban.com/subject/37163410/)_ &ensp;&ensp;
 - **信科 《人工智能：一种现代的方法（第3版）》**_[图书介绍](https://book.douban.com/subject/25796281/)_ &ensp;&ensp;
 - **社科 《午夜的幽光：关于知识分子的札记》**_[图书介绍](https://book.douban.com/subject/6977977/)_ &ensp;&ensp;
@@ -45,7 +45,7 @@
 - ~~**设计 《设计准则：成为自己的室内设计师》**_[图书介绍](https://book.douban.com/subject/6722886/)_ &ensp;&ensp;~~
 - **写作 《小说的骨架》**_[图书介绍](https://book.douban.com/subject/27204864/)_ &ensp;&ensp;
 - **散文 《我与地坛》史铁生**_[图书介绍](https://book.douban.com/subject/1209899/)_ &ensp;&ensp;
-- **小说 《占有》A.S.拜厄特**_[图书介绍](https://book.douban.com/subject/11597267/)_ &ensp;&ensp;
+- ~~**小说 《占有》A.S.拜厄特**_[图书介绍](https://book.douban.com/subject/11597267/)_ &ensp;&ensp;~~
 - **方法 《研究设计与写作指导：定性、定量与混合研究的路径》**_[图书介绍](https://book.douban.com/subject/2004495/)_ &ensp;&ensp;
 
 ### 2026年一季度发布书单 7本
@@ -64,7 +64,7 @@
 - ~~**散文 《爱上了你》.张小娴**_[图书介绍](https://book.douban.com/subject/3045175/)_ &ensp;&ensp;~~
 - ~~**散文 《相逢》.张小娴**_[图书介绍](https://book.douban.com/subject/3081757/)_ &ensp;&ensp;~~
 - **诗歌 《The Complete Poetry of Edgar Allan Poe》**_[图书介绍](https://book.douban.com/subject/3428905/)_ &ensp;&ensp;
-- **历史 《耶路撒冷三千年》**_[图书介绍](https://book.douban.com/subject/25886351/)_ &ensp;&ensp;
+- ~~**历史 《耶路撒冷三千年》**_[图书介绍](https://book.douban.com/subject/25886351/)_ &ensp;&ensp;~~
 - ==**文学 《当代汉语散文流变论》**_[图书介绍](https://book.douban.com/subject/1100663/)_== &ensp;&ensp;
 - ~~**散文 《拥抱》.张小娴**_[图书介绍](https://book.douban.com/subject/3099359/)_ &ensp;&ensp;~~
 - ~~**散文 《永不永不说再见》.张小娴**_[图书介绍](https://book.douban.com/subject/3053868/)_ &ensp;&ensp;~~
@@ -118,8 +118,8 @@
 - **写作 《写作是最好的自我投资》** _[图书介绍](https://book.douban.com/subject/30330693/)_ &ensp;&ensp;
 - ~~**小说 《宝水》** _[图书介绍](https://book.douban.com/subject/30330693/)_ &ensp;&ensp;~~
 - ~~**小说 《北上》** _[图书介绍](https://book.douban.com/subject/30302906/)_ &ensp;&ensp;~~
-- **商业 《创新者的窘境》** _[图书介绍](https://book.douban.com/subject/35148452/)_ &ensp;&ensp;
-- **商业 《创新者的基因》** _[图书介绍](https://book.douban.com/subject/20507211/)_ &ensp;&ensp;
+- ~~**商业 《创新者的窘境》** _[图书介绍](https://book.douban.com/subject/35148452/)_ &ensp;&ensp;~~
+- ~~**商业 《创新者的基因》** _[图书介绍](https://book.douban.com/subject/20507211/)_ &ensp;&ensp;~~
 - ~~**小说 《斯巴达克斯》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;~~
 - **商业 《精益创业:新创企业的成长思维》** _[图书介绍](https://book.douban.com/subject/1883871/)_ &ensp;&ensp;
 - **商业 《创业维坚：如何完成比难更难的事》** _[图书介绍](https://book.douban.com/subject/26306686/)_ &ensp;&ensp;
@@ -446,7 +446,7 @@
 - ==**艺术《丑的历史》** _[图书介绍](https://book.douban.com/subject/4579688/)_== &ensp;&ensp;
 - ==**艺术《无限的清单》** _[图书介绍](https://book.douban.com/subject/25697555/)_== &ensp;&ensp;
 - ==**艺术《艺术通史》** _[图书介绍](https://book.douban.com/subject/10430397/)_== &ensp;&ensp;
-- ==**政治《李光耀论中国与世界》** _[图书介绍](https://book.douban.com/subject/25730239/)_== &ensp;&ensp;
+- ~~**政治《李光耀论中国与世界》** _[图书介绍](https://book.douban.com/subject/25730239/)_ &ensp;&ensp;~~
 - ==**传记《独立书店，你好！》** _[图书介绍](https://book.douban.com/subject/6429287/)_== &ensp;&ensp;
 - ==**传记《独立书店，你好！（第二季）》** _[图书介绍](https://book.douban.com/subject/10354834/)_== &ensp;&ensp;
 - ==**建筑《风声水起：风水方家谭》** _[图书介绍](https://book.douban.com/subject/2143461/)_== &ensp;&ensp;

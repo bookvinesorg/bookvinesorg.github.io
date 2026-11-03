@@ -16,9 +16,11 @@
 
 ### 合计396本
 
-### 2026年四季度发布书单 1本
+### 2026年四季度发布书单 3本
 
 - **小说 《主角》**_[图书介绍](https://book.douban.com/subject/30137612/)_ &ensp;&ensp;
+- **写作 《成为作家》**_[图书介绍](https://book.douban.com/subject/5942569/)_ &ensp;&ensp;
+- ~~**艺术 《练琴的艺术：如何用心去演奏》**_[图书介绍](https://book.douban.com/subject/1401013/)_ &ensp;&ensp;~~
 
 ### 2026年三季度发布书单 10本
 

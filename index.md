@@ -14,13 +14,15 @@
 
 - 已读收藏书籍，可跳转至 [书蔓社藏书单](books.md)，以书目分类方式查阅清单  
 
-### 合计398本
+### 合计400本
 
-### 2026年四季度发布书单 3本
+### 2026年四季度发布书单 5本
 
 - **小说 《主角》**_[图书介绍](https://book.douban.com/subject/30137612/)_ &ensp;&ensp;
 - **写作 《成为作家》**_[图书介绍](https://book.douban.com/subject/5942569/)_ &ensp;&ensp;
-- ~~**艺术 《练琴的艺术：如何用心去演奏》**_[图书介绍](https://book.douban.com/subject/1401013/)_ &ensp;&ensp;~~
+- ~~**艺术 《练琴的艺术：如何用心去演奏》**_[图书介绍](https://book.douban.com/subject/1401013/)_ &ensp;&ensp;~
+- **散文 《城南旧事》**_[图书介绍](https://book.douban.com/subject/3676781/)_ &ensp;&ensp;
+- **社科 《影响力》**_[图书介绍](https://book.douban.com/subject/1786387/)_ &ensp;&ensp;
 
 ### 2026年三季度发布书单 10本
 
